@@ -1,0 +1,5001 @@
+Name,Age,Experience (Years),Education Level,Hours Worked per week,Projects Completed,Performance Category
+Ali Khan,50,10,Bachelor,9,10,Poor
+Ayesha Raza,36,31,Bachelor,7,8,Outstanding
+Sara Sheikh,29,6,Bachelor,4,18,Low
+Ali Iqbal,42,10,Bachelor,6,19,Average
+Ali Chaudhry,40,27,High School,5,9,Good
+Bilal Khan,44,22,Master,8,2,Excellent
+Usman Malik,32,22,Bachelor,4,2,Average
+Sara Raza,32,27,Master,8,7,Average
+Amna Chaudhry,45,25,Bachelor,4,5,Good
+Usman Iqbal,57,24,Master,5,19,Low
+Sara Iqbal,45,28,Master,4,0,Poor
+Bilal Raza,24,18,High School,4,19,Excellent
+Hassan Chaudhry,43,32,Bachelor,5,5,Average
+Ayesha Khan,23,13,Bachelor,9,1,Poor
+Ahmed Shah,45,13,Bachelor,8,18,Average
+Fatima Qureshi,51,34,Bachelor,9,6,Low
+Ahmed Raza,59,29,Bachelor,8,10,Poor
+Fatima Malik,23,27,Bachelor,7,10,Low
+Ali Shah,42,16,PhD,8,3,Good
+Ali Ashraf,54,2,High School,8,19,Good
+Fatima Chaudhry,33,15,PhD,4,15,Average
+Ayesha Khan,43,29,Bachelor,7,4,Low
+Hassan Iqbal,46,28,Master,5,6,Good
+Ali Shah,48,14,Bachelor,5,15,Average
+Ali Iqbal,49,24,High School,6,14,Average
+Ayesha Chaudhry,37,22,Master,7,4,Excellent
+Fatima Chaudhry,36,24,Bachelor,4,0,Average
+Sara Malik,24,6,Master,6,19,Average
+Usman Raza,58,21,Bachelor,6,8,Outstanding
+Ayesha Malik,28,16,Bachelor,5,4,Average
+Sara Malik,42,17,Bachelor,8,5,Average
+Bilal Qureshi,30,9,Master,4,2,Average
+Hassan Ashraf,39,9,High School,7,5,Low
+Ahmed Ashraf,25,6,Master,6,7,Good
+Fatima Raza,46,26,Master,4,5,Good
+Ayesha Malik,35,32,High School,5,15,Low
+Zain Sheikh,30,0,High School,6,15,Poor
+Amna Raza,47,33,Master,6,2,Outstanding
+Ahmed Butt,23,3,Bachelor,9,16,Average
+Bilal Qureshi,41,16,Bachelor,5,5,Low
+Amna Raza,49,3,High School,9,5,Average
+Fatima Khan,28,25,Bachelor,5,18,Average
+Sara Khan,29,3,High School,5,19,Low
+Fatima Shah,56,0,Bachelor,9,14,Poor
+Ayesha Malik,35,6,Master,4,18,Good
+Sara Chaudhry,38,29,Bachelor,4,1,Good
+Fatima Raza,57,8,Bachelor,4,7,Average
+Hassan Shah,25,34,PhD,8,6,Poor
+Hassan Sheikh,23,7,Master,6,7,Average
+Ayesha Sheikh,27,23,Master,4,12,Average
+Sara Iqbal,25,18,Bachelor,8,14,Average
+Amna Qureshi,50,26,Master,6,11,Average
+Zain Shah,39,31,High School,4,14,Low
+Zain Shah,47,13,High School,5,13,Average
+Fatima Raza,55,17,Bachelor,7,6,Outstanding
+Ahmed Iqbal,31,27,Bachelor,4,16,Average
+Hassan Malik,57,28,Master,7,4,Average
+Usman Malik,35,15,Bachelor,4,19,Average
+Ahmed Sheikh,52,34,Master,5,9,Average
+Bilal Chaudhry,36,30,Master,7,18,Good
+Ali Shah,29,3,Bachelor,8,17,Average
+Bilal Chaudhry,35,16,Bachelor,5,9,Good
+Hassan Iqbal,44,25,Bachelor,7,1,Low
+Ayesha Iqbal,42,3,Bachelor,7,5,Excellent
+Usman Malik,37,29,High School,9,2,Low
+Amna Qureshi,39,29,PhD,9,18,Poor
+Fatima Malik,45,21,High School,5,4,Low
+Ayesha Shah,47,10,High School,5,6,Low
+Ahmed Butt,46,1,Master,5,6,Average
+Usman Qureshi,50,11,Bachelor,6,9,Average
+Amna Sheikh,36,29,Master,8,0,Good
+Amna Malik,22,17,Bachelor,4,10,Poor
+Ayesha Iqbal,46,25,Bachelor,9,6,Average
+Zain Raza,28,6,Bachelor,7,5,Average
+Ahmed Ashraf,30,0,Bachelor,9,5,Average
+Ahmed Iqbal,45,25,Bachelor,4,12,Poor
+Amna Khan,22,22,Master,5,15,Poor
+Zain Ashraf,29,25,Bachelor,9,12,Average
+Hassan Khan,45,5,PhD,8,1,Good
+Ali Ashraf,32,5,High School,8,18,Good
+Ayesha Raza,38,7,Bachelor,6,18,Poor
+Usman Raza,29,23,Bachelor,9,18,Low
+Zain Malik,56,21,PhD,5,17,Low
+Ali Butt,56,18,High School,7,5,Average
+Ali Iqbal,54,17,Bachelor,6,1,Average
+Ahmed Sheikh,26,30,Master,5,18,Low
+Hassan Iqbal,49,29,Bachelor,6,5,Average
+Ahmed Qureshi,28,32,Master,9,19,Average
+Amna Chaudhry,30,9,High School,4,14,Average
+Bilal Raza,29,11,Master,9,5,Low
+Amna Raza,33,29,PhD,5,2,Average
+Ayesha Shah,55,26,Master,7,10,Average
+Fatima Butt,54,8,Bachelor,7,7,Excellent
+Amna Butt,44,20,High School,5,17,Good
+Ali Raza,45,11,PhD,6,16,Low
+Sara Malik,58,28,Bachelor,8,18,Low
+Fatima Khan,56,32,High School,5,18,Average
+Zain Iqbal,43,14,Master,9,16,Average
+Sara Chaudhry,48,1,Bachelor,7,3,Excellent
+Sara Khan,56,17,High School,4,6,Average
+Ali Khan,22,2,Bachelor,7,4,Excellent
+Sara Malik,56,6,High School,8,15,Average
+Usman Ashraf,58,17,Bachelor,7,5,Excellent
+Ali Iqbal,35,32,Master,8,13,Good
+Sara Qureshi,24,30,Bachelor,5,19,Good
+Hassan Raza,22,10,Master,7,1,Average
+Amna Sheikh,26,3,Master,6,17,Good
+Zain Chaudhry,47,17,Master,9,17,Average
+Hassan Raza,35,3,High School,6,12,Excellent
+Hassan Shah,48,33,Master,9,17,Average
+Sara Malik,30,28,Bachelor,7,16,Average
+Ali Shah,36,23,Bachelor,7,12,Outstanding
+Fatima Shah,36,21,Master,9,11,Excellent
+Bilal Butt,47,1,Bachelor,4,2,Good
+Usman Malik,34,5,PhD,7,6,Average
+Usman Shah,53,24,High School,4,0,Outstanding
+Fatima Malik,53,20,Master,4,4,Good
+Sara Raza,25,15,High School,9,0,Average
+Sara Iqbal,51,30,PhD,4,3,Excellent
+Hassan Sheikh,58,13,High School,4,0,Low
+Bilal Sheikh,44,27,High School,5,12,Low
+Ayesha Butt,36,31,Bachelor,6,13,Average
+Sara Malik,50,27,Bachelor,4,14,Poor
+Hassan Iqbal,57,8,Bachelor,6,16,Good
+Ali Khan,34,21,Bachelor,4,11,Low
+Amna Khan,53,31,Bachelor,6,6,Low
+Ali Raza,28,4,High School,7,18,Average
+Ahmed Shah,43,22,Bachelor,7,2,Average
+Hassan Butt,49,4,Master,6,17,Low
+Sara Shah,23,31,Master,4,3,Poor
+Usman Sheikh,27,9,Master,5,2,Average
+Bilal Khan,49,14,Master,6,11,Good
+Bilal Qureshi,49,6,Bachelor,8,11,Excellent
+Hassan Qureshi,41,28,High School,5,16,Poor
+Bilal Iqbal,51,2,Bachelor,8,5,Average
+Hassan Sheikh,32,18,Master,6,14,Average
+Sara Qureshi,49,9,PhD,4,1,Average
+Sara Khan,46,27,Bachelor,8,7,Excellent
+Zain Iqbal,54,28,High School,6,13,Average
+Usman Ashraf,22,14,High School,5,4,Average
+Usman Khan,48,34,Bachelor,4,2,Low
+Zain Butt,34,5,Bachelor,8,9,Outstanding
+Amna Iqbal,24,11,High School,6,6,Average
+Ahmed Khan,27,12,PhD,4,10,Average
+Amna Malik,29,28,Bachelor,4,14,Average
+Ahmed Malik,48,18,PhD,7,1,Average
+Zain Malik,30,2,Master,4,4,Good
+Sara Shah,58,7,Master,6,10,Poor
+Ali Chaudhry,54,7,Master,5,7,Good
+Sara Chaudhry,45,19,Master,9,12,Average
+Zain Khan,36,3,Master,7,10,Low
+Zain Malik,53,20,Master,6,16,Low
+Bilal Chaudhry,53,2,Bachelor,6,14,Good
+Zain Iqbal,45,7,PhD,6,0,Average
+Fatima Qureshi,33,22,Master,8,18,Average
+Sara Ashraf,23,15,Master,8,15,Poor
+Sara Qureshi,24,12,Master,5,18,Good
+Bilal Sheikh,58,2,Bachelor,6,12,Excellent
+Ayesha Butt,38,8,High School,8,3,Good
+Fatima Malik,23,13,Bachelor,8,10,Average
+Usman Butt,23,12,Bachelor,8,17,Average
+Zain Chaudhry,49,6,Master,5,17,Low
+Ali Malik,44,14,Bachelor,5,9,Low
+Amna Raza,58,6,Bachelor,6,16,Good
+Amna Qureshi,53,33,Bachelor,7,12,Good
+Ahmed Ashraf,54,21,High School,6,13,Good
+Ali Raza,22,23,Master,8,6,Average
+Fatima Qureshi,40,0,Master,9,9,Excellent
+Ahmed Butt,23,9,Bachelor,8,2,Excellent
+Amna Qureshi,47,15,Bachelor,4,1,Average
+Zain Iqbal,53,7,Bachelor,9,18,Low
+Usman Iqbal,27,24,Bachelor,9,6,Average
+Ayesha Malik,53,11,High School,6,4,Low
+Ahmed Qureshi,25,24,PhD,8,2,Excellent
+Ali Malik,32,16,Bachelor,8,1,Average
+Amna Sheikh,38,25,Bachelor,7,5,Average
+Ayesha Qureshi,59,13,Bachelor,4,13,Average
+Zain Raza,45,22,Master,6,6,Average
+Fatima Raza,26,5,Master,5,1,Low
+Ayesha Iqbal,55,4,Master,6,10,Outstanding
+Hassan Qureshi,27,24,High School,9,2,Low
+Usman Malik,43,17,Master,6,8,Good
+Bilal Qureshi,32,12,Bachelor,7,7,Good
+Usman Khan,37,13,Bachelor,6,10,Low
+Fatima Sheikh,54,27,Bachelor,7,17,Excellent
+Ayesha Sheikh,30,17,Bachelor,9,0,Average
+Hassan Iqbal,27,27,Master,7,14,Average
+Bilal Iqbal,37,26,PhD,8,3,Average
+Usman Malik,50,31,Bachelor,5,3,Average
+Ali Sheikh,24,8,Master,9,9,Low
+Amna Khan,41,31,Master,7,10,Good
+Fatima Chaudhry,57,19,PhD,4,17,Average
+Amna Sheikh,40,27,Bachelor,9,14,Low
+Bilal Sheikh,47,32,Bachelor,4,2,Good
+Usman Qureshi,24,3,Bachelor,5,6,Good
+Fatima Khan,40,33,Master,7,6,Average
+Fatima Raza,41,2,High School,9,16,Poor
+Sara Malik,53,25,Bachelor,9,19,Average
+Fatima Iqbal,28,7,Bachelor,5,15,Poor
+Bilal Chaudhry,54,5,Bachelor,8,15,Average
+Ahmed Raza,39,15,Master,4,7,Excellent
+Ahmed Sheikh,22,23,Master,9,2,Poor
+Bilal Khan,32,29,Master,6,19,Average
+Ahmed Ashraf,49,12,Master,4,14,Good
+Bilal Raza,46,4,Bachelor,7,0,Poor
+Ayesha Sheikh,44,24,Bachelor,5,9,Poor
+Ali Shah,52,19,Bachelor,4,1,Average
+Usman Butt,51,17,High School,6,6,Good
+Sara Raza,56,17,Bachelor,6,13,Good
+Hassan Ashraf,28,1,Master,5,15,Good
+Ayesha Raza,37,9,Bachelor,5,14,Average
+Sara Khan,47,11,Master,4,6,Excellent
+Sara Shah,23,12,Bachelor,7,12,Poor
+Fatima Qureshi,22,10,High School,8,9,Average
+Ali Qureshi,33,18,High School,6,8,Average
+Fatima Iqbal,26,34,Bachelor,5,8,Low
+Bilal Iqbal,58,25,Bachelor,8,5,Average
+Fatima Khan,53,13,High School,8,11,Average
+Ali Qureshi,30,23,Bachelor,8,19,Average
+Ahmed Chaudhry,56,0,Bachelor,7,19,Average
+Ayesha Khan,40,21,Bachelor,5,13,Good
+Ali Chaudhry,37,22,Master,6,19,Good
+Bilal Ashraf,24,18,Master,5,6,Average
+Fatima Shah,41,17,Bachelor,4,7,Average
+Zain Iqbal,45,11,Master,6,7,Average
+Ali Shah,54,27,Master,5,7,Low
+Zain Raza,45,27,Master,6,1,Good
+Ayesha Khan,32,32,Bachelor,4,13,Poor
+Bilal Khan,29,18,High School,9,9,Low
+Amna Iqbal,57,27,Master,6,17,Low
+Sara Ashraf,59,25,Bachelor,9,17,Good
+Bilal Malik,41,34,PhD,8,17,Poor
+Fatima Chaudhry,56,33,Master,7,15,Good
+Fatima Malik,46,34,Bachelor,4,19,Poor
+Ayesha Iqbal,56,15,Bachelor,6,4,Good
+Ayesha Shah,46,12,Bachelor,4,19,Excellent
+Fatima Shah,50,22,Bachelor,8,4,Average
+Ayesha Iqbal,39,21,Bachelor,9,19,Good
+Ahmed Raza,39,15,Bachelor,7,9,Good
+Bilal Shah,23,27,Bachelor,4,16,Good
+Ahmed Chaudhry,56,34,Bachelor,9,12,Good
+Zain Qureshi,37,7,PhD,8,16,Low
+Bilal Iqbal,57,21,High School,8,17,Average
+Usman Qureshi,54,20,PhD,8,12,Outstanding
+Ayesha Raza,25,25,PhD,9,16,Average
+Bilal Chaudhry,54,20,Bachelor,6,14,Outstanding
+Zain Ashraf,35,24,Master,5,11,Average
+Hassan Butt,42,0,Bachelor,4,9,Average
+Hassan Raza,41,5,Master,5,12,Good
+Amna Butt,29,22,Bachelor,8,10,Good
+Ahmed Malik,28,22,Bachelor,5,2,Average
+Ayesha Iqbal,24,22,Bachelor,9,9,Poor
+Zain Ashraf,38,31,Bachelor,8,10,Good
+Ali Raza,54,29,Bachelor,8,5,Outstanding
+Ayesha Raza,33,12,Bachelor,7,0,Average
+Sara Sheikh,43,17,Bachelor,7,5,Low
+Usman Khan,43,22,High School,9,4,Low
+Sara Butt,51,14,High School,9,6,Excellent
+Zain Malik,59,32,Bachelor,5,11,Poor
+Hassan Shah,59,20,High School,4,11,Average
+Zain Raza,29,22,High School,5,6,Low
+Bilal Butt,48,26,Master,9,1,Average
+Bilal Raza,48,17,High School,4,0,Average
+Ahmed Khan,55,23,Master,5,17,Low
+Ali Shah,42,6,Bachelor,6,11,Good
+Sara Sheikh,51,19,Master,6,6,Average
+Amna Butt,54,26,Bachelor,4,18,Average
+Usman Iqbal,49,5,Bachelor,7,2,Average
+Sara Malik,54,26,Bachelor,4,9,Excellent
+Hassan Sheikh,26,8,Bachelor,5,10,Good
+Hassan Iqbal,40,30,Bachelor,8,4,Poor
+Amna Chaudhry,25,20,High School,6,1,Poor
+Fatima Butt,56,25,PhD,8,7,Average
+Zain Iqbal,38,12,Bachelor,6,13,Excellent
+Bilal Iqbal,49,22,Bachelor,5,7,Average
+Hassan Sheikh,51,19,Master,6,5,Low
+Hassan Butt,50,27,Bachelor,4,0,Good
+Ayesha Raza,27,16,Master,8,0,Average
+Ayesha Iqbal,56,27,Bachelor,9,7,Average
+Hassan Raza,58,1,Master,8,10,Low
+Ayesha Butt,45,24,High School,5,17,Low
+Ali Qureshi,50,5,Master,9,9,Average
+Sara Qureshi,52,10,Master,8,11,Low
+Fatima Ashraf,56,5,Bachelor,5,19,Outstanding
+Amna Malik,54,10,High School,7,15,Poor
+Ahmed Sheikh,42,13,Bachelor,4,4,Average
+Sara Shah,53,1,PhD,6,15,Average
+Ahmed Raza,44,2,Bachelor,6,11,Average
+Ali Shah,54,34,Bachelor,6,5,Excellent
+Bilal Ashraf,24,32,High School,7,4,Good
+Amna Butt,39,23,Bachelor,4,0,Outstanding
+Bilal Khan,46,18,Bachelor,8,18,Low
+Sara Shah,52,17,PhD,8,9,Poor
+Bilal Chaudhry,24,23,Bachelor,4,13,Low
+Usman Chaudhry,45,34,Master,9,2,Average
+Bilal Butt,53,0,Bachelor,4,5,Average
+Usman Ashraf,43,24,High School,6,4,Excellent
+Ayesha Shah,44,33,Bachelor,8,16,Average
+Bilal Iqbal,23,24,Bachelor,4,17,Excellent
+Amna Chaudhry,48,15,PhD,8,11,Average
+Sara Butt,23,33,Master,4,4,Average
+Sara Qureshi,47,28,Bachelor,5,8,Average
+Bilal Butt,38,18,Bachelor,6,11,Low
+Usman Shah,54,22,Bachelor,4,19,Excellent
+Fatima Shah,30,18,PhD,7,8,Low
+Ahmed Butt,50,24,Master,4,2,Good
+Ahmed Chaudhry,47,15,Master,5,0,Average
+Amna Khan,56,8,Bachelor,7,14,Excellent
+Bilal Chaudhry,46,0,Bachelor,7,9,Good
+Zain Khan,45,18,Bachelor,4,13,Average
+Ali Shah,34,32,Bachelor,5,6,Average
+Ahmed Butt,28,33,Bachelor,7,3,Poor
+Ahmed Khan,57,15,High School,6,4,Average
+Ayesha Shah,41,17,High School,9,19,Poor
+Fatima Raza,22,33,Master,6,15,Average
+Hassan Ashraf,29,24,Master,8,2,Low
+Fatima Shah,37,5,Bachelor,8,16,Outstanding
+Ayesha Shah,35,20,Bachelor,5,12,Average
+Ayesha Malik,33,5,Bachelor,7,5,Excellent
+Hassan Khan,44,31,Master,6,4,Poor
+Amna Khan,36,30,Master,6,15,Average
+Fatima Raza,49,9,Master,9,10,Average
+Ali Khan,55,29,Master,5,16,Average
+Usman Raza,23,17,Bachelor,7,4,Excellent
+Sara Khan,53,23,Bachelor,5,5,Outstanding
+Zain Sheikh,44,8,Bachelor,4,9,Low
+Sara Sheikh,43,30,Bachelor,6,0,Excellent
+Hassan Malik,46,14,Master,5,9,Good
+Zain Raza,43,3,Bachelor,5,16,Outstanding
+Hassan Qureshi,43,8,High School,9,2,Average
+Fatima Sheikh,27,8,Bachelor,4,1,Outstanding
+Zain Chaudhry,36,25,PhD,8,16,Excellent
+Ali Sheikh,58,3,Bachelor,6,3,Low
+Ayesha Malik,54,16,Master,9,1,Average
+Zain Khan,29,15,Bachelor,5,4,Low
+Ayesha Chaudhry,26,14,High School,6,9,Average
+Bilal Shah,25,34,Bachelor,8,0,Good
+Sara Malik,27,4,Master,5,0,Good
+Zain Raza,53,4,Bachelor,4,3,Good
+Ali Qureshi,51,19,Master,6,6,Average
+Zain Malik,56,14,Bachelor,9,13,Low
+Zain Khan,37,17,High School,4,13,Low
+Fatima Iqbal,34,1,PhD,8,17,Good
+Bilal Ashraf,51,28,Bachelor,8,1,Low
+Ali Iqbal,40,12,Bachelor,6,0,Low
+Fatima Khan,38,3,Master,8,15,Average
+Bilal Butt,40,9,Bachelor,7,17,Poor
+Ali Shah,49,30,Master,9,15,Low
+Fatima Butt,47,7,High School,6,5,Low
+Ahmed Shah,58,2,Bachelor,7,9,Outstanding
+Ahmed Iqbal,47,8,High School,8,1,Low
+Ayesha Chaudhry,44,29,Master,6,6,Excellent
+Amna Butt,30,10,Bachelor,7,16,Low
+Hassan Shah,33,34,Master,8,2,Excellent
+Zain Qureshi,22,12,PhD,5,19,Average
+Fatima Raza,22,12,Bachelor,5,11,Good
+Ali Qureshi,55,11,Bachelor,4,1,Excellent
+Hassan Raza,53,9,Bachelor,5,6,Average
+Hassan Chaudhry,46,8,Bachelor,7,16,Excellent
+Zain Shah,22,6,Bachelor,9,18,Average
+Fatima Khan,37,1,Master,5,11,Good
+Hassan Ashraf,26,22,PhD,6,8,Average
+Ahmed Butt,43,20,PhD,6,13,Excellent
+Sara Ashraf,50,22,Master,6,1,Good
+Ayesha Ashraf,24,28,Master,5,3,Low
+Ayesha Chaudhry,33,13,Bachelor,5,18,Average
+Ayesha Iqbal,47,25,Master,4,15,Excellent
+Usman Iqbal,37,4,Master,9,16,Good
+Sara Malik,58,30,Bachelor,9,1,Outstanding
+Sara Shah,43,24,PhD,8,16,Low
+Hassan Iqbal,50,30,Bachelor,4,18,Average
+Sara Butt,35,19,Master,7,7,Average
+Hassan Butt,49,16,Master,6,19,Low
+Usman Malik,26,1,PhD,5,5,Average
+Ayesha Raza,51,24,Bachelor,8,11,Average
+Bilal Raza,26,12,Master,8,17,Low
+Ayesha Chaudhry,33,27,Bachelor,5,1,Average
+Fatima Butt,37,5,Bachelor,4,18,Low
+Amna Iqbal,47,2,Master,8,9,Good
+Fatima Shah,47,34,Bachelor,9,2,Average
+Amna Ashraf,42,17,Master,4,11,Low
+Fatima Butt,57,10,Bachelor,5,15,Average
+Ayesha Qureshi,54,19,Bachelor,4,11,Poor
+Ayesha Raza,51,4,Master,9,7,Excellent
+Ali Raza,58,18,Bachelor,6,4,Average
+Fatima Malik,44,21,Bachelor,5,10,Excellent
+Amna Sheikh,31,18,PhD,9,9,Average
+Sara Raza,26,15,Bachelor,5,2,Excellent
+Hassan Qureshi,57,23,Master,9,8,Low
+Zain Iqbal,55,3,Bachelor,9,11,Low
+Zain Qureshi,52,14,Bachelor,8,5,Good
+Ali Raza,31,24,Bachelor,8,18,Low
+Ayesha Raza,40,34,Bachelor,8,15,Good
+Fatima Sheikh,53,13,Bachelor,6,13,Average
+Ayesha Khan,22,18,Bachelor,6,3,Good
+Amna Sheikh,26,6,Bachelor,9,17,Excellent
+Ayesha Khan,25,29,High School,7,9,Outstanding
+Usman Iqbal,37,18,Bachelor,5,17,Average
+Ayesha Sheikh,45,24,Bachelor,8,11,Average
+Hassan Malik,37,15,High School,5,18,Outstanding
+Usman Chaudhry,23,7,PhD,9,7,Excellent
+Ayesha Butt,49,17,Master,4,0,Poor
+Hassan Butt,53,27,Master,9,13,Average
+Fatima Sheikh,48,15,Bachelor,6,5,Low
+Usman Qureshi,41,18,PhD,7,13,Outstanding
+Hassan Malik,45,16,Master,4,1,Low
+Ali Shah,33,12,Master,5,8,Average
+Hassan Malik,56,6,Bachelor,6,11,Good
+Zain Khan,54,26,PhD,8,4,Excellent
+Ahmed Sheikh,54,9,Master,4,1,Good
+Zain Qureshi,58,33,Master,6,18,Low
+Ali Raza,33,24,Bachelor,5,6,Average
+Ali Iqbal,24,5,Bachelor,9,6,Outstanding
+Bilal Chaudhry,22,23,Bachelor,5,9,Good
+Zain Chaudhry,54,17,Bachelor,4,16,Good
+Sara Iqbal,31,22,Master,4,13,Good
+Bilal Butt,50,5,High School,9,10,Average
+Hassan Qureshi,34,28,High School,4,19,Good
+Zain Shah,33,24,Bachelor,7,5,Low
+Ayesha Chaudhry,52,16,Bachelor,8,7,Average
+Zain Khan,23,23,Bachelor,6,18,Excellent
+Zain Malik,56,10,Master,9,18,Poor
+Sara Raza,44,25,Bachelor,5,16,Average
+Ayesha Malik,38,33,High School,5,17,Average
+Ahmed Raza,47,27,Bachelor,8,11,Low
+Ahmed Iqbal,29,2,Bachelor,4,8,Good
+Ali Sheikh,50,10,High School,4,15,Good
+Usman Shah,47,13,Master,5,17,Low
+Hassan Chaudhry,31,25,Master,8,15,Average
+Hassan Qureshi,47,20,Master,5,15,Average
+Usman Raza,55,29,Master,4,3,Low
+Ayesha Qureshi,28,7,High School,9,6,Good
+Hassan Malik,25,19,PhD,6,0,Average
+Sara Qureshi,32,31,Master,4,19,Good
+Zain Raza,50,21,PhD,9,0,Low
+Bilal Malik,57,6,High School,6,7,Average
+Amna Raza,46,8,PhD,7,7,Poor
+Ahmed Qureshi,42,0,Master,8,9,Low
+Ahmed Malik,57,28,Master,9,0,Excellent
+Usman Sheikh,31,7,High School,7,13,Low
+Ayesha Chaudhry,58,3,Master,4,13,Poor
+Zain Qureshi,30,34,PhD,8,9,Excellent
+Hassan Malik,45,2,Master,9,18,Average
+Hassan Qureshi,56,6,Bachelor,4,15,Low
+Bilal Qureshi,56,26,PhD,8,8,Outstanding
+Amna Iqbal,57,0,Bachelor,8,19,Low
+Hassan Butt,39,26,Bachelor,4,15,Good
+Ali Chaudhry,53,15,Bachelor,4,19,Poor
+Usman Shah,45,6,PhD,9,7,Average
+Fatima Chaudhry,44,22,High School,8,6,Average
+Ayesha Khan,53,10,Bachelor,9,10,Low
+Ali Raza,58,32,Master,8,5,Average
+Zain Chaudhry,33,16,Master,9,14,Average
+Usman Qureshi,34,34,Bachelor,4,18,Good
+Zain Khan,44,4,PhD,4,13,Excellent
+Ahmed Butt,46,31,PhD,5,14,Average
+Amna Butt,56,2,High School,9,5,Average
+Ayesha Sheikh,51,34,Bachelor,5,9,Average
+Zain Shah,38,13,High School,5,13,Good
+Hassan Malik,41,30,Bachelor,7,15,Average
+Hassan Ashraf,46,30,Bachelor,8,12,Average
+Bilal Ashraf,43,16,PhD,6,10,Average
+Fatima Malik,34,23,Master,7,2,Outstanding
+Ahmed Ashraf,40,22,High School,8,7,Average
+Bilal Butt,57,17,High School,6,2,Low
+Ayesha Shah,33,13,Bachelor,5,1,Average
+Amna Khan,40,14,Bachelor,6,13,Good
+Hassan Malik,33,14,Bachelor,4,19,Excellent
+Fatima Qureshi,30,5,Master,4,14,Good
+Fatima Malik,28,26,PhD,9,2,Excellent
+Bilal Iqbal,49,14,Bachelor,8,0,Average
+Usman Iqbal,35,7,Master,7,14,Average
+Hassan Shah,52,14,Bachelor,5,19,Good
+Usman Raza,40,2,Master,8,1,Average
+Amna Ashraf,37,12,Bachelor,5,17,Average
+Zain Butt,26,33,High School,4,0,Good
+Hassan Khan,56,23,PhD,7,8,Good
+Sara Qureshi,33,31,Bachelor,7,2,Outstanding
+Amna Sheikh,46,31,Master,4,1,Outstanding
+Ayesha Butt,42,29,Bachelor,6,3,Low
+Hassan Malik,57,12,High School,7,15,Excellent
+Usman Chaudhry,44,0,High School,6,0,Poor
+Sara Sheikh,37,33,Bachelor,5,8,Good
+Ayesha Iqbal,35,14,Master,7,7,Low
+Usman Iqbal,52,13,Bachelor,9,5,Average
+Bilal Malik,26,28,Master,4,19,Excellent
+Sara Malik,56,33,Master,6,17,Average
+Hassan Malik,44,17,Master,9,15,Good
+Ahmed Butt,50,6,Bachelor,5,7,Low
+Ayesha Iqbal,32,28,PhD,5,3,Poor
+Ayesha Shah,39,30,Bachelor,7,2,Average
+Hassan Butt,33,24,Bachelor,7,14,Average
+Sara Butt,30,13,Bachelor,9,5,Low
+Amna Sheikh,31,7,Bachelor,8,0,Average
+Bilal Raza,38,26,High School,8,17,Good
+Zain Iqbal,59,1,Master,7,10,Low
+Ahmed Malik,28,16,Bachelor,8,2,Average
+Ayesha Shah,34,13,Bachelor,4,12,Excellent
+Fatima Iqbal,30,24,Master,9,16,Average
+Ayesha Khan,48,29,Bachelor,4,17,Average
+Ayesha Qureshi,23,28,Bachelor,8,13,Good
+Zain Chaudhry,26,19,Bachelor,7,6,Good
+Hassan Sheikh,50,20,Master,4,6,Good
+Hassan Iqbal,58,21,High School,5,13,Outstanding
+Hassan Ashraf,59,34,Bachelor,7,14,Poor
+Fatima Iqbal,40,15,Bachelor,9,11,Outstanding
+Amna Shah,29,16,Master,6,11,Outstanding
+Hassan Ashraf,22,15,Master,6,7,Excellent
+Sara Raza,43,1,Master,7,15,Average
+Zain Shah,38,3,High School,8,8,Excellent
+Sara Shah,28,20,Bachelor,4,1,Low
+Usman Ashraf,46,33,Bachelor,4,13,Good
+Hassan Shah,25,29,High School,7,15,Low
+Bilal Sheikh,57,5,Bachelor,5,4,Good
+Hassan Khan,27,16,Bachelor,9,4,Average
+Ahmed Iqbal,52,24,Bachelor,8,19,Poor
+Zain Ashraf,40,4,Master,5,17,Excellent
+Ali Butt,48,4,Bachelor,7,17,Average
+Ali Iqbal,31,19,Master,7,4,Good
+Hassan Khan,47,15,Bachelor,5,10,Average
+Ahmed Shah,40,8,Bachelor,6,12,Excellent
+Ahmed Malik,24,4,Bachelor,7,2,Average
+Hassan Qureshi,34,1,High School,9,16,Average
+Fatima Chaudhry,49,8,High School,8,17,Average
+Bilal Malik,41,21,Bachelor,5,13,Good
+Fatima Iqbal,49,21,PhD,6,11,Good
+Bilal Ashraf,29,21,Master,5,13,Average
+Hassan Iqbal,22,33,High School,6,17,Average
+Usman Chaudhry,24,28,Master,6,19,Average
+Ali Raza,34,32,Master,9,1,Excellent
+Ayesha Raza,49,17,Master,8,6,Good
+Ali Shah,46,6,Master,7,14,Average
+Ali Malik,54,0,Bachelor,6,9,Average
+Hassan Sheikh,59,32,Bachelor,7,14,Average
+Ayesha Khan,27,0,Bachelor,8,16,Excellent
+Usman Ashraf,53,23,Bachelor,7,10,Poor
+Usman Qureshi,42,3,Bachelor,9,1,Good
+Fatima Ashraf,37,3,Bachelor,9,17,Average
+Bilal Sheikh,42,17,PhD,4,3,Low
+Sara Iqbal,32,26,PhD,9,8,Poor
+Bilal Chaudhry,58,31,Master,6,16,Excellent
+Ahmed Sheikh,57,32,Master,8,16,Excellent
+Ahmed Malik,56,27,PhD,9,16,Poor
+Zain Shah,40,5,High School,5,15,Average
+Zain Raza,41,15,Bachelor,8,19,Low
+Hassan Chaudhry,39,33,Bachelor,6,7,Good
+Ahmed Raza,35,22,Master,8,14,Good
+Hassan Qureshi,36,23,Bachelor,9,0,Average
+Hassan Qureshi,52,12,Master,5,18,Low
+Usman Butt,22,17,High School,4,14,Good
+Ayesha Iqbal,24,12,Bachelor,6,8,Good
+Ahmed Malik,37,16,Master,6,4,Poor
+Hassan Ashraf,44,14,Bachelor,8,15,Average
+Zain Qureshi,32,17,Bachelor,7,12,Good
+Bilal Qureshi,33,22,Bachelor,7,15,Average
+Hassan Qureshi,31,29,Bachelor,5,10,Average
+Sara Shah,53,33,Master,4,12,Average
+Hassan Malik,37,3,Bachelor,4,5,Average
+Sara Shah,29,2,Bachelor,8,19,Average
+Zain Ashraf,59,6,High School,8,16,Outstanding
+Zain Qureshi,33,17,Master,7,4,Low
+Ayesha Khan,45,6,Bachelor,9,16,Average
+Bilal Qureshi,49,5,Master,4,0,Low
+Usman Chaudhry,29,21,Master,9,4,Low
+Usman Chaudhry,49,0,Bachelor,4,4,Good
+Hassan Qureshi,57,3,Master,9,6,Excellent
+Sara Chaudhry,47,28,Master,9,15,Low
+Fatima Raza,29,20,Bachelor,4,17,Outstanding
+Sara Chaudhry,49,25,Bachelor,5,5,Average
+Ayesha Sheikh,49,13,PhD,5,1,Average
+Ali Khan,58,8,Master,8,12,Low
+Ayesha Butt,57,11,Bachelor,9,9,Average
+Usman Chaudhry,48,5,Bachelor,9,19,Average
+Fatima Sheikh,38,19,Master,9,10,Average
+Ali Qureshi,30,23,Master,9,1,Average
+Fatima Shah,54,26,Master,9,7,Average
+Ahmed Raza,41,7,Bachelor,7,18,Average
+Ahmed Iqbal,34,0,Master,6,19,Average
+Fatima Iqbal,49,23,Bachelor,9,16,Excellent
+Amna Qureshi,50,6,Bachelor,7,15,Good
+Ahmed Qureshi,34,18,Master,5,9,Low
+Hassan Qureshi,56,21,PhD,9,4,Average
+Fatima Malik,27,34,Bachelor,5,13,Good
+Hassan Malik,39,29,Bachelor,8,18,Low
+Ahmed Raza,26,28,Master,6,3,Good
+Bilal Iqbal,46,21,Bachelor,4,19,Average
+Fatima Malik,23,10,Master,6,15,Average
+Bilal Khan,31,19,Master,9,14,Average
+Ayesha Iqbal,51,28,High School,9,8,Outstanding
+Ali Butt,26,33,PhD,6,2,Excellent
+Fatima Qureshi,54,0,Master,6,8,Excellent
+Zain Shah,22,30,Master,8,17,Low
+Fatima Malik,39,29,Master,5,3,Good
+Sara Butt,53,17,Master,4,18,Average
+Usman Chaudhry,32,16,High School,6,3,Good
+Amna Ashraf,42,13,Bachelor,4,8,Low
+Zain Raza,47,22,Master,6,0,Good
+Ali Butt,46,24,Bachelor,5,0,Excellent
+Ayesha Shah,43,14,High School,4,19,Average
+Ali Sheikh,48,21,Master,7,18,Low
+Usman Khan,34,2,Master,5,2,Low
+Ayesha Butt,54,18,Bachelor,4,9,Average
+Ali Malik,55,33,Master,6,11,Average
+Sara Iqbal,56,34,Master,6,17,Good
+Ahmed Shah,22,0,Bachelor,5,13,Average
+Hassan Ashraf,42,20,Master,5,9,Average
+Amna Shah,27,28,Bachelor,6,9,Average
+Zain Sheikh,49,5,Bachelor,4,17,Average
+Bilal Malik,38,0,Bachelor,7,0,Average
+Hassan Chaudhry,26,0,Bachelor,8,14,Low
+Bilal Qureshi,52,26,Bachelor,5,7,Average
+Usman Ashraf,26,20,Master,6,2,Low
+Sara Butt,59,15,Master,4,17,Good
+Hassan Raza,24,25,Bachelor,5,8,Low
+Fatima Malik,44,15,Master,4,15,Outstanding
+Fatima Iqbal,58,27,Bachelor,5,14,Good
+Fatima Khan,58,0,High School,6,4,Average
+Bilal Qureshi,31,9,Master,4,12,Average
+Sara Malik,31,16,High School,6,19,Average
+Hassan Malik,40,22,Bachelor,4,6,Good
+Sara Chaudhry,38,6,Master,5,15,Average
+Usman Khan,42,6,Bachelor,8,6,Good
+Fatima Raza,35,14,Master,8,15,Poor
+Ahmed Chaudhry,30,33,Bachelor,7,12,Low
+Sara Malik,22,3,High School,7,16,Average
+Amna Raza,34,13,Bachelor,9,8,Low
+Zain Raza,25,13,Bachelor,6,11,Average
+Sara Ashraf,22,15,Bachelor,4,12,Poor
+Ahmed Chaudhry,53,6,Bachelor,7,8,Excellent
+Usman Qureshi,55,31,Master,5,4,Good
+Ahmed Sheikh,49,18,PhD,8,6,Low
+Amna Qureshi,52,1,Bachelor,4,0,Average
+Ahmed Malik,29,9,Bachelor,9,3,Average
+Usman Sheikh,47,16,Bachelor,8,3,Good
+Usman Ashraf,55,11,PhD,4,15,Average
+Sara Chaudhry,24,5,PhD,7,4,Poor
+Fatima Khan,33,21,Bachelor,7,3,Average
+Ahmed Qureshi,22,31,Master,6,5,Average
+Usman Sheikh,26,19,Bachelor,9,2,Outstanding
+Bilal Iqbal,51,0,High School,4,7,Excellent
+Ali Malik,51,5,High School,9,16,Low
+Hassan Butt,38,18,Bachelor,5,17,Good
+Fatima Iqbal,44,17,Bachelor,9,17,Excellent
+Zain Malik,36,5,High School,7,11,Poor
+Hassan Iqbal,58,32,Master,6,0,Good
+Sara Chaudhry,42,22,Bachelor,7,11,Average
+Usman Iqbal,35,22,Bachelor,8,10,Good
+Ayesha Butt,23,25,Bachelor,7,12,Average
+Usman Khan,32,12,Bachelor,4,2,Outstanding
+Hassan Shah,59,6,Bachelor,6,7,Average
+Bilal Malik,55,14,Bachelor,4,2,Good
+Hassan Butt,59,26,Bachelor,5,16,Low
+Ali Malik,55,25,Bachelor,5,12,Average
+Fatima Chaudhry,39,32,Bachelor,7,9,Outstanding
+Ahmed Malik,51,14,Bachelor,6,16,Good
+Ahmed Qureshi,36,26,Master,9,2,Average
+Zain Chaudhry,48,4,Master,6,12,Average
+Amna Ashraf,55,1,High School,6,5,Poor
+Bilal Chaudhry,59,32,Bachelor,6,13,Average
+Amna Qureshi,54,15,High School,7,9,Good
+Hassan Iqbal,45,22,Bachelor,4,19,Average
+Zain Shah,36,15,Bachelor,7,15,Average
+Ali Malik,51,13,Bachelor,9,17,Good
+Amna Raza,38,28,Bachelor,4,12,Average
+Bilal Butt,26,25,PhD,9,9,Poor
+Sara Shah,50,34,Bachelor,8,5,Average
+Fatima Butt,25,14,Bachelor,8,9,Excellent
+Bilal Shah,31,2,Bachelor,4,4,Excellent
+Ali Ashraf,38,22,PhD,7,5,Average
+Bilal Ashraf,31,28,Master,9,6,Poor
+Ayesha Ashraf,38,33,Bachelor,9,10,Average
+Ahmed Butt,41,32,Master,5,15,Good
+Ali Malik,45,22,Bachelor,9,11,Average
+Ali Malik,26,6,Master,7,11,Average
+Bilal Malik,55,2,Master,5,19,Outstanding
+Fatima Sheikh,27,31,Bachelor,7,4,Average
+Amna Khan,23,30,Master,6,15,Average
+Zain Iqbal,34,17,Bachelor,9,5,Average
+Amna Ashraf,32,6,Bachelor,6,8,Low
+Ali Shah,44,0,Bachelor,8,4,Low
+Fatima Shah,37,13,Master,8,15,Excellent
+Usman Qureshi,52,31,Bachelor,4,17,Low
+Zain Qureshi,32,5,High School,9,18,Average
+Fatima Malik,37,9,Master,5,11,Average
+Zain Iqbal,29,6,Bachelor,6,1,Excellent
+Sara Sheikh,25,25,High School,7,9,Good
+Hassan Raza,25,33,Bachelor,9,11,Poor
+Ali Ashraf,46,29,Bachelor,4,13,Good
+Amna Ashraf,24,20,Bachelor,7,17,Average
+Ali Qureshi,53,16,High School,6,18,Average
+Zain Raza,24,32,PhD,9,5,Good
+Bilal Iqbal,48,9,Master,6,4,Low
+Zain Chaudhry,50,11,Bachelor,9,15,Outstanding
+Amna Khan,53,15,Bachelor,9,13,Average
+Zain Qureshi,40,31,Bachelor,6,12,Average
+Usman Sheikh,42,14,Master,6,1,Average
+Ayesha Qureshi,26,26,High School,7,1,Low
+Fatima Ashraf,39,27,Bachelor,4,11,Average
+Usman Sheikh,49,16,Master,6,0,Poor
+Ahmed Chaudhry,43,1,Bachelor,8,18,Average
+Bilal Malik,42,6,Bachelor,4,15,Good
+Ahmed Khan,27,12,Master,8,6,Good
+Ali Iqbal,22,14,Master,7,6,Average
+Sara Shah,26,24,Bachelor,6,15,Average
+Bilal Butt,33,22,Master,4,5,Average
+Fatima Sheikh,47,21,High School,6,17,Average
+Fatima Qureshi,55,25,Master,9,0,Low
+Fatima Chaudhry,35,32,Bachelor,6,0,Good
+Zain Malik,47,10,Master,4,13,Average
+Usman Sheikh,48,9,PhD,6,5,Excellent
+Ahmed Chaudhry,30,24,PhD,6,5,Average
+Usman Malik,47,23,PhD,5,3,Excellent
+Ayesha Butt,43,32,Bachelor,5,11,Average
+Bilal Butt,51,16,Bachelor,4,17,Good
+Zain Butt,38,23,Bachelor,4,9,Low
+Bilal Qureshi,47,1,Master,9,2,Good
+Sara Iqbal,57,31,Master,9,2,Average
+Ali Ashraf,22,23,Bachelor,6,7,Average
+Bilal Malik,29,8,PhD,8,0,Low
+Ayesha Chaudhry,56,3,Master,4,17,Poor
+Hassan Iqbal,36,16,PhD,6,14,Good
+Ayesha Khan,43,16,Master,8,19,Average
+Sara Shah,35,29,Bachelor,5,16,Average
+Zain Khan,47,10,High School,9,10,Average
+Usman Raza,49,20,High School,4,12,Low
+Ayesha Raza,44,20,Bachelor,6,19,Good
+Ahmed Qureshi,35,17,Master,5,9,Good
+Ayesha Ashraf,45,28,Master,7,12,Average
+Ali Khan,23,23,Master,5,16,Average
+Hassan Shah,47,9,Master,6,0,Good
+Ahmed Sheikh,35,16,High School,9,19,Excellent
+Bilal Iqbal,28,17,Bachelor,8,15,Poor
+Sara Iqbal,24,19,High School,7,15,Good
+Amna Ashraf,44,17,Bachelor,7,2,Average
+Ali Shah,39,16,Bachelor,9,1,Good
+Usman Shah,59,8,High School,7,5,Average
+Usman Butt,56,13,Bachelor,4,10,Average
+Ali Ashraf,36,28,Bachelor,6,2,Average
+Zain Shah,46,30,Master,7,0,Average
+Zain Shah,58,3,Bachelor,5,10,Average
+Bilal Qureshi,49,17,Bachelor,8,12,Good
+Ali Shah,31,19,Bachelor,6,4,Average
+Usman Ashraf,38,8,PhD,9,17,Poor
+Ahmed Chaudhry,43,12,Bachelor,5,14,Poor
+Hassan Ashraf,47,14,Bachelor,4,17,Good
+Ali Shah,46,26,Master,7,14,Good
+Ali Raza,38,14,Bachelor,5,19,Good
+Bilal Chaudhry,34,27,PhD,6,19,Average
+Bilal Iqbal,41,18,Bachelor,5,19,Average
+Ali Shah,46,25,Bachelor,4,6,Low
+Ayesha Ashraf,25,25,High School,8,16,Outstanding
+Sara Ashraf,31,24,Master,7,7,Average
+Ahmed Malik,24,25,Bachelor,6,12,Average
+Amna Malik,39,25,Bachelor,7,15,Good
+Amna Iqbal,57,27,Bachelor,7,9,Excellent
+Sara Ashraf,43,17,Bachelor,9,13,Poor
+Fatima Sheikh,55,31,High School,7,5,Average
+Sara Malik,29,2,Master,5,19,Average
+Ahmed Qureshi,40,1,Master,5,6,Average
+Sara Sheikh,58,32,Bachelor,8,5,Poor
+Zain Sheikh,27,18,Bachelor,4,16,Good
+Ali Sheikh,47,16,Master,6,7,Average
+Hassan Butt,55,32,Bachelor,5,11,Good
+Zain Chaudhry,27,11,Bachelor,7,3,Low
+Hassan Chaudhry,58,2,Bachelor,4,9,Low
+Zain Ashraf,54,25,Master,6,5,Good
+Fatima Sheikh,43,34,PhD,6,6,Good
+Hassan Malik,42,7,Master,6,7,Good
+Hassan Butt,27,6,High School,6,2,Good
+Ayesha Qureshi,27,15,Bachelor,8,7,Low
+Zain Khan,25,23,Master,6,14,Average
+Fatima Iqbal,51,0,High School,4,0,Average
+Ali Qureshi,32,24,PhD,5,12,Excellent
+Hassan Butt,51,9,PhD,4,17,Average
+Usman Khan,52,15,High School,7,14,Low
+Fatima Qureshi,45,15,PhD,9,6,Average
+Ali Malik,30,7,Bachelor,8,14,Excellent
+Zain Chaudhry,24,28,Master,8,2,Good
+Amna Shah,52,27,Bachelor,7,13,Excellent
+Hassan Chaudhry,58,5,Bachelor,4,19,Average
+Amna Khan,57,15,Master,4,3,Average
+Hassan Chaudhry,45,19,Master,7,3,Average
+Sara Ashraf,52,15,High School,9,2,Low
+Zain Butt,27,6,Bachelor,6,4,Poor
+Amna Sheikh,23,13,Bachelor,6,10,Low
+Usman Butt,41,25,Bachelor,5,7,Average
+Ali Ashraf,49,25,Bachelor,4,1,Excellent
+Ali Iqbal,32,13,Bachelor,4,15,Low
+Ahmed Khan,25,6,Bachelor,7,9,Excellent
+Sara Butt,36,32,High School,7,17,Average
+Hassan Iqbal,27,25,High School,6,6,Average
+Amna Chaudhry,51,19,High School,4,4,Average
+Ahmed Ashraf,59,2,Bachelor,4,6,Average
+Fatima Qureshi,23,3,PhD,8,5,Average
+Bilal Shah,36,25,High School,5,0,Good
+Fatima Chaudhry,32,10,PhD,5,10,Good
+Usman Ashraf,29,1,Master,6,12,Good
+Ali Ashraf,47,13,Master,9,11,Average
+Ali Iqbal,26,29,Master,4,0,Good
+Bilal Qureshi,27,11,Master,8,14,Average
+Ayesha Chaudhry,47,25,High School,4,0,Outstanding
+Ahmed Ashraf,25,32,Bachelor,7,2,Average
+Ali Chaudhry,40,12,Master,6,14,Outstanding
+Ahmed Ashraf,41,13,Bachelor,9,8,Good
+Ayesha Shah,54,23,Master,5,13,Good
+Ahmed Chaudhry,41,33,High School,4,7,Poor
+Ali Qureshi,33,25,Master,9,3,Average
+Amna Shah,22,20,Bachelor,6,19,Average
+Fatima Sheikh,47,27,Bachelor,5,19,Poor
+Amna Malik,35,1,Bachelor,4,5,Average
+Bilal Iqbal,59,8,Master,8,0,Outstanding
+Fatima Khan,58,22,Master,6,17,Average
+Fatima Qureshi,32,14,Bachelor,4,5,Low
+Ahmed Raza,57,12,Master,5,13,Average
+Fatima Butt,34,22,Bachelor,5,10,Poor
+Sara Raza,24,16,High School,8,16,Average
+Ahmed Sheikh,54,1,High School,6,8,Average
+Ali Qureshi,27,19,High School,6,6,Average
+Ali Iqbal,31,19,Bachelor,9,13,Good
+Amna Iqbal,26,2,Bachelor,4,16,Low
+Usman Ashraf,44,11,Master,9,7,Excellent
+Zain Sheikh,31,1,Master,5,15,Outstanding
+Zain Shah,23,13,High School,5,11,Poor
+Ahmed Sheikh,34,15,Bachelor,8,11,Good
+Ahmed Chaudhry,23,18,Bachelor,8,4,Average
+Ahmed Butt,41,33,Bachelor,6,4,Average
+Usman Shah,22,5,High School,9,13,Low
+Fatima Raza,58,12,High School,5,5,Average
+Hassan Chaudhry,30,21,PhD,4,6,Outstanding
+Ayesha Butt,38,17,Master,7,16,Low
+Sara Iqbal,30,11,Bachelor,4,8,Low
+Sara Qureshi,32,29,Bachelor,8,12,Low
+Hassan Raza,36,6,Bachelor,4,8,Average
+Fatima Chaudhry,45,31,Master,5,15,Excellent
+Hassan Butt,59,18,Bachelor,9,3,Average
+Ayesha Shah,56,5,High School,6,1,Low
+Amna Iqbal,51,19,Master,9,12,Average
+Bilal Sheikh,52,26,Bachelor,7,12,Average
+Sara Chaudhry,26,6,Bachelor,6,18,Poor
+Ahmed Qureshi,35,4,Bachelor,7,11,Average
+Usman Butt,32,10,Bachelor,7,3,Low
+Fatima Iqbal,30,14,Bachelor,5,9,Good
+Ali Iqbal,55,2,Bachelor,5,15,Average
+Ali Qureshi,33,4,Bachelor,8,18,Good
+Ali Sheikh,56,22,High School,8,7,Outstanding
+Ayesha Butt,56,8,Master,7,5,Excellent
+Amna Sheikh,22,14,Bachelor,9,3,Low
+Bilal Malik,43,2,High School,8,6,Excellent
+Sara Butt,50,28,Master,5,13,Good
+Fatima Khan,29,5,Master,8,12,Good
+Bilal Khan,32,16,Master,7,4,Poor
+Bilal Iqbal,58,25,Bachelor,6,8,Low
+Fatima Raza,35,20,Bachelor,9,2,Outstanding
+Bilal Malik,51,7,Master,9,9,Low
+Fatima Raza,56,20,Master,4,14,Low
+Usman Ashraf,42,10,Bachelor,8,19,Average
+Ali Ashraf,58,7,PhD,9,16,Excellent
+Ahmed Sheikh,26,23,High School,5,5,Average
+Usman Qureshi,40,34,PhD,6,2,Excellent
+Hassan Sheikh,35,13,Master,5,17,Average
+Hassan Butt,47,13,Master,8,4,Low
+Zain Khan,25,9,PhD,7,12,Average
+Ali Khan,46,11,Master,4,0,Average
+Ayesha Raza,46,33,Bachelor,4,16,Average
+Ahmed Iqbal,39,9,Bachelor,6,2,Average
+Zain Iqbal,29,16,High School,9,18,Low
+Bilal Malik,35,16,Bachelor,9,19,Average
+Ayesha Raza,53,2,Master,9,11,Good
+Ayesha Malik,59,30,Bachelor,4,7,Average
+Usman Raza,54,0,Bachelor,7,7,Poor
+Bilal Chaudhry,44,11,Bachelor,9,14,Low
+Hassan Malik,36,3,Master,5,10,Average
+Ali Butt,54,12,High School,9,19,Excellent
+Zain Iqbal,46,33,Bachelor,7,0,Average
+Usman Iqbal,38,20,Bachelor,6,15,Poor
+Zain Raza,54,21,Master,6,13,Average
+Ahmed Qureshi,23,3,High School,4,6,Good
+Bilal Khan,35,17,Master,7,5,Average
+Zain Ashraf,27,4,Bachelor,5,3,Average
+Sara Chaudhry,27,18,Bachelor,7,7,Good
+Bilal Sheikh,24,1,PhD,5,18,Average
+Ali Iqbal,28,11,High School,5,2,Low
+Fatima Malik,29,16,Bachelor,7,3,Low
+Amna Iqbal,36,9,High School,8,12,Average
+Amna Iqbal,50,33,Bachelor,7,1,Good
+Amna Khan,54,5,Bachelor,5,10,Outstanding
+Bilal Butt,51,7,Bachelor,9,15,Average
+Usman Shah,48,10,High School,6,9,Good
+Fatima Qureshi,57,11,Bachelor,6,14,Low
+Usman Ashraf,50,8,Master,4,9,Excellent
+Ali Ashraf,59,1,Master,6,1,Average
+Sara Malik,54,7,Bachelor,8,5,Average
+Zain Ashraf,58,10,Bachelor,5,13,Low
+Ahmed Khan,48,9,Bachelor,7,1,Poor
+Fatima Iqbal,54,20,Bachelor,7,9,Good
+Fatima Sheikh,25,19,Bachelor,8,16,Low
+Hassan Butt,43,7,Bachelor,6,7,Low
+Ahmed Sheikh,23,28,Bachelor,5,15,Low
+Ali Butt,31,11,Bachelor,6,13,Poor
+Usman Qureshi,26,13,Bachelor,4,9,Average
+Sara Khan,31,20,PhD,6,12,Average
+Sara Khan,54,21,Bachelor,4,0,Average
+Fatima Qureshi,59,20,Master,7,9,Average
+Amna Shah,34,29,Master,5,11,Good
+Amna Butt,52,19,Bachelor,9,16,Excellent
+Ayesha Khan,57,23,Bachelor,4,13,Average
+Sara Qureshi,45,22,Bachelor,6,4,Average
+Fatima Khan,36,6,High School,6,18,Average
+Fatima Qureshi,50,8,Bachelor,7,4,Average
+Ali Ashraf,29,0,Master,8,14,Good
+Bilal Shah,26,25,High School,9,12,Average
+Hassan Shah,50,21,Bachelor,8,16,Average
+Fatima Sheikh,25,9,Master,6,0,Average
+Hassan Butt,33,5,Master,8,13,Excellent
+Fatima Iqbal,23,16,Bachelor,9,3,Excellent
+Ayesha Malik,48,23,Master,9,8,Good
+Bilal Malik,52,9,Bachelor,5,16,Average
+Bilal Chaudhry,57,7,Bachelor,8,2,Low
+Ahmed Iqbal,57,20,Bachelor,5,12,Good
+Ayesha Ashraf,47,5,Bachelor,6,11,Low
+Ali Malik,48,20,PhD,6,15,Average
+Fatima Qureshi,26,23,High School,6,3,Average
+Ayesha Butt,41,32,Bachelor,7,17,Average
+Zain Shah,32,17,Bachelor,8,2,Average
+Ahmed Butt,31,27,Bachelor,4,16,Excellent
+Fatima Butt,59,31,High School,9,0,Poor
+Usman Ashraf,27,11,Bachelor,4,18,Good
+Zain Shah,29,26,Master,6,3,Good
+Ayesha Khan,44,9,Bachelor,8,16,Excellent
+Ali Shah,47,31,Bachelor,5,6,Average
+Fatima Iqbal,33,25,Bachelor,4,1,Average
+Ahmed Khan,47,24,Bachelor,6,11,Outstanding
+Ahmed Chaudhry,34,10,Bachelor,4,4,Average
+Hassan Khan,39,22,Master,4,15,Average
+Ahmed Malik,46,33,PhD,9,7,Average
+Sara Ashraf,54,22,Bachelor,4,7,Poor
+Fatima Shah,33,28,Bachelor,6,12,Average
+Zain Khan,57,30,Master,9,13,Good
+Zain Sheikh,25,6,Bachelor,6,10,Good
+Hassan Ashraf,26,32,Bachelor,7,5,Poor
+Fatima Butt,58,20,Bachelor,7,15,Good
+Ali Chaudhry,29,1,Master,7,14,Average
+Ahmed Iqbal,49,17,Bachelor,4,15,Average
+Fatima Shah,52,32,Master,8,12,Outstanding
+Fatima Qureshi,30,33,Master,6,11,Average
+Sara Malik,50,19,Bachelor,7,17,Good
+Usman Sheikh,35,34,Master,8,17,Average
+Hassan Iqbal,43,17,Master,7,13,Good
+Bilal Iqbal,32,23,Bachelor,7,1,Average
+Ali Qureshi,44,7,Bachelor,8,1,Average
+Ayesha Butt,22,29,High School,7,2,Average
+Sara Chaudhry,58,9,Bachelor,4,7,Average
+Ayesha Butt,42,22,Bachelor,4,10,Low
+Sara Malik,47,10,Bachelor,9,11,Good
+Ahmed Malik,57,1,Bachelor,4,3,Average
+Hassan Sheikh,44,25,Master,5,8,Good
+Hassan Malik,22,32,Bachelor,9,16,Average
+Fatima Ashraf,36,12,Bachelor,7,15,Average
+Ali Iqbal,42,24,Bachelor,5,16,Outstanding
+Amna Qureshi,30,3,Bachelor,6,14,Outstanding
+Ayesha Sheikh,30,18,Bachelor,8,19,Average
+Ahmed Ashraf,31,17,Bachelor,6,6,Excellent
+Amna Raza,47,29,Bachelor,5,9,Average
+Ali Raza,56,18,Master,4,3,Poor
+Ahmed Raza,46,22,Master,7,13,Average
+Hassan Khan,47,15,Bachelor,9,13,Outstanding
+Fatima Iqbal,32,0,Master,7,13,Outstanding
+Zain Ashraf,59,11,Master,4,13,Low
+Hassan Iqbal,23,23,High School,7,19,Good
+Ahmed Chaudhry,28,33,PhD,8,17,Good
+Ali Malik,39,7,Master,8,14,Average
+Ayesha Shah,48,17,Bachelor,8,18,Good
+Hassan Iqbal,55,4,Bachelor,6,12,Average
+Bilal Shah,48,25,High School,4,11,Low
+Zain Malik,38,29,High School,8,18,Good
+Ahmed Ashraf,45,12,Master,5,18,Average
+Ali Butt,46,18,Bachelor,8,19,Average
+Hassan Iqbal,28,28,Master,9,1,Low
+Fatima Sheikh,27,2,Master,6,2,Good
+Amna Chaudhry,45,25,Master,5,9,Average
+Ahmed Sheikh,54,11,Master,4,4,Average
+Bilal Iqbal,50,1,High School,4,11,Average
+Usman Malik,43,10,Bachelor,9,6,Low
+Amna Sheikh,47,27,Master,8,8,Excellent
+Ayesha Sheikh,49,17,High School,5,1,Average
+Ahmed Ashraf,42,12,High School,9,9,Average
+Sara Ashraf,28,21,Master,5,5,Low
+Amna Qureshi,38,11,Master,8,11,Low
+Ali Qureshi,41,1,Bachelor,8,5,Excellent
+Sara Iqbal,41,6,Master,7,2,Average
+Ayesha Sheikh,43,25,Master,7,9,Good
+Ayesha Chaudhry,49,25,Bachelor,8,8,Poor
+Amna Malik,28,23,High School,6,19,Average
+Amna Sheikh,22,11,PhD,9,4,Excellent
+Zain Chaudhry,53,15,Bachelor,7,2,Average
+Ahmed Sheikh,34,22,High School,8,4,Average
+Zain Chaudhry,51,8,Bachelor,5,7,Excellent
+Fatima Chaudhry,44,31,Master,9,7,Good
+Usman Khan,40,14,Bachelor,7,13,Poor
+Ali Khan,53,12,Bachelor,6,16,Average
+Zain Qureshi,51,4,Bachelor,9,10,Poor
+Sara Chaudhry,50,10,PhD,9,15,Excellent
+Bilal Chaudhry,50,9,Bachelor,4,5,Average
+Usman Butt,51,12,Bachelor,5,10,Outstanding
+Amna Qureshi,37,14,PhD,6,9,Poor
+Ayesha Butt,40,6,High School,6,8,Average
+Sara Shah,39,27,PhD,6,14,Low
+Ayesha Butt,22,31,PhD,5,6,Average
+Ali Khan,35,34,Master,6,17,Low
+Ahmed Butt,23,14,Bachelor,4,0,Average
+Bilal Butt,49,20,Master,7,14,Good
+Hassan Raza,51,5,Master,5,1,Low
+Fatima Chaudhry,59,0,PhD,6,1,Average
+Ahmed Ashraf,25,3,Bachelor,8,9,Excellent
+Fatima Ashraf,22,10,Master,7,19,Outstanding
+Bilal Sheikh,29,25,Bachelor,9,14,Average
+Fatima Iqbal,50,22,Bachelor,5,9,Excellent
+Amna Malik,24,28,Bachelor,8,18,Average
+Fatima Raza,53,20,Master,9,12,Average
+Hassan Malik,31,26,Bachelor,8,10,Excellent
+Ayesha Butt,31,12,Bachelor,6,1,Good
+Sara Sheikh,40,22,PhD,5,12,Excellent
+Ali Khan,55,15,Bachelor,6,0,Good
+Ayesha Shah,54,29,Master,9,4,Low
+Zain Shah,44,3,Bachelor,4,6,Average
+Sara Sheikh,49,15,Bachelor,8,12,Average
+Fatima Chaudhry,53,30,Master,4,12,Average
+Fatima Raza,28,24,PhD,9,19,Low
+Ahmed Butt,50,11,Bachelor,6,5,Average
+Amna Butt,29,25,Master,7,19,Excellent
+Hassan Qureshi,22,32,High School,8,11,Excellent
+Hassan Khan,24,27,Bachelor,7,7,Average
+Ali Shah,45,8,Bachelor,5,8,Average
+Amna Butt,44,11,High School,8,17,Good
+Sara Raza,29,4,Bachelor,4,10,Average
+Zain Ashraf,58,27,Bachelor,7,19,Outstanding
+Usman Khan,24,34,High School,9,10,Low
+Ayesha Butt,54,4,Bachelor,5,14,Average
+Zain Butt,49,33,Bachelor,8,8,Excellent
+Ayesha Iqbal,29,33,Bachelor,9,2,Excellent
+Usman Malik,55,12,PhD,5,16,Average
+Bilal Sheikh,56,13,Master,4,16,Low
+Ayesha Ashraf,53,10,Bachelor,9,2,Good
+Bilal Ashraf,45,3,PhD,8,18,Average
+Usman Shah,35,32,Master,5,8,Good
+Usman Chaudhry,53,6,Bachelor,6,16,Average
+Amna Raza,37,7,High School,8,17,Low
+Fatima Iqbal,25,9,Master,8,14,Poor
+Ayesha Malik,58,14,Bachelor,8,0,Average
+Bilal Iqbal,42,14,Master,8,9,Low
+Hassan Iqbal,35,4,Master,6,7,Low
+Ayesha Chaudhry,52,28,Master,9,9,Average
+Zain Malik,39,18,PhD,9,1,Average
+Ahmed Malik,28,9,Bachelor,9,18,Average
+Bilal Ashraf,31,11,High School,4,13,Low
+Fatima Iqbal,28,3,Master,6,7,Excellent
+Fatima Sheikh,54,30,Bachelor,6,18,Low
+Sara Chaudhry,44,17,Master,5,0,Average
+Amna Shah,42,15,PhD,7,15,Average
+Amna Khan,40,24,Master,9,14,Excellent
+Usman Khan,40,22,Bachelor,7,19,Average
+Ahmed Ashraf,57,11,Bachelor,5,4,Low
+Hassan Iqbal,50,33,Bachelor,6,2,Poor
+Hassan Sheikh,39,2,Bachelor,5,16,Good
+Zain Iqbal,23,8,Master,8,9,Good
+Ahmed Ashraf,22,17,Master,5,4,Average
+Zain Ashraf,26,34,Master,5,10,Low
+Ahmed Shah,41,33,Bachelor,8,5,Average
+Zain Qureshi,32,13,Bachelor,7,3,Average
+Zain Ashraf,23,3,Master,8,6,Good
+Amna Iqbal,24,28,Bachelor,4,18,Poor
+Amna Butt,44,14,Bachelor,5,6,Average
+Zain Qureshi,33,27,Master,5,13,Average
+Hassan Khan,41,15,Master,7,16,Average
+Fatima Ashraf,26,11,Bachelor,6,16,Average
+Ali Shah,58,4,Master,8,12,Excellent
+Zain Qureshi,59,33,Bachelor,6,0,Average
+Usman Chaudhry,51,0,PhD,4,1,Average
+Hassan Qureshi,30,31,High School,8,17,Average
+Zain Chaudhry,55,25,High School,4,3,Average
+Sara Khan,56,16,Master,4,12,Poor
+Zain Butt,43,26,Bachelor,4,0,Average
+Ahmed Iqbal,45,23,Master,9,3,Poor
+Zain Shah,38,34,Master,8,1,Outstanding
+Ahmed Raza,31,25,Master,8,3,Average
+Usman Chaudhry,51,22,PhD,9,15,Low
+Ali Raza,44,21,Bachelor,7,3,Low
+Usman Butt,53,3,Master,9,8,Average
+Fatima Shah,38,8,High School,5,16,Average
+Ahmed Shah,38,3,Bachelor,6,19,Average
+Sara Shah,35,6,Master,6,1,Average
+Amna Chaudhry,30,22,Bachelor,4,2,Excellent
+Hassan Khan,23,1,Bachelor,8,14,Average
+Ahmed Iqbal,46,23,Bachelor,8,6,Average
+Sara Iqbal,30,30,Master,4,3,Good
+Fatima Butt,43,30,PhD,5,11,Poor
+Amna Shah,25,33,High School,6,0,Low
+Fatima Sheikh,47,23,Bachelor,9,16,Average
+Hassan Iqbal,50,25,Master,7,3,Good
+Fatima Iqbal,55,15,Bachelor,5,3,Average
+Fatima Qureshi,44,12,High School,8,8,Low
+Zain Butt,58,14,Bachelor,4,9,Excellent
+Sara Raza,32,26,Bachelor,6,18,Average
+Ayesha Iqbal,27,3,Bachelor,4,18,Good
+Ayesha Raza,39,15,Master,8,14,Excellent
+Ayesha Qureshi,42,29,Bachelor,4,16,Average
+Sara Butt,57,29,PhD,9,6,Good
+Fatima Butt,59,2,Master,6,2,Good
+Fatima Iqbal,55,21,Master,4,4,Excellent
+Ayesha Qureshi,38,21,High School,6,15,Average
+Ali Chaudhry,58,11,Bachelor,4,6,Excellent
+Amna Shah,46,20,Bachelor,4,15,Poor
+Bilal Ashraf,59,3,PhD,6,8,Good
+Ahmed Qureshi,33,30,Bachelor,9,0,Average
+Usman Qureshi,44,30,Bachelor,4,2,Low
+Ali Ashraf,43,22,Bachelor,9,7,Poor
+Hassan Qureshi,42,19,Bachelor,5,17,Average
+Hassan Raza,48,14,Bachelor,7,17,Average
+Sara Iqbal,52,22,Bachelor,5,18,Low
+Ayesha Iqbal,27,27,High School,7,6,Low
+Ayesha Sheikh,48,15,High School,5,19,Average
+Ali Chaudhry,55,20,Bachelor,7,5,Average
+Zain Raza,33,14,Master,4,10,Average
+Sara Khan,28,16,Bachelor,6,4,Excellent
+Amna Raza,31,12,Bachelor,6,11,Average
+Sara Khan,38,18,Bachelor,8,0,Poor
+Ali Shah,47,29,Bachelor,7,18,Average
+Fatima Butt,42,17,PhD,8,10,Good
+Ali Sheikh,49,13,High School,9,14,Poor
+Usman Iqbal,23,19,Master,9,15,Average
+Ahmed Shah,22,18,Master,8,2,Average
+Hassan Butt,57,6,Master,7,10,Outstanding
+Sara Qureshi,47,3,Bachelor,6,10,Average
+Fatima Qureshi,50,33,Bachelor,7,9,Good
+Usman Malik,42,1,Master,9,1,Average
+Zain Raza,32,4,High School,4,19,Good
+Amna Khan,32,9,Master,8,4,Average
+Ahmed Shah,57,31,Master,8,7,Average
+Ahmed Khan,56,12,Master,9,12,Average
+Bilal Butt,55,4,High School,7,14,Excellent
+Ahmed Qureshi,45,9,Master,8,1,Poor
+Usman Khan,43,9,Master,6,11,Low
+Ayesha Chaudhry,26,26,Master,8,7,Good
+Zain Malik,54,20,High School,7,18,Average
+Fatima Qureshi,57,7,High School,9,0,Average
+Hassan Iqbal,41,0,Bachelor,6,7,Average
+Amna Butt,40,27,High School,6,9,Average
+Ahmed Iqbal,56,13,Bachelor,8,12,Average
+Hassan Qureshi,38,20,PhD,7,4,Good
+Sara Malik,55,29,Bachelor,8,8,Poor
+Fatima Sheikh,30,20,Master,4,9,Excellent
+Hassan Qureshi,47,8,High School,9,13,Average
+Ahmed Khan,23,16,Bachelor,4,10,Low
+Fatima Qureshi,30,4,High School,6,13,Average
+Zain Raza,30,30,Bachelor,8,2,Good
+Ahmed Chaudhry,38,18,PhD,4,15,Poor
+Bilal Shah,22,32,High School,5,19,Good
+Amna Ashraf,46,12,Master,4,16,Good
+Ali Shah,46,13,Bachelor,8,4,Low
+Ali Sheikh,56,32,PhD,8,6,Low
+Ahmed Butt,24,28,High School,9,16,Low
+Fatima Raza,58,9,Bachelor,4,19,Good
+Usman Qureshi,51,30,High School,8,10,Average
+Bilal Raza,59,5,Bachelor,8,11,Good
+Hassan Qureshi,55,0,Bachelor,9,1,Average
+Fatima Qureshi,33,6,Master,9,18,Good
+Zain Chaudhry,40,26,Master,9,4,Average
+Usman Qureshi,58,20,Master,9,10,Average
+Fatima Raza,38,27,Bachelor,5,18,Excellent
+Usman Malik,31,15,High School,6,6,Good
+Hassan Qureshi,33,22,Bachelor,8,5,Average
+Ahmed Shah,37,19,PhD,7,10,Average
+Amna Qureshi,45,24,Master,9,13,Average
+Ali Qureshi,40,27,Master,6,3,Average
+Fatima Chaudhry,29,4,Master,9,7,Average
+Sara Raza,52,20,High School,6,8,Average
+Ahmed Butt,42,17,Bachelor,7,1,Outstanding
+Ahmed Butt,38,5,High School,4,10,Average
+Zain Ashraf,44,28,Bachelor,5,19,Poor
+Bilal Iqbal,58,18,High School,8,6,Average
+Hassan Iqbal,37,32,Bachelor,4,3,Poor
+Sara Raza,27,0,Master,7,13,Average
+Zain Malik,29,2,Master,5,0,Average
+Amna Butt,46,20,Master,5,11,Average
+Amna Ashraf,39,34,PhD,5,18,Outstanding
+Ali Chaudhry,46,2,High School,7,4,Outstanding
+Ali Khan,33,24,High School,9,7,Poor
+Amna Iqbal,36,19,Master,9,10,Average
+Sara Chaudhry,47,33,Bachelor,9,3,Good
+Amna Sheikh,47,20,Bachelor,4,14,Low
+Ahmed Ashraf,53,22,Bachelor,8,19,Good
+Amna Butt,31,5,Bachelor,5,11,Excellent
+Ali Raza,37,12,Bachelor,5,19,Good
+Zain Butt,28,22,Bachelor,4,9,Average
+Ali Iqbal,38,8,Bachelor,9,15,Excellent
+Hassan Khan,44,16,Master,5,7,Excellent
+Hassan Sheikh,47,1,Bachelor,5,19,Good
+Amna Shah,42,18,Bachelor,7,7,Average
+Hassan Chaudhry,43,18,Bachelor,6,5,Good
+Usman Iqbal,28,6,Bachelor,4,2,Average
+Hassan Qureshi,35,19,Master,4,7,Average
+Usman Shah,36,8,Master,9,9,Average
+Ayesha Khan,28,16,Master,4,4,Outstanding
+Sara Chaudhry,30,26,Bachelor,9,10,Good
+Ali Khan,29,1,Bachelor,7,3,Good
+Bilal Ashraf,44,18,Bachelor,7,16,Average
+Ali Iqbal,50,16,Bachelor,8,2,Average
+Usman Malik,39,4,Bachelor,9,17,Excellent
+Hassan Khan,52,17,Bachelor,7,7,Average
+Ayesha Shah,51,6,Bachelor,9,11,Good
+Ahmed Sheikh,56,16,Master,4,15,Average
+Bilal Ashraf,39,3,High School,8,13,Good
+Bilal Butt,38,24,Master,6,15,Excellent
+Bilal Shah,35,4,High School,5,3,Average
+Ali Iqbal,52,29,High School,5,0,Poor
+Ahmed Ashraf,45,11,PhD,8,0,Average
+Ali Sheikh,56,3,PhD,9,14,Excellent
+Amna Shah,55,23,High School,9,19,Good
+Amna Sheikh,24,28,Bachelor,9,19,Good
+Sara Khan,58,8,Bachelor,6,2,Average
+Usman Qureshi,47,3,Bachelor,5,13,Good
+Hassan Iqbal,44,23,Master,8,8,Average
+Bilal Iqbal,36,13,PhD,9,18,Low
+Bilal Raza,25,4,Master,7,7,Outstanding
+Sara Butt,50,17,Bachelor,4,1,Average
+Fatima Sheikh,43,18,Master,6,3,Average
+Ayesha Raza,46,11,Bachelor,9,0,Average
+Ali Khan,34,17,PhD,5,10,Poor
+Bilal Chaudhry,39,16,Master,4,4,Average
+Usman Raza,54,29,Bachelor,8,1,Low
+Sara Malik,37,23,Bachelor,9,12,Good
+Ali Chaudhry,23,10,Bachelor,5,16,Average
+Usman Butt,56,34,High School,4,16,Average
+Zain Khan,55,22,Master,7,17,Average
+Sara Khan,51,16,Bachelor,6,8,Good
+Bilal Butt,34,0,Bachelor,8,5,Low
+Sara Iqbal,34,14,Bachelor,5,19,Outstanding
+Sara Khan,39,31,Master,7,2,Average
+Ahmed Iqbal,53,8,High School,6,7,Poor
+Ayesha Raza,53,14,Master,6,2,Average
+Zain Ashraf,56,27,Master,7,0,Average
+Zain Chaudhry,50,23,PhD,5,19,Good
+Fatima Raza,50,34,Bachelor,6,12,Average
+Ayesha Sheikh,37,21,Bachelor,8,4,Average
+Amna Raza,31,26,Bachelor,4,15,Poor
+Bilal Qureshi,51,18,Bachelor,8,15,Average
+Ayesha Khan,46,11,Bachelor,9,11,Good
+Amna Chaudhry,41,19,Master,6,12,Average
+Ahmed Shah,26,0,Bachelor,4,3,Poor
+Amna Butt,22,20,Master,7,8,Low
+Usman Ashraf,51,0,High School,4,15,Average
+Bilal Iqbal,24,9,Master,4,0,Good
+Fatima Shah,35,31,Master,4,4,Good
+Bilal Sheikh,51,21,Master,6,4,Poor
+Ayesha Shah,25,17,Master,9,18,Average
+Ahmed Iqbal,39,31,Master,9,8,Average
+Hassan Raza,58,26,PhD,5,7,Excellent
+Sara Qureshi,46,27,Bachelor,9,18,Average
+Ahmed Butt,22,17,Bachelor,6,17,Average
+Usman Iqbal,36,28,High School,5,14,Average
+Bilal Shah,30,17,High School,7,3,Average
+Amna Iqbal,36,7,Bachelor,7,14,Good
+Ahmed Shah,45,30,High School,7,12,Poor
+Sara Qureshi,25,33,Bachelor,7,17,Average
+Sara Ashraf,33,6,Bachelor,7,19,Average
+Ali Butt,58,17,High School,8,4,Average
+Fatima Malik,58,8,PhD,6,17,Average
+Amna Raza,27,8,High School,5,7,Average
+Usman Qureshi,45,7,Master,7,0,Good
+Bilal Chaudhry,32,34,Bachelor,8,18,Poor
+Zain Khan,34,17,PhD,9,16,Excellent
+Ali Raza,55,4,Master,8,1,Low
+Zain Iqbal,46,13,Master,8,18,Low
+Sara Butt,28,27,Master,6,15,Good
+Sara Ashraf,25,29,High School,7,17,Excellent
+Ayesha Khan,29,3,PhD,8,1,Poor
+Sara Raza,41,19,Master,8,5,Excellent
+Ali Butt,50,24,Master,7,6,Average
+Sara Chaudhry,31,27,Master,6,5,Average
+Sara Shah,55,11,Bachelor,8,5,Poor
+Sara Iqbal,47,1,Master,5,8,Average
+Fatima Qureshi,24,13,Bachelor,4,7,Average
+Bilal Butt,27,21,Bachelor,9,8,Average
+Amna Ashraf,26,30,High School,4,11,Average
+Ayesha Qureshi,26,22,PhD,4,17,Average
+Fatima Iqbal,44,19,High School,6,5,Outstanding
+Hassan Butt,30,3,Bachelor,8,3,Low
+Ali Butt,56,14,Bachelor,4,6,Low
+Fatima Raza,41,23,Master,4,17,Good
+Fatima Ashraf,56,24,Master,9,19,Poor
+Bilal Khan,39,0,Bachelor,7,4,Average
+Zain Raza,38,6,High School,8,17,Average
+Ahmed Khan,45,30,Master,8,9,Average
+Ayesha Iqbal,24,11,PhD,9,7,Excellent
+Zain Chaudhry,53,4,Master,7,0,Average
+Bilal Qureshi,56,11,Bachelor,8,14,Average
+Ahmed Raza,59,17,PhD,5,2,Low
+Fatima Raza,34,1,Bachelor,9,14,Low
+Bilal Chaudhry,46,9,Bachelor,6,13,Average
+Sara Butt,30,14,Bachelor,7,0,Good
+Amna Ashraf,25,29,Bachelor,9,7,Good
+Ayesha Butt,35,16,Master,4,6,Good
+Hassan Butt,58,3,Bachelor,8,8,Low
+Ahmed Ashraf,55,6,Bachelor,5,17,Poor
+Ahmed Sheikh,32,30,Bachelor,5,11,Outstanding
+Amna Butt,24,33,High School,6,7,Poor
+Ahmed Iqbal,49,5,Bachelor,9,7,Outstanding
+Usman Iqbal,50,33,Bachelor,5,5,Good
+Usman Malik,30,14,High School,9,2,Excellent
+Usman Khan,24,13,Master,8,1,Average
+Bilal Sheikh,46,5,Master,8,13,Low
+Sara Malik,55,31,Master,5,7,Average
+Ahmed Khan,33,2,Bachelor,8,5,Good
+Sara Iqbal,30,2,Master,9,3,Low
+Hassan Ashraf,36,21,PhD,8,4,Good
+Usman Chaudhry,46,21,Master,4,12,Low
+Zain Butt,26,9,Master,9,8,Average
+Hassan Khan,32,2,Bachelor,7,12,Excellent
+Usman Iqbal,55,11,PhD,8,8,Low
+Amna Shah,45,28,Bachelor,8,15,Low
+Usman Khan,36,16,Bachelor,9,11,Poor
+Amna Qureshi,59,6,Bachelor,6,1,Low
+Amna Qureshi,29,12,High School,7,18,Low
+Usman Iqbal,26,1,PhD,7,15,Low
+Bilal Sheikh,47,3,Bachelor,7,12,Average
+Ali Malik,39,9,Bachelor,5,4,Good
+Amna Sheikh,27,23,Master,4,5,Excellent
+Sara Raza,58,16,Bachelor,4,16,Average
+Zain Iqbal,34,5,High School,6,16,Low
+Ayesha Ashraf,49,18,Master,7,16,Low
+Ayesha Shah,26,4,Master,7,2,Good
+Ali Ashraf,34,31,Bachelor,8,12,Good
+Bilal Butt,38,9,Master,9,11,Outstanding
+Zain Raza,53,8,Bachelor,5,5,Poor
+Sara Qureshi,50,26,Bachelor,5,12,Good
+Ali Khan,24,12,Bachelor,6,13,Average
+Ali Shah,55,18,Bachelor,4,6,Excellent
+Bilal Shah,48,20,Master,7,4,Average
+Amna Butt,34,23,Master,9,13,Average
+Usman Khan,54,3,Bachelor,6,17,Good
+Ahmed Malik,27,23,Bachelor,5,3,Good
+Hassan Shah,45,34,Master,5,0,Average
+Fatima Chaudhry,40,2,Bachelor,5,6,Low
+Ali Iqbal,37,3,Bachelor,7,19,Average
+Usman Raza,49,34,PhD,7,12,Low
+Sara Chaudhry,54,30,Master,7,3,Average
+Hassan Qureshi,34,24,PhD,8,12,Outstanding
+Usman Malik,46,12,Bachelor,4,3,Average
+Ayesha Iqbal,57,3,Master,5,2,Good
+Zain Khan,48,13,Bachelor,5,7,Good
+Ahmed Ashraf,59,12,Bachelor,8,19,Good
+Usman Raza,28,26,Bachelor,5,7,Excellent
+Zain Sheikh,26,5,Bachelor,5,16,Good
+Bilal Malik,52,16,Bachelor,7,14,Average
+Ayesha Sheikh,44,34,Bachelor,7,3,Average
+Zain Raza,31,16,High School,4,5,Average
+Zain Shah,53,1,Master,5,5,Average
+Amna Ashraf,51,12,Bachelor,6,9,Average
+Bilal Sheikh,52,1,High School,5,3,Good
+Ali Iqbal,39,27,Bachelor,5,8,Average
+Fatima Khan,57,25,High School,4,15,Low
+Ali Shah,23,21,Master,6,6,Outstanding
+Sara Malik,35,2,High School,5,13,Average
+Fatima Chaudhry,34,34,Master,9,5,Average
+Zain Chaudhry,50,11,High School,9,0,Good
+Bilal Ashraf,33,23,Bachelor,6,17,Average
+Usman Qureshi,23,4,Master,9,11,Average
+Hassan Butt,53,19,Master,7,14,Good
+Sara Ashraf,34,12,High School,7,0,Low
+Amna Shah,48,11,Master,6,14,Average
+Bilal Sheikh,38,12,Bachelor,5,14,Average
+Zain Shah,52,9,Master,6,15,Average
+Ali Chaudhry,55,32,Master,9,0,Low
+Ayesha Raza,45,15,Master,6,2,Good
+Ali Malik,56,34,PhD,9,11,Low
+Ayesha Sheikh,27,2,Bachelor,7,6,Excellent
+Bilal Sheikh,40,4,Master,6,4,Excellent
+Bilal Ashraf,51,25,Bachelor,8,0,Average
+Fatima Malik,28,10,High School,9,0,Average
+Ali Khan,31,6,High School,8,14,Good
+Ayesha Butt,53,9,High School,7,7,Poor
+Fatima Qureshi,55,33,Master,5,10,Poor
+Ali Sheikh,49,2,Bachelor,9,13,Low
+Ali Sheikh,36,7,Bachelor,5,12,Average
+Bilal Butt,51,30,High School,7,18,Low
+Amna Iqbal,58,10,Bachelor,5,11,Average
+Amna Shah,50,6,PhD,9,18,Average
+Ali Khan,43,1,Bachelor,4,3,Poor
+Ali Ashraf,25,5,Master,9,3,Low
+Amna Malik,41,31,Master,9,2,Excellent
+Zain Chaudhry,53,19,Master,8,5,Good
+Fatima Shah,57,33,Bachelor,4,4,Average
+Usman Qureshi,25,15,Master,4,10,Poor
+Bilal Shah,48,24,Bachelor,4,8,Average
+Ali Iqbal,38,11,Master,9,2,Low
+Sara Chaudhry,33,6,Bachelor,7,8,Outstanding
+Amna Sheikh,43,16,Bachelor,4,11,Good
+Bilal Sheikh,38,10,High School,6,2,Outstanding
+Ahmed Qureshi,31,5,Master,5,19,Good
+Ayesha Qureshi,22,22,Bachelor,7,16,Average
+Hassan Sheikh,43,26,Bachelor,6,11,Good
+Ali Sheikh,47,5,Bachelor,9,17,Good
+Bilal Qureshi,39,1,PhD,9,3,Average
+Bilal Qureshi,35,21,Master,6,9,Poor
+Hassan Malik,50,19,Bachelor,8,17,Average
+Fatima Qureshi,33,24,Master,8,7,Low
+Sara Butt,57,14,Bachelor,6,8,Good
+Zain Chaudhry,56,28,Bachelor,8,18,Good
+Sara Butt,33,7,PhD,5,12,Outstanding
+Ali Sheikh,28,32,High School,5,5,Average
+Ayesha Khan,50,21,Bachelor,9,6,Good
+Bilal Ashraf,32,4,Bachelor,8,5,Average
+Zain Shah,54,17,Bachelor,4,10,Average
+Fatima Butt,27,29,Bachelor,6,16,Excellent
+Fatima Shah,36,30,Bachelor,5,18,Good
+Zain Sheikh,53,9,High School,8,11,Good
+Ayesha Ashraf,32,14,Bachelor,8,12,Average
+Zain Raza,44,17,Bachelor,5,17,Good
+Hassan Ashraf,47,22,Bachelor,5,6,Excellent
+Ahmed Shah,55,32,High School,4,4,Low
+Fatima Qureshi,55,15,Master,8,15,Good
+Hassan Chaudhry,50,34,Bachelor,8,3,Average
+Sara Ashraf,25,33,Master,7,0,Low
+Bilal Qureshi,38,27,Master,9,3,Good
+Bilal Ashraf,56,1,Master,4,2,Low
+Ali Chaudhry,34,29,Bachelor,5,3,Average
+Sara Chaudhry,36,12,Bachelor,5,0,Good
+Amna Sheikh,50,15,Bachelor,6,11,Good
+Amna Khan,50,4,Master,9,12,Average
+Hassan Raza,32,27,Bachelor,5,1,Excellent
+Hassan Qureshi,53,19,Master,8,8,Low
+Ali Shah,23,23,Master,5,6,Outstanding
+Hassan Sheikh,35,26,Bachelor,8,12,Good
+Ayesha Raza,41,29,High School,8,1,Average
+Ayesha Sheikh,43,26,Master,4,0,Low
+Bilal Shah,32,25,Bachelor,5,17,Average
+Ali Butt,48,6,High School,4,6,Low
+Zain Butt,24,4,Master,9,17,Average
+Zain Shah,38,22,Bachelor,8,18,Average
+Amna Iqbal,49,27,PhD,9,7,Average
+Bilal Iqbal,50,33,Master,5,11,Good
+Usman Ashraf,42,14,Master,9,10,Low
+Amna Chaudhry,37,31,Bachelor,9,8,Average
+Ali Malik,58,25,Bachelor,5,3,Low
+Sara Ashraf,41,30,Bachelor,4,6,Good
+Ahmed Chaudhry,27,18,Bachelor,4,16,Average
+Usman Chaudhry,40,8,Bachelor,8,10,Good
+Bilal Ashraf,26,28,Bachelor,8,1,Poor
+Bilal Malik,24,3,Bachelor,5,17,Low
+Usman Malik,22,2,Bachelor,5,11,Low
+Ayesha Raza,59,28,Master,7,8,Low
+Amna Iqbal,36,10,Bachelor,7,10,Low
+Amna Chaudhry,55,32,High School,6,4,Average
+Zain Raza,56,10,Master,8,6,Average
+Hassan Ashraf,46,26,PhD,9,0,Good
+Bilal Butt,45,32,Bachelor,6,4,Average
+Zain Iqbal,33,20,High School,6,5,Average
+Ahmed Ashraf,39,30,Bachelor,4,12,Outstanding
+Usman Butt,36,1,PhD,9,10,Average
+Ali Qureshi,37,26,Master,4,7,Average
+Bilal Malik,48,10,Master,7,19,Outstanding
+Ali Sheikh,29,17,Bachelor,6,1,Outstanding
+Fatima Qureshi,46,0,Bachelor,7,14,Average
+Fatima Butt,38,34,High School,9,9,Average
+Sara Iqbal,50,34,Master,9,7,Average
+Hassan Ashraf,29,30,Master,8,1,Good
+Hassan Malik,36,27,PhD,5,14,Excellent
+Hassan Butt,48,0,Bachelor,4,5,Average
+Fatima Malik,28,24,High School,8,4,Good
+Ayesha Khan,24,19,Bachelor,8,2,Good
+Ali Khan,50,2,Master,4,10,Average
+Fatima Malik,45,1,Master,4,10,Good
+Ahmed Raza,24,17,Bachelor,9,15,Average
+Amna Sheikh,41,9,Bachelor,9,2,Low
+Amna Sheikh,36,4,Bachelor,6,8,Outstanding
+Fatima Iqbal,46,8,Bachelor,7,2,Average
+Bilal Butt,51,1,Master,9,18,Average
+Sara Shah,35,33,Bachelor,8,10,Good
+Ahmed Sheikh,28,30,Master,6,13,Outstanding
+Bilal Shah,38,9,Bachelor,6,1,Excellent
+Usman Chaudhry,41,11,Master,8,6,Average
+Sara Butt,57,20,Bachelor,9,9,Average
+Zain Shah,30,5,Master,8,9,Average
+Bilal Khan,59,2,Bachelor,5,19,Average
+Sara Raza,43,9,Bachelor,9,0,Excellent
+Ayesha Malik,23,4,Bachelor,7,5,Good
+Zain Malik,45,25,Bachelor,8,13,Poor
+Amna Sheikh,29,20,Bachelor,9,1,Low
+Fatima Ashraf,32,25,Bachelor,4,5,Excellent
+Sara Butt,34,25,PhD,5,0,Good
+Ali Qureshi,38,7,Bachelor,7,2,Average
+Hassan Iqbal,29,4,Master,9,3,Average
+Fatima Chaudhry,42,14,PhD,4,12,Average
+Bilal Chaudhry,39,15,High School,9,2,Good
+Bilal Chaudhry,51,0,Master,4,14,Average
+Ali Ashraf,39,15,Bachelor,7,12,Good
+Fatima Butt,52,2,High School,5,10,Average
+Zain Sheikh,59,30,Bachelor,4,3,Average
+Ayesha Chaudhry,53,12,PhD,6,16,Low
+Zain Malik,32,15,High School,7,4,Excellent
+Ahmed Ashraf,46,20,Bachelor,7,7,Excellent
+Ali Raza,54,1,Bachelor,8,9,Good
+Ayesha Malik,59,26,Master,5,6,Excellent
+Ahmed Ashraf,29,25,High School,6,16,Good
+Ahmed Iqbal,32,24,Master,6,6,Low
+Bilal Shah,43,10,Master,8,18,Good
+Zain Sheikh,45,7,Master,4,8,Average
+Zain Shah,38,7,PhD,4,1,Average
+Bilal Sheikh,33,32,Master,6,19,Average
+Hassan Iqbal,53,6,High School,5,18,Average
+Ahmed Iqbal,36,20,Bachelor,4,5,Good
+Ahmed Butt,37,7,Bachelor,7,9,Low
+Ayesha Sheikh,43,20,Bachelor,9,12,Low
+Ahmed Ashraf,49,19,Bachelor,8,1,Good
+Hassan Chaudhry,41,7,Bachelor,5,9,Good
+Usman Ashraf,54,30,Bachelor,4,9,Average
+Usman Butt,31,28,PhD,9,4,Low
+Ahmed Raza,53,8,High School,6,3,Average
+Bilal Iqbal,54,14,PhD,8,1,Good
+Amna Butt,23,29,Bachelor,4,6,Good
+Bilal Butt,54,25,Master,6,17,Low
+Bilal Butt,54,9,Master,4,16,Outstanding
+Hassan Sheikh,34,28,Bachelor,8,10,Low
+Ali Chaudhry,51,15,Bachelor,7,17,Low
+Usman Raza,54,19,Bachelor,7,7,Average
+Ayesha Khan,34,21,Bachelor,9,11,Average
+Ayesha Raza,47,6,PhD,6,0,Outstanding
+Amna Qureshi,43,22,Master,7,19,Poor
+Ahmed Butt,23,28,High School,8,11,Average
+Zain Butt,59,15,High School,6,5,Average
+Amna Iqbal,47,27,Bachelor,4,2,Average
+Ali Chaudhry,36,30,High School,5,4,Poor
+Ali Qureshi,55,13,Master,4,13,Poor
+Amna Ashraf,32,32,High School,8,11,Average
+Amna Khan,24,8,Bachelor,9,12,Average
+Hassan Iqbal,27,26,High School,6,12,Good
+Sara Shah,30,23,Bachelor,4,16,Good
+Ali Raza,27,12,Master,6,14,Average
+Ayesha Khan,30,25,Bachelor,7,5,Average
+Hassan Qureshi,52,28,PhD,5,11,Excellent
+Fatima Malik,53,27,Master,8,1,Average
+Hassan Malik,33,27,Bachelor,4,3,Average
+Sara Raza,29,7,High School,5,19,Average
+Zain Ashraf,29,22,Master,8,11,Good
+Zain Shah,49,28,PhD,8,2,Average
+Ahmed Chaudhry,41,4,Master,9,16,Poor
+Ahmed Raza,28,6,High School,7,5,Poor
+Sara Khan,32,26,PhD,9,16,Good
+Zain Ashraf,41,1,Bachelor,9,16,Poor
+Amna Qureshi,37,24,Master,6,10,Average
+Zain Iqbal,25,8,PhD,6,6,Low
+Ahmed Ashraf,27,26,Bachelor,5,1,Low
+Ayesha Qureshi,43,0,PhD,7,18,Average
+Zain Qureshi,47,22,Bachelor,8,1,Poor
+Amna Malik,24,9,PhD,7,12,Low
+Ahmed Shah,35,24,Bachelor,7,15,Good
+Usman Qureshi,32,2,PhD,5,16,Average
+Ahmed Sheikh,39,5,High School,6,10,Good
+Sara Sheikh,33,5,Master,7,8,Poor
+Fatima Raza,44,1,Bachelor,7,8,Excellent
+Bilal Butt,33,17,Bachelor,7,13,Outstanding
+Ahmed Chaudhry,34,22,Bachelor,4,12,Poor
+Ayesha Shah,46,1,Master,7,10,Outstanding
+Bilal Butt,40,11,Bachelor,7,11,Low
+Ali Malik,57,21,Bachelor,8,2,Good
+Bilal Iqbal,29,19,Bachelor,9,0,Average
+Ayesha Ashraf,50,23,PhD,4,7,Average
+Hassan Butt,53,19,High School,7,18,Average
+Fatima Chaudhry,39,0,Bachelor,9,12,Average
+Usman Malik,27,0,Bachelor,7,6,Good
+Hassan Ashraf,39,16,Bachelor,5,12,Average
+Ali Iqbal,40,0,Bachelor,5,5,Average
+Bilal Raza,43,29,Bachelor,9,2,Outstanding
+Bilal Raza,58,2,Master,4,5,Excellent
+Hassan Qureshi,53,10,Master,8,2,Outstanding
+Fatima Qureshi,24,23,Bachelor,4,12,Excellent
+Fatima Iqbal,49,21,High School,4,12,Average
+Zain Sheikh,31,25,Master,5,12,Average
+Zain Butt,56,12,Bachelor,5,0,Low
+Fatima Khan,50,0,Master,8,7,Outstanding
+Usman Malik,36,23,Bachelor,7,4,Low
+Hassan Khan,54,9,Bachelor,8,19,Average
+Ali Sheikh,28,34,Bachelor,7,16,Low
+Hassan Butt,33,23,Master,9,8,Low
+Usman Shah,51,27,High School,9,12,Low
+Sara Sheikh,42,15,Bachelor,6,12,Average
+Ayesha Sheikh,52,15,High School,5,4,Poor
+Ayesha Malik,45,16,Master,6,13,Average
+Fatima Qureshi,41,14,PhD,6,10,Good
+Ali Ashraf,58,15,Bachelor,5,13,Good
+Ahmed Khan,25,14,Bachelor,6,6,Low
+Bilal Qureshi,49,33,PhD,4,16,Excellent
+Sara Shah,41,10,Bachelor,7,3,Good
+Ali Malik,45,0,Bachelor,8,9,Poor
+Usman Raza,53,14,Bachelor,5,9,Good
+Hassan Malik,57,25,Master,4,14,Good
+Ahmed Chaudhry,55,3,High School,9,19,Average
+Sara Iqbal,57,4,Master,8,11,Poor
+Hassan Khan,23,34,Bachelor,8,8,Average
+Usman Ashraf,36,12,High School,8,2,Good
+Ali Shah,55,9,Master,6,14,Average
+Ahmed Butt,57,10,Bachelor,6,11,Good
+Ali Raza,27,17,High School,6,14,Average
+Bilal Malik,33,33,Master,6,0,Average
+Ali Malik,24,22,Master,4,14,Average
+Fatima Ashraf,39,6,Master,6,10,Average
+Ayesha Sheikh,42,2,PhD,5,4,Excellent
+Bilal Sheikh,36,11,Master,8,6,Good
+Ahmed Malik,54,6,High School,4,11,Average
+Amna Chaudhry,56,25,Bachelor,9,19,Average
+Usman Chaudhry,47,32,Master,6,5,Good
+Ahmed Butt,29,14,Bachelor,9,2,Good
+Fatima Raza,57,1,Master,8,9,Good
+Ahmed Shah,51,6,Master,4,3,Average
+Zain Butt,44,31,Bachelor,8,12,Outstanding
+Sara Malik,35,3,PhD,9,18,Good
+Ali Sheikh,35,19,Bachelor,4,4,Low
+Ali Chaudhry,23,31,Bachelor,7,17,Average
+Bilal Ashraf,58,27,PhD,4,0,Average
+Bilal Ashraf,26,12,Bachelor,6,15,Good
+Ahmed Raza,59,0,Bachelor,9,15,Poor
+Ayesha Malik,35,34,Bachelor,8,15,Average
+Sara Iqbal,46,29,Master,8,18,Average
+Zain Chaudhry,41,24,Master,8,15,Low
+Zain Qureshi,23,15,Master,5,0,Average
+Usman Qureshi,27,18,Master,5,19,Good
+Sara Iqbal,38,0,Bachelor,6,19,Average
+Zain Iqbal,46,4,Master,7,9,Average
+Sara Shah,49,21,Master,5,1,Average
+Ayesha Khan,23,23,Bachelor,4,13,Average
+Sara Butt,56,3,High School,9,7,Average
+Bilal Malik,58,17,PhD,6,5,Low
+Sara Butt,26,15,Master,7,2,Low
+Zain Malik,22,17,Master,4,15,Good
+Amna Khan,33,21,Master,8,16,Average
+Fatima Ashraf,57,1,Bachelor,5,11,Good
+Ahmed Shah,44,20,Master,4,18,Average
+Zain Shah,52,28,Bachelor,7,19,Poor
+Fatima Iqbal,32,25,High School,6,2,Good
+Ahmed Butt,31,20,Master,4,12,Poor
+Ali Khan,24,16,Bachelor,6,15,Excellent
+Zain Malik,35,15,Master,8,10,Low
+Usman Qureshi,37,30,Bachelor,7,19,Average
+Sara Khan,31,8,Bachelor,7,15,Poor
+Usman Shah,50,30,Bachelor,5,19,Excellent
+Amna Qureshi,31,13,Bachelor,9,1,Outstanding
+Amna Shah,33,1,Bachelor,7,3,Low
+Bilal Shah,51,13,Bachelor,4,3,Average
+Ali Iqbal,22,32,PhD,4,16,Poor
+Amna Chaudhry,26,34,Bachelor,4,0,Good
+Ahmed Qureshi,41,19,Bachelor,8,0,Average
+Ali Qureshi,29,1,Bachelor,7,4,Average
+Ali Iqbal,33,18,Master,7,11,Poor
+Sara Sheikh,22,17,Bachelor,4,5,Good
+Amna Ashraf,41,15,Master,5,5,Average
+Bilal Chaudhry,49,3,Master,5,16,Good
+Ali Qureshi,58,11,Bachelor,7,12,Good
+Bilal Raza,58,28,Bachelor,7,7,Poor
+Usman Raza,33,6,PhD,6,11,Average
+Ali Shah,58,13,Master,7,14,Average
+Ali Butt,49,11,Master,4,18,Average
+Zain Chaudhry,36,34,High School,9,19,Low
+Usman Qureshi,27,4,Bachelor,8,16,Good
+Ahmed Malik,41,16,Bachelor,7,8,Outstanding
+Usman Sheikh,35,31,Bachelor,7,17,Outstanding
+Usman Sheikh,23,9,Bachelor,4,1,Good
+Hassan Ashraf,30,16,Master,6,10,Average
+Amna Iqbal,58,4,Bachelor,9,19,Average
+Ayesha Sheikh,41,8,Master,7,16,Poor
+Fatima Sheikh,47,32,Master,5,17,Average
+Ayesha Malik,50,17,Bachelor,5,14,Low
+Usman Ashraf,22,8,Master,5,6,Average
+Bilal Qureshi,56,28,High School,8,15,Excellent
+Amna Malik,27,13,Master,8,0,Outstanding
+Ayesha Chaudhry,58,24,Bachelor,9,17,Excellent
+Ali Butt,26,14,High School,7,7,Low
+Hassan Iqbal,54,5,Master,7,6,Excellent
+Fatima Khan,35,28,Bachelor,7,1,Low
+Hassan Chaudhry,33,14,PhD,8,11,Average
+Ahmed Ashraf,41,28,Bachelor,9,15,Average
+Ahmed Qureshi,45,3,Bachelor,7,8,Average
+Ali Chaudhry,55,17,Bachelor,4,19,Outstanding
+Ali Raza,46,15,Bachelor,6,10,Average
+Amna Khan,50,10,Bachelor,5,14,Average
+Usman Khan,52,13,Master,5,2,Poor
+Sara Khan,44,2,Master,4,12,Excellent
+Hassan Ashraf,59,17,Master,7,12,Average
+Bilal Sheikh,41,19,PhD,9,1,Good
+Ahmed Khan,44,24,Bachelor,9,5,Good
+Amna Shah,37,12,Master,8,5,Good
+Sara Ashraf,29,3,Bachelor,7,11,Average
+Sara Shah,42,13,Master,9,3,Average
+Fatima Qureshi,22,32,Bachelor,7,4,Average
+Ali Chaudhry,29,27,PhD,5,7,Outstanding
+Fatima Malik,50,7,Master,5,5,Good
+Amna Khan,53,33,PhD,8,2,Low
+Ahmed Raza,59,4,Master,5,7,Poor
+Amna Khan,26,4,PhD,7,18,Average
+Bilal Malik,43,30,Master,4,10,Good
+Hassan Qureshi,55,8,Bachelor,8,17,Average
+Ayesha Ashraf,22,31,Bachelor,4,9,Good
+Ali Iqbal,47,32,Bachelor,7,19,Excellent
+Hassan Khan,31,2,High School,8,11,Average
+Fatima Raza,51,29,Bachelor,4,19,Low
+Ayesha Chaudhry,39,11,Bachelor,8,7,Excellent
+Ayesha Chaudhry,38,28,Bachelor,7,18,Average
+Sara Butt,47,2,PhD,9,15,Average
+Fatima Chaudhry,29,25,PhD,8,17,Average
+Hassan Raza,33,29,Bachelor,9,8,Average
+Amna Raza,48,8,Bachelor,7,3,Good
+Ahmed Khan,29,25,Bachelor,8,8,Average
+Bilal Khan,46,1,Bachelor,8,1,Average
+Sara Iqbal,25,2,Master,9,8,Good
+Fatima Khan,54,3,Bachelor,5,8,Low
+Fatima Khan,22,24,Bachelor,9,17,Low
+Bilal Qureshi,40,12,Master,9,10,Good
+Ali Raza,52,34,Master,9,12,Excellent
+Amna Raza,37,22,High School,7,5,Low
+Bilal Butt,35,8,Master,6,8,Low
+Usman Sheikh,26,1,Bachelor,9,15,Good
+Ayesha Malik,47,30,Bachelor,8,3,Average
+Usman Raza,49,1,High School,4,1,Average
+Amna Shah,23,31,Bachelor,5,6,Poor
+Fatima Butt,27,17,Bachelor,9,14,Poor
+Ali Chaudhry,30,12,Bachelor,9,5,Good
+Ali Iqbal,54,4,Master,5,10,Average
+Ahmed Shah,46,9,Master,9,19,Excellent
+Ali Chaudhry,34,24,Bachelor,8,16,Average
+Zain Khan,30,33,High School,6,3,Average
+Bilal Sheikh,34,29,Master,9,18,Excellent
+Sara Qureshi,52,6,High School,5,6,Low
+Ayesha Ashraf,32,5,PhD,9,10,Average
+Bilal Ashraf,25,2,Master,7,12,Poor
+Fatima Butt,55,12,Bachelor,8,2,Average
+Ayesha Raza,59,2,Bachelor,8,13,Low
+Ali Raza,25,25,High School,6,1,Low
+Ahmed Chaudhry,59,23,Bachelor,7,17,Excellent
+Ali Sheikh,40,5,High School,7,4,Average
+Ali Sheikh,27,11,Master,6,12,Excellent
+Hassan Butt,55,1,Bachelor,4,12,Average
+Fatima Shah,39,10,Bachelor,9,13,Average
+Ali Iqbal,34,33,Bachelor,7,11,Poor
+Fatima Raza,44,25,Bachelor,4,12,Average
+Hassan Qureshi,40,17,High School,4,17,Average
+Hassan Qureshi,32,20,High School,8,12,Poor
+Ali Malik,22,21,High School,9,3,Good
+Ahmed Qureshi,45,29,Master,8,9,Average
+Zain Khan,28,29,Bachelor,5,4,Average
+Sara Ashraf,46,7,Master,8,17,Average
+Ahmed Malik,42,33,Bachelor,7,7,Outstanding
+Sara Ashraf,36,8,Bachelor,7,13,Poor
+Bilal Iqbal,22,19,Bachelor,9,1,Average
+Usman Qureshi,33,24,Master,4,7,Average
+Ayesha Sheikh,28,18,Bachelor,7,15,Poor
+Usman Shah,36,4,High School,8,6,Average
+Hassan Iqbal,42,10,Bachelor,8,2,Average
+Amna Raza,40,14,Bachelor,9,3,Low
+Ali Butt,50,7,Bachelor,8,6,Low
+Ali Sheikh,46,18,Master,6,3,Good
+Ali Khan,54,22,Bachelor,9,8,Low
+Usman Raza,53,26,Master,9,16,Average
+Ahmed Raza,56,31,Bachelor,7,16,Low
+Bilal Ashraf,59,25,Master,9,19,Low
+Ali Chaudhry,47,26,Master,5,13,Low
+Zain Qureshi,32,18,Bachelor,7,13,Average
+Ali Khan,56,28,Master,7,12,Low
+Ali Raza,29,32,Master,6,3,Poor
+Hassan Sheikh,35,18,Bachelor,7,12,Good
+Ali Ashraf,31,18,Bachelor,4,16,Average
+Ali Khan,23,32,Master,8,14,Low
+Hassan Khan,30,15,Bachelor,8,17,Average
+Ahmed Chaudhry,24,22,High School,9,10,Poor
+Bilal Shah,42,6,Master,6,3,Average
+Hassan Khan,47,25,High School,8,19,Average
+Bilal Shah,29,31,Master,4,10,Low
+Ahmed Ashraf,23,11,Master,6,9,Low
+Sara Sheikh,27,7,PhD,5,12,Average
+Ayesha Qureshi,49,4,High School,8,7,Good
+Hassan Sheikh,50,27,Bachelor,7,12,Low
+Usman Chaudhry,47,4,Bachelor,4,8,Low
+Zain Chaudhry,46,25,Bachelor,4,0,Average
+Sara Qureshi,33,4,High School,8,0,Average
+Hassan Shah,26,21,Bachelor,9,14,Poor
+Amna Butt,55,14,Bachelor,5,3,Average
+Usman Malik,58,12,High School,7,19,Average
+Ayesha Shah,36,27,Master,5,0,Low
+Ahmed Shah,57,32,Master,5,11,Average
+Sara Iqbal,36,22,Master,8,10,Poor
+Sara Iqbal,44,32,PhD,7,18,Good
+Usman Shah,27,17,Bachelor,8,14,Outstanding
+Fatima Butt,42,29,PhD,8,9,Average
+Amna Butt,44,25,Master,9,0,Average
+Fatima Chaudhry,37,15,Bachelor,4,2,Good
+Amna Ashraf,36,12,Bachelor,9,13,Average
+Bilal Qureshi,46,32,Bachelor,9,14,Good
+Ahmed Khan,57,25,Bachelor,8,0,Average
+Fatima Chaudhry,32,0,Bachelor,9,9,Average
+Sara Khan,36,1,Bachelor,9,0,Low
+Ayesha Khan,25,5,Master,6,14,Average
+Hassan Iqbal,42,23,Bachelor,7,2,Average
+Fatima Chaudhry,34,17,High School,4,19,Poor
+Sara Sheikh,43,26,Master,7,11,Average
+Ali Raza,40,7,Bachelor,4,18,Average
+Sara Qureshi,55,27,PhD,6,15,Average
+Amna Khan,35,9,High School,8,7,Excellent
+Sara Chaudhry,25,16,PhD,4,13,Low
+Bilal Ashraf,48,28,High School,4,17,Low
+Ahmed Sheikh,50,5,Bachelor,4,0,Excellent
+Sara Chaudhry,49,13,High School,6,1,Excellent
+Fatima Ashraf,56,21,Master,7,11,Average
+Zain Khan,29,5,Master,6,16,Low
+Fatima Chaudhry,37,25,Bachelor,4,1,Average
+Zain Sheikh,57,11,PhD,9,16,Low
+Zain Raza,51,34,Bachelor,4,6,Excellent
+Hassan Iqbal,39,13,Master,9,5,Good
+Ayesha Sheikh,23,21,Master,8,5,Low
+Hassan Khan,34,22,Bachelor,6,7,Excellent
+Ali Khan,25,6,Bachelor,9,4,Average
+Sara Chaudhry,47,24,PhD,6,14,Outstanding
+Sara Khan,46,12,PhD,5,6,Outstanding
+Amna Butt,51,20,PhD,7,2,Poor
+Usman Ashraf,32,9,PhD,5,9,Low
+Zain Raza,28,8,High School,9,2,Average
+Ahmed Ashraf,52,14,Master,5,13,Outstanding
+Ahmed Ashraf,31,1,Bachelor,7,2,Outstanding
+Usman Khan,34,24,PhD,9,0,Average
+Ahmed Chaudhry,52,12,Bachelor,8,0,Low
+Ahmed Malik,28,33,Bachelor,8,18,Low
+Amna Ashraf,57,33,Bachelor,7,3,Good
+Ali Ashraf,41,34,Bachelor,7,1,Average
+Bilal Chaudhry,25,2,High School,9,10,Average
+Ali Ashraf,28,5,Master,6,11,Average
+Ayesha Ashraf,22,18,Master,9,12,Good
+Ahmed Sheikh,34,2,High School,6,15,Excellent
+Bilal Butt,43,17,Master,6,15,Average
+Fatima Sheikh,42,8,Master,6,18,Low
+Amna Chaudhry,43,11,Bachelor,9,19,Good
+Fatima Raza,49,4,Bachelor,4,19,Excellent
+Zain Sheikh,30,2,Master,4,8,Average
+Bilal Qureshi,47,10,Master,8,15,Average
+Ayesha Sheikh,30,29,Bachelor,4,6,Low
+Ahmed Khan,36,3,Master,4,12,Average
+Zain Shah,31,4,High School,6,3,Low
+Zain Khan,45,0,Bachelor,6,12,Average
+Ahmed Chaudhry,29,26,Bachelor,7,7,Average
+Fatima Chaudhry,45,27,Bachelor,6,1,Average
+Sara Chaudhry,37,28,Master,9,6,Poor
+Ali Butt,47,17,PhD,7,10,Low
+Ahmed Ashraf,48,11,Bachelor,7,16,Average
+Ali Raza,58,12,Bachelor,4,13,Average
+Fatima Ashraf,25,1,Master,6,12,Average
+Ahmed Malik,45,15,Master,4,14,Good
+Fatima Butt,40,23,Master,6,8,Low
+Usman Qureshi,57,34,Master,4,2,Average
+Sara Raza,31,21,Bachelor,4,12,Average
+Ali Ashraf,46,10,Master,4,12,Excellent
+Ayesha Malik,39,28,High School,9,8,Average
+Usman Khan,40,34,Bachelor,8,17,Average
+Bilal Butt,57,14,Bachelor,4,4,Average
+Bilal Sheikh,31,30,Bachelor,5,10,Average
+Bilal Butt,54,15,PhD,5,1,Good
+Bilal Ashraf,26,9,Master,5,16,Low
+Amna Shah,56,31,High School,9,19,Good
+Ali Butt,55,1,Bachelor,7,3,Average
+Zain Raza,54,23,Bachelor,4,17,Outstanding
+Ahmed Butt,42,22,Bachelor,5,19,Average
+Ali Khan,38,1,Master,9,7,Excellent
+Ayesha Khan,43,30,PhD,7,18,Average
+Fatima Qureshi,58,25,PhD,5,11,Low
+Ali Malik,36,28,Master,6,10,Low
+Fatima Sheikh,56,2,Master,8,15,Excellent
+Bilal Sheikh,49,13,Bachelor,4,4,Average
+Ali Iqbal,28,24,Bachelor,8,2,Average
+Ali Ashraf,53,0,Bachelor,8,11,Low
+Zain Chaudhry,32,2,Bachelor,6,14,Outstanding
+Hassan Khan,31,25,Master,6,15,Low
+Bilal Sheikh,30,17,Bachelor,6,12,Low
+Zain Shah,35,8,Bachelor,7,6,Excellent
+Ahmed Khan,34,22,Bachelor,5,14,Excellent
+Ali Ashraf,46,20,PhD,4,2,Low
+Sara Raza,23,0,Bachelor,6,11,Excellent
+Bilal Iqbal,56,20,Master,9,7,Low
+Amna Qureshi,28,26,Master,4,11,Poor
+Ayesha Qureshi,42,5,Bachelor,4,17,Good
+Sara Malik,39,27,Bachelor,4,2,Good
+Usman Shah,24,16,Master,6,11,Average
+Zain Iqbal,32,2,Bachelor,6,1,Poor
+Hassan Sheikh,45,11,PhD,5,13,Low
+Usman Ashraf,40,11,Bachelor,6,13,Good
+Usman Shah,25,1,High School,6,3,Outstanding
+Ali Qureshi,47,21,Master,4,16,Average
+Zain Butt,59,22,Master,5,14,Good
+Sara Malik,53,29,PhD,8,15,Low
+Usman Raza,57,4,Master,6,4,Good
+Ahmed Qureshi,58,8,PhD,9,16,Poor
+Ali Butt,54,20,Master,6,6,Average
+Ali Qureshi,57,10,Master,8,14,Average
+Bilal Butt,24,4,Bachelor,4,16,Excellent
+Hassan Qureshi,30,34,Bachelor,5,11,Average
+Ali Iqbal,29,26,PhD,4,10,Average
+Bilal Sheikh,54,1,Bachelor,7,18,Good
+Fatima Shah,27,23,Bachelor,6,10,Average
+Fatima Sheikh,25,30,Bachelor,9,1,Low
+Hassan Khan,34,32,Bachelor,7,14,Average
+Ayesha Butt,23,29,Bachelor,6,4,Good
+Hassan Qureshi,26,27,High School,7,17,Average
+Sara Qureshi,48,30,Master,8,15,Low
+Zain Khan,53,10,Bachelor,6,3,Average
+Ahmed Malik,42,22,Bachelor,9,9,Outstanding
+Ali Ashraf,29,1,High School,6,1,Poor
+Amna Shah,59,26,High School,7,14,Average
+Zain Raza,29,34,Bachelor,5,3,Average
+Amna Khan,24,1,Master,7,15,Poor
+Bilal Iqbal,24,20,High School,6,6,Average
+Bilal Iqbal,43,4,PhD,6,11,Excellent
+Hassan Chaudhry,27,20,Bachelor,5,2,Poor
+Sara Butt,23,28,Bachelor,4,16,Good
+Ayesha Malik,44,19,Bachelor,5,8,Good
+Bilal Khan,23,19,High School,4,7,Average
+Amna Chaudhry,59,24,Master,9,5,Low
+Amna Chaudhry,38,1,Master,6,14,Excellent
+Zain Sheikh,56,31,Master,8,9,Good
+Ali Butt,55,25,Bachelor,8,5,Low
+Ahmed Sheikh,44,5,Bachelor,7,14,Low
+Sara Raza,51,2,Bachelor,5,13,Average
+Ahmed Khan,29,32,PhD,5,18,Average
+Bilal Malik,43,0,Bachelor,8,12,Average
+Bilal Raza,57,4,Master,4,13,Outstanding
+Ahmed Chaudhry,26,12,Bachelor,5,2,Average
+Ayesha Ashraf,34,18,Bachelor,4,3,Excellent
+Ali Malik,50,11,Bachelor,4,13,Good
+Bilal Iqbal,52,24,High School,4,13,Low
+Bilal Iqbal,37,34,Master,4,7,Good
+Fatima Qureshi,51,11,Bachelor,7,9,Average
+Amna Butt,37,29,Master,7,8,Low
+Usman Chaudhry,33,4,High School,8,13,Average
+Zain Iqbal,38,33,PhD,7,7,Average
+Bilal Malik,37,21,Bachelor,9,10,Average
+Bilal Sheikh,33,12,Master,5,9,Outstanding
+Ahmed Chaudhry,29,2,Master,9,17,Excellent
+Zain Chaudhry,41,19,PhD,7,3,Low
+Ali Malik,24,30,Bachelor,5,3,Good
+Zain Malik,37,4,Master,5,11,Poor
+Ayesha Iqbal,51,23,Bachelor,4,17,Low
+Fatima Shah,44,32,Bachelor,8,7,Low
+Ayesha Shah,49,7,Bachelor,4,2,Average
+Hassan Chaudhry,26,23,Bachelor,4,17,Low
+Zain Butt,41,19,PhD,9,6,Average
+Usman Sheikh,22,15,High School,7,0,Low
+Ayesha Shah,51,11,Bachelor,9,12,Average
+Ahmed Chaudhry,42,12,Master,7,2,Excellent
+Zain Shah,41,24,Bachelor,9,2,Outstanding
+Usman Shah,27,31,Master,5,14,Good
+Fatima Raza,43,23,High School,7,18,Average
+Usman Butt,39,8,Bachelor,7,3,Good
+Ayesha Ashraf,29,22,Bachelor,9,12,Good
+Usman Ashraf,53,12,PhD,6,12,Good
+Ayesha Qureshi,54,31,Master,5,14,Poor
+Ayesha Butt,37,14,PhD,5,18,Average
+Ali Raza,33,4,High School,6,15,Average
+Ahmed Qureshi,59,21,Bachelor,9,6,Average
+Hassan Ashraf,55,15,Bachelor,9,2,Average
+Ayesha Shah,35,9,High School,5,19,Good
+Zain Malik,57,23,Bachelor,9,1,Good
+Sara Butt,54,17,Master,8,17,Poor
+Sara Shah,44,17,Bachelor,8,10,Average
+Hassan Iqbal,23,6,Bachelor,6,0,Average
+Fatima Khan,42,3,Master,7,15,Low
+Amna Sheikh,23,25,Master,8,16,Poor
+Ali Qureshi,48,4,Bachelor,9,15,Good
+Amna Shah,30,15,Bachelor,6,9,Average
+Ahmed Iqbal,22,34,Bachelor,8,16,Excellent
+Zain Khan,32,25,Bachelor,4,2,Good
+Ahmed Raza,24,17,Master,6,17,Excellent
+Sara Khan,44,28,Bachelor,5,18,Poor
+Sara Khan,47,22,Master,8,13,Low
+Hassan Khan,25,13,Master,5,1,Average
+Fatima Raza,39,14,Master,6,11,Low
+Ayesha Ashraf,27,32,Bachelor,8,10,Average
+Hassan Iqbal,56,24,Bachelor,5,16,Good
+Bilal Malik,43,20,Master,7,5,Outstanding
+Usman Raza,36,16,Bachelor,7,18,Excellent
+Fatima Butt,43,22,Bachelor,4,12,Average
+Zain Butt,58,16,Bachelor,9,6,Average
+Ahmed Butt,33,13,Bachelor,6,10,Low
+Zain Iqbal,59,28,Master,9,6,Average
+Fatima Ashraf,39,19,Bachelor,9,12,Excellent
+Ahmed Qureshi,56,29,Bachelor,5,12,Poor
+Ali Qureshi,51,18,Bachelor,4,0,Average
+Usman Shah,45,12,Bachelor,6,18,Excellent
+Usman Sheikh,51,17,Master,7,18,Low
+Zain Raza,35,22,Master,9,14,Outstanding
+Sara Raza,27,32,Bachelor,5,13,Poor
+Sara Qureshi,24,17,High School,9,2,Excellent
+Bilal Iqbal,37,8,Bachelor,8,19,Average
+Usman Khan,28,32,Master,7,3,Low
+Hassan Sheikh,35,31,Bachelor,9,6,Low
+Ahmed Chaudhry,30,16,Master,8,0,Good
+Usman Raza,36,18,Bachelor,8,18,Excellent
+Ayesha Chaudhry,42,26,Master,5,2,Average
+Ayesha Qureshi,56,5,Bachelor,5,19,Excellent
+Bilal Shah,23,34,Master,8,14,Good
+Fatima Butt,48,33,Bachelor,4,12,Poor
+Ayesha Raza,23,19,Master,9,13,Good
+Hassan Qureshi,56,24,High School,8,6,Average
+Amna Chaudhry,39,3,Bachelor,8,0,Average
+Bilal Chaudhry,35,9,Master,5,12,Poor
+Ali Khan,41,9,Bachelor,9,3,Average
+Amna Ashraf,39,23,Master,6,11,Average
+Amna Chaudhry,31,20,Master,7,6,Low
+Zain Qureshi,46,10,Bachelor,5,1,Average
+Ayesha Malik,23,26,Bachelor,9,16,Excellent
+Hassan Malik,46,15,Bachelor,9,0,Poor
+Fatima Qureshi,54,25,Bachelor,4,13,Good
+Fatima Qureshi,57,29,Bachelor,7,0,Average
+Ayesha Qureshi,52,15,Master,5,2,Poor
+Sara Sheikh,35,6,Bachelor,5,10,Good
+Amna Raza,22,15,Bachelor,6,6,Low
+Usman Chaudhry,37,34,Bachelor,4,8,Average
+Bilal Ashraf,24,15,High School,4,2,Poor
+Ahmed Khan,56,11,Bachelor,9,0,Average
+Hassan Qureshi,27,34,Master,9,18,Average
+Ayesha Shah,46,20,Master,5,1,Average
+Bilal Shah,34,16,Bachelor,6,4,Low
+Usman Chaudhry,55,31,PhD,5,16,Good
+Zain Raza,29,5,Bachelor,8,18,Excellent
+Fatima Raza,42,23,PhD,9,4,Average
+Amna Butt,55,26,Master,8,13,Low
+Fatima Iqbal,25,19,Master,6,9,Poor
+Ayesha Sheikh,46,24,High School,5,6,Excellent
+Amna Sheikh,36,1,Bachelor,9,7,Poor
+Ayesha Malik,25,8,High School,6,7,Poor
+Hassan Sheikh,33,27,Master,5,6,Average
+Ayesha Iqbal,53,2,Bachelor,5,12,Good
+Ahmed Ashraf,53,19,Master,8,13,Average
+Ali Raza,49,5,Bachelor,7,18,Poor
+Fatima Raza,34,32,Master,4,10,Good
+Ayesha Shah,52,0,High School,9,1,Average
+Fatima Ashraf,35,5,Bachelor,4,16,Good
+Ayesha Chaudhry,41,33,Bachelor,6,5,Low
+Ayesha Butt,39,14,Bachelor,4,8,Good
+Ali Butt,50,25,Bachelor,8,18,Average
+Usman Chaudhry,27,13,Master,7,4,Average
+Zain Chaudhry,53,6,High School,9,8,Average
+Ali Butt,50,30,Bachelor,5,6,Average
+Sara Iqbal,23,23,Master,5,3,Average
+Ali Shah,44,30,High School,8,17,Poor
+Amna Qureshi,40,28,PhD,9,17,Average
+Bilal Khan,52,31,PhD,4,19,Average
+Ahmed Sheikh,26,16,High School,5,16,Good
+Sara Ashraf,40,13,Bachelor,4,3,Poor
+Bilal Chaudhry,55,23,Bachelor,8,15,Excellent
+Hassan Sheikh,31,26,Master,5,4,Average
+Fatima Sheikh,46,24,Bachelor,6,8,Average
+Ali Butt,23,31,Master,7,1,Poor
+Fatima Sheikh,32,17,Master,4,1,Good
+Fatima Khan,52,17,High School,9,3,Good
+Usman Butt,36,25,Master,4,19,Excellent
+Ayesha Raza,30,8,Master,4,19,Average
+Ahmed Chaudhry,44,34,Bachelor,4,16,Average
+Ahmed Butt,40,7,Master,8,19,Good
+Ali Sheikh,30,19,Master,8,18,Good
+Zain Shah,56,21,Bachelor,9,2,Excellent
+Bilal Shah,42,18,Bachelor,8,4,Low
+Bilal Butt,30,29,Bachelor,9,9,Good
+Bilal Khan,49,27,High School,9,5,Poor
+Usman Iqbal,28,34,PhD,8,2,Average
+Sara Ashraf,37,10,High School,5,16,Low
+Usman Ashraf,37,30,Master,8,9,Good
+Amna Raza,54,29,Bachelor,5,11,Average
+Usman Khan,25,22,High School,6,0,Poor
+Sara Raza,25,18,PhD,8,17,Average
+Fatima Qureshi,38,11,Master,6,18,Average
+Ahmed Malik,58,14,Bachelor,8,19,Low
+Bilal Iqbal,50,30,Bachelor,6,3,Poor
+Zain Qureshi,57,14,High School,7,14,Average
+Ahmed Malik,59,28,Bachelor,6,8,Good
+Usman Qureshi,58,25,Bachelor,5,5,Average
+Ayesha Butt,56,1,Bachelor,4,11,Average
+Amna Chaudhry,28,19,PhD,9,17,Excellent
+Amna Ashraf,48,14,Bachelor,6,14,Poor
+Bilal Sheikh,49,3,Master,4,18,Good
+Fatima Butt,43,21,Master,7,8,Average
+Fatima Raza,35,22,Bachelor,7,12,Excellent
+Ahmed Shah,28,25,Master,5,15,Average
+Usman Raza,58,10,Bachelor,5,12,Good
+Sara Sheikh,43,27,Master,6,0,Poor
+Sara Khan,26,1,Bachelor,8,17,Excellent
+Zain Iqbal,23,7,High School,7,2,Average
+Ahmed Malik,48,28,Master,4,16,Average
+Fatima Khan,42,10,Bachelor,8,4,Low
+Bilal Qureshi,59,17,Master,7,5,Excellent
+Amna Chaudhry,36,13,PhD,6,16,Good
+Usman Chaudhry,42,9,High School,7,16,Poor
+Usman Malik,31,34,Bachelor,5,0,Low
+Usman Khan,44,8,Bachelor,4,6,Average
+Ali Shah,26,34,Master,4,15,Low
+Hassan Shah,22,10,Master,5,4,Average
+Ali Iqbal,34,11,Bachelor,8,15,Outstanding
+Ayesha Butt,42,2,Bachelor,5,3,Good
+Ahmed Raza,47,13,Master,4,10,Excellent
+Usman Qureshi,42,27,High School,6,13,Average
+Bilal Malik,39,10,Master,8,12,Good
+Amna Qureshi,58,24,Master,9,7,Average
+Zain Chaudhry,53,20,PhD,7,19,Average
+Ahmed Shah,57,9,Bachelor,9,14,Average
+Ali Iqbal,38,14,High School,6,17,Average
+Zain Malik,56,18,Bachelor,9,6,Outstanding
+Ayesha Malik,32,21,High School,8,18,Average
+Ali Butt,42,20,PhD,4,8,Good
+Sara Chaudhry,47,31,High School,4,10,Good
+Sara Qureshi,25,22,Master,6,9,Average
+Amna Raza,55,12,Bachelor,9,13,Average
+Fatima Shah,39,4,Bachelor,8,15,Average
+Ayesha Sheikh,56,3,High School,7,7,Low
+Usman Iqbal,50,27,Master,9,0,Good
+Hassan Raza,50,13,Bachelor,9,11,Excellent
+Hassan Ashraf,59,7,Bachelor,7,2,Low
+Sara Khan,42,8,PhD,5,1,Excellent
+Usman Malik,34,34,Bachelor,6,15,Low
+Ali Chaudhry,38,20,Bachelor,8,3,Average
+Hassan Sheikh,30,17,Bachelor,6,1,Average
+Ali Iqbal,22,32,High School,7,11,Low
+Ali Malik,23,7,PhD,8,16,Poor
+Ayesha Raza,50,16,Bachelor,4,19,Average
+Hassan Qureshi,54,30,High School,4,9,Poor
+Ayesha Butt,31,33,Bachelor,8,19,Low
+Usman Malik,42,5,Master,6,7,Low
+Ahmed Khan,49,21,Bachelor,6,17,Poor
+Ayesha Ashraf,32,13,Master,4,17,Low
+Fatima Shah,55,2,High School,4,17,Average
+Ali Malik,29,11,Bachelor,7,1,Good
+Usman Khan,43,11,Master,8,11,Low
+Ahmed Sheikh,29,1,High School,6,9,Poor
+Fatima Ashraf,36,1,Master,7,7,Good
+Hassan Chaudhry,38,14,High School,6,18,Poor
+Ayesha Malik,44,22,Master,4,9,Good
+Fatima Ashraf,45,28,Bachelor,8,10,Low
+Ahmed Malik,40,16,Master,5,13,Low
+Bilal Shah,26,31,Bachelor,8,14,Low
+Hassan Qureshi,53,6,High School,9,9,Low
+Bilal Butt,22,29,Bachelor,5,3,Good
+Bilal Sheikh,44,27,High School,7,6,Low
+Ali Sheikh,58,13,Bachelor,5,10,Outstanding
+Usman Sheikh,29,29,Bachelor,5,2,Average
+Ali Shah,34,16,Bachelor,7,4,Excellent
+Zain Butt,29,31,Master,8,1,Low
+Zain Butt,44,5,Master,7,11,Low
+Ahmed Chaudhry,22,23,Master,9,4,Average
+Bilal Ashraf,45,5,Bachelor,4,6,Poor
+Zain Khan,56,26,Bachelor,4,3,Good
+Ahmed Butt,45,17,Bachelor,5,10,Average
+Hassan Malik,38,23,Master,7,8,Good
+Bilal Butt,26,23,Bachelor,7,3,Low
+Usman Malik,41,33,High School,7,8,Average
+Ayesha Ashraf,42,14,Master,9,11,Average
+Usman Iqbal,52,10,Bachelor,9,15,Good
+Zain Chaudhry,57,21,Master,8,0,Average
+Sara Ashraf,32,23,Master,6,7,Excellent
+Amna Iqbal,36,0,High School,6,0,Outstanding
+Zain Malik,40,17,High School,6,19,Excellent
+Bilal Raza,28,11,Bachelor,8,18,Average
+Hassan Ashraf,49,27,Master,7,3,Average
+Bilal Sheikh,26,6,Bachelor,6,13,Poor
+Amna Chaudhry,26,22,Master,7,13,Excellent
+Usman Khan,51,20,Bachelor,5,8,Outstanding
+Ahmed Iqbal,53,33,Bachelor,6,8,Poor
+Hassan Butt,29,10,High School,5,16,Average
+Ahmed Malik,31,21,Master,8,14,Excellent
+Hassan Ashraf,59,34,Bachelor,4,9,Poor
+Sara Ashraf,53,28,Master,9,16,Low
+Ayesha Khan,49,27,Bachelor,8,8,Outstanding
+Amna Raza,38,17,Bachelor,8,3,Good
+Amna Shah,52,13,Master,8,13,Excellent
+Bilal Raza,29,17,Master,6,2,Low
+Ali Butt,46,27,Bachelor,5,11,Low
+Hassan Chaudhry,30,23,Bachelor,9,0,Average
+Hassan Malik,23,7,Master,6,0,Average
+Hassan Butt,36,7,Bachelor,4,12,Average
+Fatima Malik,24,3,Bachelor,9,13,Excellent
+Hassan Khan,57,26,PhD,8,15,Excellent
+Ali Shah,25,4,Bachelor,7,6,Average
+Bilal Khan,35,32,High School,4,9,Low
+Amna Iqbal,46,33,High School,5,14,Low
+Usman Malik,31,29,Master,4,7,Average
+Zain Chaudhry,42,7,Master,6,10,Low
+Ayesha Iqbal,57,25,Bachelor,7,13,Average
+Amna Raza,33,33,Bachelor,6,12,Average
+Hassan Ashraf,48,6,Bachelor,9,12,Excellent
+Fatima Khan,23,27,Master,8,8,Average
+Sara Butt,34,27,High School,8,16,Average
+Fatima Iqbal,53,13,PhD,4,17,Good
+Zain Chaudhry,52,3,Bachelor,8,18,Average
+Hassan Ashraf,37,17,PhD,8,12,Outstanding
+Hassan Malik,53,24,Bachelor,9,11,Average
+Ali Raza,53,6,Master,5,19,Excellent
+Usman Ashraf,55,27,Bachelor,5,19,Low
+Fatima Qureshi,32,4,High School,6,7,Average
+Amna Iqbal,31,2,Master,6,10,Average
+Fatima Malik,36,30,Master,5,6,Outstanding
+Usman Sheikh,38,19,Bachelor,4,0,Low
+Hassan Sheikh,39,18,Master,5,9,Low
+Bilal Malik,30,10,Bachelor,6,14,Average
+Ayesha Chaudhry,46,2,Master,7,3,Low
+Sara Raza,35,22,Bachelor,8,0,Average
+Ali Shah,46,6,Bachelor,9,10,Outstanding
+Sara Butt,43,22,Bachelor,7,4,Excellent
+Sara Ashraf,51,6,Bachelor,7,18,Low
+Ali Shah,41,33,Master,8,18,Low
+Usman Chaudhry,42,18,Bachelor,5,3,Average
+Ali Butt,53,8,High School,4,1,Average
+Hassan Chaudhry,42,17,Bachelor,7,6,Good
+Amna Sheikh,56,24,Master,4,12,Good
+Hassan Khan,53,13,Bachelor,9,19,Average
+Amna Khan,51,24,Bachelor,9,11,Low
+Amna Shah,33,18,PhD,9,1,Good
+Zain Butt,39,14,Bachelor,6,8,Poor
+Amna Sheikh,42,15,Master,7,15,Poor
+Zain Sheikh,34,26,Master,9,7,Good
+Ahmed Malik,42,9,Bachelor,6,17,Average
+Bilal Chaudhry,29,3,PhD,9,3,Good
+Zain Ashraf,28,18,Master,5,10,Average
+Amna Shah,44,27,Bachelor,7,16,Poor
+Bilal Chaudhry,53,20,Bachelor,6,7,Average
+Sara Qureshi,32,13,Master,9,18,Average
+Bilal Ashraf,43,32,Bachelor,6,7,Low
+Ayesha Butt,43,9,Master,9,5,Good
+Ahmed Sheikh,46,18,Bachelor,5,1,Good
+Bilal Chaudhry,43,29,Bachelor,4,14,Average
+Amna Qureshi,49,21,Bachelor,9,0,Excellent
+Amna Ashraf,50,2,High School,4,5,Excellent
+Amna Raza,34,17,High School,7,18,Excellent
+Sara Raza,39,10,Master,5,3,Good
+Zain Qureshi,23,1,Master,7,12,Average
+Fatima Sheikh,50,11,Master,4,14,Average
+Ahmed Iqbal,42,5,Master,5,8,Good
+Amna Ashraf,36,28,Master,8,2,Low
+Ali Ashraf,48,29,Bachelor,5,1,Good
+Amna Butt,52,1,Master,5,15,Average
+Zain Chaudhry,36,8,Bachelor,8,17,Poor
+Bilal Iqbal,44,1,PhD,6,17,Average
+Ayesha Shah,45,28,Master,6,5,Poor
+Usman Iqbal,34,32,Bachelor,6,17,Poor
+Ali Khan,43,9,Bachelor,4,10,Excellent
+Bilal Sheikh,58,33,Bachelor,5,6,Average
+Usman Khan,54,7,High School,9,13,Average
+Sara Qureshi,24,32,Bachelor,8,17,Average
+Ahmed Qureshi,40,5,Bachelor,9,6,Average
+Ayesha Sheikh,44,18,High School,4,9,Low
+Usman Qureshi,50,31,PhD,8,7,Good
+Sara Iqbal,51,26,Master,9,13,Good
+Usman Ashraf,46,0,Master,4,17,Excellent
+Hassan Malik,58,32,Master,4,4,Low
+Zain Iqbal,29,31,Bachelor,4,13,Average
+Sara Iqbal,37,4,Bachelor,8,9,Good
+Bilal Raza,29,16,Master,9,14,Low
+Amna Qureshi,22,7,PhD,9,5,Poor
+Usman Shah,26,33,Bachelor,7,8,Good
+Bilal Shah,24,8,Master,4,9,Good
+Fatima Iqbal,22,22,PhD,6,16,Average
+Usman Khan,25,34,Master,5,0,Low
+Ayesha Raza,56,6,PhD,7,13,Average
+Zain Butt,53,14,Bachelor,7,3,Average
+Sara Ashraf,55,19,PhD,8,1,Average
+Zain Iqbal,46,24,Master,7,2,Average
+Zain Raza,31,2,High School,9,6,Average
+Sara Qureshi,42,23,PhD,8,13,Good
+Hassan Sheikh,48,33,Bachelor,8,11,Good
+Ali Sheikh,48,21,Bachelor,6,18,Average
+Ahmed Iqbal,23,10,Bachelor,4,17,Low
+Ali Shah,34,7,High School,7,14,Average
+Usman Shah,30,34,Bachelor,4,0,Poor
+Ayesha Iqbal,57,7,Master,4,2,Average
+Ayesha Sheikh,43,26,High School,4,14,Outstanding
+Ahmed Chaudhry,47,27,Bachelor,8,3,Average
+Ayesha Khan,33,33,High School,4,14,Low
+Fatima Butt,38,31,Bachelor,7,9,Average
+Ahmed Khan,35,14,Master,8,5,Poor
+Ahmed Ashraf,35,16,Master,7,12,Low
+Zain Khan,55,32,PhD,8,6,Average
+Zain Qureshi,41,15,Master,5,0,Average
+Hassan Chaudhry,32,28,Bachelor,5,10,Low
+Amna Ashraf,37,8,PhD,5,13,Low
+Ali Ashraf,52,32,Master,5,5,Good
+Amna Raza,27,28,Bachelor,8,4,Average
+Ahmed Iqbal,40,12,Master,4,18,Good
+Ali Iqbal,58,20,PhD,6,18,Low
+Ahmed Shah,25,20,Master,9,12,Good
+Amna Iqbal,25,4,Bachelor,6,6,Average
+Bilal Malik,41,9,Master,5,7,Average
+Fatima Raza,31,5,High School,4,13,Average
+Sara Ashraf,45,12,Bachelor,7,18,Average
+Fatima Ashraf,56,0,Bachelor,4,18,Average
+Ayesha Raza,47,19,Bachelor,7,11,Poor
+Zain Iqbal,58,7,High School,6,8,Good
+Hassan Iqbal,59,9,High School,4,13,Low
+Usman Malik,42,8,Master,4,5,Average
+Fatima Butt,42,2,Master,9,14,Average
+Sara Chaudhry,31,10,PhD,6,12,Average
+Zain Raza,59,11,Bachelor,4,6,Excellent
+Usman Ashraf,25,9,Bachelor,7,10,Outstanding
+Bilal Malik,41,24,PhD,4,9,Poor
+Bilal Qureshi,38,24,Bachelor,7,0,Average
+Amna Qureshi,28,10,Master,5,6,Good
+Usman Iqbal,25,25,Master,4,17,Average
+Fatima Iqbal,50,13,High School,7,2,Average
+Amna Butt,35,0,Master,6,8,Outstanding
+Hassan Khan,24,3,Master,5,4,Average
+Ayesha Raza,45,29,High School,4,12,Low
+Fatima Iqbal,58,11,High School,9,15,Good
+Ali Malik,37,34,High School,7,15,Outstanding
+Ahmed Iqbal,25,12,Bachelor,9,11,Good
+Amna Khan,45,30,Bachelor,4,17,Average
+Ali Raza,55,22,Bachelor,7,10,Excellent
+Sara Shah,51,3,Bachelor,4,16,Outstanding
+Ali Raza,39,15,PhD,5,6,Excellent
+Amna Shah,40,6,Bachelor,5,14,Average
+Ali Sheikh,52,21,High School,4,5,Good
+Usman Butt,40,28,Bachelor,4,5,Good
+Fatima Khan,40,10,Bachelor,8,17,Low
+Ali Malik,43,32,Bachelor,4,18,Average
+Usman Sheikh,45,28,Bachelor,4,19,Good
+Ayesha Iqbal,33,11,High School,9,18,Excellent
+Ali Chaudhry,51,6,Master,9,1,Excellent
+Sara Qureshi,59,25,PhD,5,2,Low
+Bilal Shah,52,8,Bachelor,9,13,Average
+Hassan Shah,57,33,Bachelor,4,3,Average
+Bilal Ashraf,40,12,Master,6,16,Excellent
+Usman Shah,57,24,Master,4,5,Poor
+Ali Iqbal,51,23,Bachelor,8,18,Good
+Usman Chaudhry,54,16,PhD,7,8,Average
+Ali Chaudhry,39,1,Bachelor,5,3,Excellent
+Usman Malik,49,12,Bachelor,9,6,Average
+Fatima Iqbal,32,30,Master,6,3,Good
+Ali Qureshi,54,28,PhD,7,10,Outstanding
+Ayesha Chaudhry,38,27,Master,6,1,Good
+Ali Qureshi,27,26,High School,5,9,Poor
+Hassan Shah,25,14,Bachelor,9,5,Low
+Bilal Khan,41,30,Bachelor,8,7,Good
+Hassan Sheikh,48,14,Bachelor,5,14,Average
+Amna Raza,36,32,Master,6,12,Good
+Ahmed Shah,27,19,Master,6,1,Good
+Amna Qureshi,35,11,Master,5,19,Outstanding
+Ahmed Qureshi,32,8,PhD,4,0,Average
+Fatima Khan,30,22,Bachelor,5,14,Good
+Amna Iqbal,47,7,Master,9,6,Poor
+Ahmed Malik,37,31,Master,9,17,Average
+Usman Khan,26,13,Bachelor,8,9,Low
+Zain Chaudhry,31,26,Master,5,14,Good
+Bilal Iqbal,24,24,High School,7,4,Good
+Amna Malik,34,12,Master,9,10,Low
+Ayesha Raza,51,20,Bachelor,9,7,Average
+Fatima Raza,27,30,Bachelor,9,7,Good
+Bilal Iqbal,38,4,Master,4,5,Good
+Ahmed Sheikh,40,12,Master,7,14,Good
+Ahmed Raza,56,27,Bachelor,5,14,Outstanding
+Zain Qureshi,47,24,High School,4,4,Excellent
+Sara Malik,26,34,Bachelor,9,12,Average
+Ahmed Chaudhry,50,6,Bachelor,7,13,Average
+Usman Iqbal,58,31,Master,7,10,Average
+Hassan Iqbal,41,2,PhD,4,19,Good
+Ali Qureshi,42,21,Bachelor,9,11,Average
+Ali Qureshi,31,7,Master,4,19,Good
+Ali Raza,26,16,Bachelor,6,0,Poor
+Zain Butt,57,26,Master,9,2,Excellent
+Fatima Ashraf,27,32,Bachelor,4,7,Good
+Ahmed Raza,47,16,Bachelor,5,11,Average
+Ali Qureshi,25,11,Master,9,14,Average
+Zain Malik,56,26,High School,8,2,Low
+Sara Ashraf,22,7,Master,9,7,Good
+Hassan Butt,45,22,Master,6,18,Good
+Fatima Chaudhry,57,28,Bachelor,4,19,Average
+Ayesha Chaudhry,27,19,Bachelor,8,5,Low
+Ahmed Chaudhry,52,15,Master,6,17,Average
+Zain Ashraf,41,16,Master,5,10,Average
+Fatima Shah,45,15,Bachelor,9,11,Average
+Ahmed Khan,46,18,Bachelor,8,1,Average
+Fatima Raza,57,7,Master,4,4,Low
+Sara Shah,42,28,Bachelor,4,3,Average
+Ayesha Ashraf,51,25,Bachelor,5,8,Good
+Ahmed Ashraf,45,30,Bachelor,6,12,Excellent
+Hassan Butt,51,11,Master,8,12,Average
+Hassan Ashraf,43,16,Master,5,14,Good
+Ayesha Butt,49,14,PhD,6,1,Low
+Amna Malik,28,8,Master,7,12,Average
+Ahmed Chaudhry,56,11,PhD,7,6,Excellent
+Ali Qureshi,49,31,Bachelor,6,16,Poor
+Ahmed Iqbal,35,24,Master,4,7,Average
+Sara Qureshi,31,17,High School,4,17,Low
+Ali Malik,37,14,Master,7,14,Average
+Usman Iqbal,37,31,Bachelor,4,14,Good
+Usman Chaudhry,52,5,Bachelor,4,4,Poor
+Zain Shah,46,34,Master,6,1,Poor
+Zain Raza,34,33,Master,9,15,Excellent
+Usman Iqbal,27,4,High School,6,4,Average
+Ayesha Iqbal,30,17,Master,4,5,Average
+Amna Butt,57,15,Bachelor,6,11,Excellent
+Ahmed Ashraf,41,7,Bachelor,8,4,Average
+Bilal Raza,39,24,Master,7,19,Excellent
+Zain Qureshi,42,31,Bachelor,9,7,Outstanding
+Ahmed Butt,25,25,PhD,8,10,Low
+Amna Iqbal,54,21,Bachelor,8,13,Average
+Ali Shah,48,30,Master,4,16,Average
+Fatima Iqbal,28,9,Master,4,9,Excellent
+Usman Raza,27,11,Bachelor,8,1,Average
+Zain Sheikh,36,27,Bachelor,8,2,Good
+Amna Sheikh,39,5,Master,5,12,Outstanding
+Hassan Sheikh,53,19,Master,5,16,Good
+Ahmed Chaudhry,32,4,Bachelor,7,2,Excellent
+Zain Sheikh,41,22,Bachelor,8,9,Good
+Hassan Ashraf,45,8,High School,6,7,Excellent
+Usman Raza,36,28,Bachelor,9,3,Low
+Hassan Raza,28,15,Bachelor,5,12,Good
+Ali Qureshi,42,21,High School,4,6,Good
+Fatima Raza,47,7,Master,8,6,Average
+Usman Raza,35,19,Master,6,15,Poor
+Amna Ashraf,58,13,PhD,9,4,Average
+Bilal Butt,42,33,Master,6,16,Poor
+Hassan Khan,39,10,PhD,6,9,Average
+Usman Ashraf,26,32,Bachelor,4,3,Average
+Ali Iqbal,24,30,Master,5,13,Outstanding
+Ayesha Qureshi,44,33,PhD,6,4,Average
+Zain Iqbal,47,6,Master,9,1,Good
+Zain Sheikh,58,22,High School,5,13,Poor
+Bilal Shah,45,6,Master,7,17,Average
+Fatima Chaudhry,40,24,PhD,4,10,Average
+Ali Iqbal,46,2,Master,5,15,Average
+Ayesha Shah,42,19,Bachelor,5,17,Good
+Sara Iqbal,33,33,Master,6,15,Good
+Bilal Ashraf,54,29,PhD,9,3,Good
+Fatima Butt,25,16,High School,6,0,Average
+Hassan Chaudhry,28,9,Master,9,13,Good
+Usman Iqbal,43,34,Bachelor,4,11,Average
+Ahmed Butt,54,19,Master,5,9,Poor
+Ahmed Raza,38,17,Master,8,18,Excellent
+Ali Iqbal,45,26,Bachelor,9,3,Excellent
+Ayesha Raza,55,22,Bachelor,9,19,Average
+Ahmed Sheikh,49,31,Master,6,2,Excellent
+Ahmed Ashraf,43,9,High School,6,3,Good
+Zain Malik,38,10,Bachelor,7,14,Average
+Sara Shah,55,5,Master,9,10,Average
+Fatima Malik,27,33,Bachelor,4,15,Outstanding
+Hassan Butt,27,16,Bachelor,5,3,Good
+Hassan Raza,55,11,PhD,5,5,Average
+Zain Sheikh,22,20,Bachelor,5,7,Average
+Bilal Khan,31,18,Bachelor,9,12,Average
+Sara Khan,42,2,Master,6,19,Average
+Ahmed Chaudhry,26,17,Master,4,3,Average
+Zain Sheikh,23,18,PhD,5,4,Average
+Ahmed Iqbal,43,5,PhD,9,9,Good
+Usman Chaudhry,23,15,Master,8,4,Excellent
+Ahmed Khan,31,7,Bachelor,7,11,Outstanding
+Ahmed Qureshi,55,17,High School,7,0,Good
+Ahmed Iqbal,37,11,Bachelor,5,9,Excellent
+Bilal Chaudhry,43,9,High School,6,4,Excellent
+Zain Khan,33,6,Master,7,18,Average
+Ayesha Malik,45,0,Master,7,18,Excellent
+Sara Butt,59,20,High School,7,19,Poor
+Zain Butt,31,23,Master,7,11,Average
+Hassan Sheikh,56,24,Bachelor,5,15,Average
+Sara Shah,53,6,Bachelor,9,4,Average
+Zain Sheikh,28,16,Master,4,16,Average
+Zain Sheikh,42,28,Bachelor,4,13,Good
+Zain Iqbal,41,29,Bachelor,6,11,Low
+Ayesha Sheikh,47,6,High School,9,12,Outstanding
+Fatima Butt,25,32,Bachelor,8,13,Average
+Zain Chaudhry,43,6,Master,4,4,Excellent
+Ali Raza,36,23,PhD,8,4,Average
+Bilal Shah,42,10,Bachelor,4,17,Average
+Ahmed Malik,36,8,Bachelor,4,13,Average
+Usman Raza,43,11,Master,6,17,Good
+Amna Iqbal,49,34,PhD,7,19,Low
+Bilal Sheikh,35,3,Bachelor,6,0,Average
+Zain Malik,48,27,Bachelor,4,6,Poor
+Ahmed Butt,49,12,Master,9,16,Average
+Zain Chaudhry,47,22,Master,7,2,Outstanding
+Usman Iqbal,23,18,High School,9,9,Poor
+Amna Malik,46,23,Master,9,6,Good
+Ali Butt,24,15,Bachelor,9,11,Good
+Ahmed Chaudhry,29,32,Bachelor,7,14,Low
+Amna Khan,54,11,Bachelor,9,15,Average
+Bilal Iqbal,56,33,Master,7,7,Low
+Bilal Ashraf,27,6,Bachelor,8,5,Average
+Usman Iqbal,44,10,Bachelor,4,3,Low
+Bilal Raza,46,30,Bachelor,5,10,Average
+Hassan Shah,40,28,Master,9,16,Average
+Fatima Chaudhry,26,12,Bachelor,6,1,Good
+Zain Malik,32,30,Bachelor,8,5,Good
+Bilal Sheikh,33,1,Bachelor,6,3,Good
+Ayesha Butt,31,14,Master,5,2,Average
+Sara Malik,29,10,Bachelor,7,6,Average
+Ayesha Chaudhry,45,33,Bachelor,5,6,Average
+Amna Shah,49,3,Bachelor,6,15,Average
+Ayesha Raza,57,10,Master,5,1,Average
+Usman Khan,58,28,Bachelor,4,7,Excellent
+Zain Iqbal,42,1,Master,5,14,Average
+Ali Iqbal,29,15,Master,9,15,Average
+Usman Shah,30,12,PhD,4,0,Good
+Sara Ashraf,36,16,Bachelor,9,9,Good
+Bilal Ashraf,39,20,PhD,5,6,Average
+Ali Sheikh,41,18,High School,4,15,Average
+Bilal Chaudhry,27,6,Bachelor,4,9,Excellent
+Ayesha Qureshi,33,7,Master,5,11,Poor
+Amna Shah,23,12,Bachelor,8,16,Average
+Zain Ashraf,28,1,Bachelor,7,12,Excellent
+Zain Qureshi,37,10,Bachelor,7,11,Excellent
+Bilal Raza,24,23,Master,7,14,Poor
+Bilal Iqbal,24,5,Bachelor,4,13,Average
+Amna Butt,48,25,Master,7,18,Average
+Ahmed Ashraf,59,6,Master,4,18,Average
+Amna Iqbal,54,18,Master,8,13,Average
+Hassan Qureshi,49,5,Bachelor,5,17,Outstanding
+Ayesha Chaudhry,22,28,PhD,5,4,Average
+Fatima Shah,29,1,Bachelor,4,19,Average
+Ahmed Malik,58,18,High School,4,5,Average
+Sara Butt,53,3,High School,8,17,Low
+Ahmed Malik,58,5,Bachelor,7,13,Average
+Sara Iqbal,25,27,High School,8,3,Low
+Bilal Ashraf,51,29,High School,5,0,Good
+Amna Chaudhry,27,6,Bachelor,5,12,Average
+Usman Sheikh,40,8,Bachelor,9,10,Average
+Bilal Khan,53,24,Master,7,2,Average
+Ali Sheikh,30,32,Master,5,16,Low
+Hassan Chaudhry,33,0,Master,9,17,Low
+Bilal Malik,32,5,Bachelor,4,9,Excellent
+Ali Qureshi,37,17,Bachelor,5,15,Excellent
+Sara Ashraf,22,9,PhD,6,12,Poor
+Ali Chaudhry,42,27,High School,7,19,Good
+Usman Shah,51,10,Master,9,11,Average
+Bilal Chaudhry,34,32,Bachelor,7,3,Average
+Amna Qureshi,55,0,PhD,7,7,Good
+Zain Khan,25,12,Bachelor,6,11,Average
+Ahmed Butt,49,19,Bachelor,8,18,Poor
+Hassan Khan,59,0,Master,4,14,Low
+Sara Iqbal,52,2,Bachelor,7,15,Low
+Ayesha Raza,48,17,Bachelor,5,11,Poor
+Usman Chaudhry,26,13,Bachelor,4,19,Average
+Amna Iqbal,46,30,Master,5,17,Average
+Sara Chaudhry,24,26,High School,4,11,Good
+Ahmed Khan,54,16,High School,4,15,Average
+Fatima Raza,25,28,Bachelor,9,19,Low
+Usman Sheikh,46,25,High School,5,10,Low
+Ali Qureshi,41,16,Master,5,19,Excellent
+Bilal Ashraf,55,21,Bachelor,4,13,Low
+Bilal Shah,47,24,Bachelor,7,1,Excellent
+Zain Raza,26,1,Bachelor,5,12,Average
+Amna Khan,56,21,Bachelor,6,13,Excellent
+Ali Malik,49,4,High School,6,5,Average
+Amna Qureshi,50,3,High School,4,11,Low
+Amna Chaudhry,30,5,High School,8,6,Average
+Fatima Ashraf,59,20,PhD,4,3,Average
+Ayesha Raza,27,12,High School,4,6,Average
+Zain Raza,40,24,Master,7,12,Average
+Hassan Shah,32,25,High School,7,10,Poor
+Zain Khan,23,19,High School,9,7,Average
+Ayesha Sheikh,30,32,Bachelor,8,18,Excellent
+Bilal Iqbal,42,13,Bachelor,8,1,Outstanding
+Ali Iqbal,45,16,PhD,8,17,Average
+Ali Iqbal,55,20,PhD,8,9,Poor
+Ayesha Ashraf,43,15,Master,8,5,Low
+Ali Iqbal,24,15,Master,4,3,Good
+Ayesha Iqbal,33,19,Bachelor,4,18,Good
+Zain Qureshi,49,28,Bachelor,9,13,Excellent
+Hassan Shah,51,27,PhD,6,13,Average
+Zain Butt,47,7,Master,6,17,Excellent
+Sara Ashraf,42,23,Bachelor,9,16,Good
+Hassan Butt,49,2,Bachelor,9,17,Average
+Zain Khan,47,24,High School,5,17,Good
+Hassan Malik,54,18,PhD,4,4,Low
+Ayesha Malik,42,32,Bachelor,8,8,Average
+Bilal Raza,56,1,Bachelor,5,0,Outstanding
+Sara Ashraf,55,14,High School,7,3,Low
+Bilal Ashraf,39,21,Master,4,6,Good
+Amna Iqbal,32,9,High School,9,10,Average
+Usman Qureshi,44,17,Master,6,13,Good
+Sara Qureshi,43,21,High School,4,9,Good
+Ali Shah,38,26,Master,9,18,Excellent
+Fatima Malik,26,12,Master,4,7,Good
+Amna Sheikh,32,32,Bachelor,4,2,Average
+Hassan Ashraf,51,4,Bachelor,4,7,Poor
+Fatima Raza,36,25,Bachelor,7,17,Good
+Zain Qureshi,48,12,Bachelor,6,4,Average
+Ahmed Raza,56,26,Master,4,19,Good
+Hassan Raza,54,13,Bachelor,9,10,Low
+Sara Raza,41,23,Bachelor,7,8,Excellent
+Ayesha Raza,37,2,Bachelor,5,18,Average
+Sara Raza,55,29,Bachelor,4,11,Excellent
+Sara Chaudhry,23,34,Master,7,4,Good
+Fatima Sheikh,56,13,Bachelor,8,15,Low
+Ali Malik,49,11,PhD,5,12,Average
+Ali Butt,27,27,PhD,6,5,Excellent
+Zain Khan,30,28,High School,4,15,Good
+Amna Khan,41,16,Bachelor,4,17,Average
+Hassan Ashraf,22,20,Master,7,16,Outstanding
+Zain Ashraf,29,22,Bachelor,6,11,Average
+Hassan Chaudhry,44,19,High School,8,0,Average
+Ayesha Butt,24,10,Bachelor,5,6,Good
+Ahmed Iqbal,25,33,Bachelor,9,13,Low
+Ayesha Shah,46,9,Master,6,17,Average
+Sara Chaudhry,59,9,High School,4,0,Good
+Ahmed Khan,36,5,High School,7,19,Average
+Amna Shah,42,23,PhD,8,9,Low
+Hassan Iqbal,56,11,Master,7,14,Average
+Usman Iqbal,35,22,Bachelor,5,10,Average
+Fatima Shah,57,26,Master,6,3,Average
+Ahmed Butt,33,5,Bachelor,7,14,Good
+Ali Iqbal,38,0,Master,9,15,Low
+Hassan Ashraf,30,5,Bachelor,9,14,Good
+Usman Khan,56,21,Bachelor,7,16,Good
+Sara Shah,34,23,Master,4,10,Good
+Zain Malik,36,24,Bachelor,7,17,Average
+Fatima Ashraf,39,14,PhD,8,15,Average
+Zain Qureshi,54,25,Bachelor,6,14,Average
+Ahmed Iqbal,27,7,PhD,5,10,Good
+Ayesha Raza,48,23,PhD,9,12,Average
+Ayesha Butt,44,5,Bachelor,7,17,Average
+Zain Ashraf,48,34,Master,8,7,Average
+Fatima Sheikh,55,0,Bachelor,9,8,Good
+Hassan Shah,59,11,PhD,9,10,Poor
+Sara Shah,35,10,Bachelor,5,16,Outstanding
+Fatima Ashraf,57,11,Master,9,0,Poor
+Bilal Qureshi,29,6,Bachelor,8,10,Average
+Hassan Sheikh,56,10,Bachelor,9,6,Average
+Zain Sheikh,40,30,Bachelor,9,7,Low
+Zain Raza,51,32,Bachelor,7,18,Excellent
+Ali Qureshi,35,12,Master,7,3,Average
+Sara Iqbal,41,17,Master,6,3,Low
+Bilal Shah,46,23,Master,4,18,Good
+Sara Sheikh,45,8,Bachelor,8,8,Good
+Ahmed Butt,35,30,Bachelor,4,16,Outstanding
+Usman Sheikh,47,9,High School,4,17,Average
+Bilal Butt,59,1,Master,9,0,Average
+Ahmed Iqbal,44,14,PhD,5,13,Poor
+Amna Ashraf,43,2,Bachelor,5,3,Good
+Hassan Qureshi,40,30,High School,9,9,Average
+Ayesha Iqbal,24,5,Bachelor,8,13,Outstanding
+Zain Khan,40,2,Master,4,6,Good
+Bilal Malik,30,10,Master,6,11,Excellent
+Ahmed Khan,49,14,Master,4,15,Outstanding
+Sara Qureshi,41,27,Bachelor,5,4,Average
+Hassan Malik,28,9,Master,4,10,Low
+Hassan Ashraf,35,6,Master,7,3,Low
+Ayesha Ashraf,30,14,Bachelor,7,12,Average
+Fatima Iqbal,40,17,Bachelor,6,7,Average
+Amna Qureshi,35,17,High School,8,6,Low
+Fatima Khan,59,23,Bachelor,4,10,Average
+Bilal Malik,57,1,Master,7,10,Average
+Fatima Chaudhry,38,19,Bachelor,8,16,Poor
+Sara Chaudhry,51,33,Master,7,13,Average
+Zain Iqbal,30,25,Bachelor,8,1,Low
+Ahmed Qureshi,54,6,Bachelor,8,19,Average
+Fatima Ashraf,46,29,Bachelor,7,7,Low
+Amna Butt,35,4,Bachelor,9,1,Good
+Hassan Malik,32,10,Bachelor,5,14,Poor
+Bilal Chaudhry,56,0,High School,8,4,Excellent
+Ayesha Butt,35,33,Bachelor,9,5,Average
+Ahmed Sheikh,51,0,High School,4,16,Average
+Fatima Shah,25,18,High School,9,7,Average
+Zain Chaudhry,25,1,Bachelor,7,18,Average
+Bilal Malik,49,20,Bachelor,9,4,Low
+Ali Sheikh,29,19,PhD,5,18,Good
+Fatima Raza,23,22,Bachelor,7,13,Excellent
+Fatima Ashraf,43,20,Master,6,9,Outstanding
+Ayesha Qureshi,37,23,Bachelor,4,12,Good
+Zain Shah,50,3,Master,6,4,Average
+Ayesha Butt,51,11,Bachelor,9,6,Average
+Fatima Chaudhry,33,21,PhD,8,9,Good
+Amna Butt,56,19,Bachelor,9,10,Good
+Bilal Sheikh,32,17,Master,8,2,Average
+Ahmed Khan,42,0,Bachelor,6,12,Excellent
+Ahmed Raza,42,29,High School,6,1,Average
+Ayesha Malik,26,32,Master,8,3,Average
+Sara Sheikh,41,23,High School,5,2,Outstanding
+Bilal Malik,58,13,Bachelor,4,14,Excellent
+Ali Malik,24,4,Bachelor,7,3,Good
+Hassan Iqbal,54,10,Master,6,3,Average
+Usman Khan,30,23,PhD,4,14,Low
+Bilal Iqbal,30,30,Bachelor,7,5,Poor
+Ali Malik,25,12,Master,9,4,Good
+Ayesha Chaudhry,56,15,Bachelor,7,11,Average
+Ahmed Malik,38,23,Bachelor,6,6,Average
+Bilal Qureshi,55,12,PhD,5,2,Average
+Sara Raza,45,23,Master,5,6,Average
+Ayesha Butt,53,25,Master,4,11,Average
+Ahmed Sheikh,22,1,Bachelor,9,14,Excellent
+Amna Sheikh,29,15,Bachelor,4,18,Poor
+Usman Khan,44,0,Bachelor,8,5,Good
+Fatima Ashraf,33,10,Bachelor,5,7,Average
+Hassan Butt,33,34,Bachelor,4,5,Good
+Amna Qureshi,36,28,Master,8,2,Excellent
+Amna Butt,40,16,Master,9,4,Average
+Ahmed Iqbal,47,27,Bachelor,7,8,Poor
+Ahmed Chaudhry,50,28,High School,4,15,Low
+Zain Butt,43,2,Master,8,15,Low
+Zain Shah,42,9,Bachelor,5,8,Good
+Amna Iqbal,59,13,Master,7,17,Poor
+Ayesha Ashraf,41,11,High School,4,12,Poor
+Hassan Iqbal,50,29,Bachelor,5,10,Good
+Sara Malik,25,31,PhD,7,9,Average
+Hassan Qureshi,28,31,High School,6,9,Average
+Fatima Shah,49,31,Bachelor,5,5,Average
+Ayesha Sheikh,49,25,Bachelor,6,15,Good
+Ayesha Khan,25,0,PhD,9,11,Low
+Usman Iqbal,43,1,Master,4,3,Average
+Ahmed Ashraf,33,16,Bachelor,8,4,Good
+Ayesha Butt,24,29,High School,4,1,Average
+Amna Khan,43,6,Master,5,18,Good
+Hassan Butt,23,26,Bachelor,6,0,Good
+Ayesha Khan,45,8,Master,6,3,Good
+Bilal Qureshi,55,21,High School,7,11,Good
+Zain Raza,48,33,High School,4,1,Good
+Usman Iqbal,22,0,Master,4,11,Good
+Fatima Raza,29,8,Bachelor,5,15,Good
+Bilal Iqbal,44,19,Master,6,1,Average
+Bilal Shah,59,18,High School,5,16,Low
+Sara Sheikh,27,3,Bachelor,5,1,Average
+Bilal Shah,43,8,PhD,9,3,Low
+Sara Qureshi,46,21,Bachelor,6,5,Average
+Ali Shah,39,17,Master,5,6,Average
+Sara Iqbal,38,11,Bachelor,6,14,Outstanding
+Zain Qureshi,33,8,Master,5,19,Outstanding
+Ayesha Iqbal,27,5,Master,8,11,Good
+Ayesha Shah,47,18,Bachelor,5,4,Outstanding
+Sara Malik,48,6,Master,5,13,Outstanding
+Ahmed Sheikh,29,15,Master,8,15,Excellent
+Ayesha Malik,40,4,Bachelor,4,10,Poor
+Hassan Chaudhry,22,15,Bachelor,6,11,Average
+Hassan Qureshi,50,0,Bachelor,7,18,Average
+Zain Butt,56,18,Bachelor,8,16,Low
+Sara Ashraf,35,16,Bachelor,4,6,Good
+Usman Sheikh,56,25,Bachelor,5,8,Low
+Usman Iqbal,41,21,Bachelor,9,13,Average
+Usman Sheikh,34,7,Master,4,19,Poor
+Ali Qureshi,59,32,Bachelor,8,11,Average
+Ayesha Sheikh,29,1,PhD,9,14,Average
+Hassan Khan,41,29,Bachelor,5,11,Good
+Sara Malik,54,19,Bachelor,4,12,Average
+Ahmed Khan,47,17,Master,7,8,Average
+Hassan Raza,42,9,Bachelor,6,6,Good
+Fatima Shah,30,23,Bachelor,6,0,Good
+Ayesha Butt,45,3,High School,8,9,Average
+Fatima Butt,58,3,Bachelor,5,5,Poor
+Usman Ashraf,38,12,Bachelor,5,14,Poor
+Ali Sheikh,45,24,PhD,6,14,Good
+Usman Qureshi,42,12,Bachelor,4,8,Average
+Bilal Malik,34,17,Master,5,12,Low
+Amna Butt,32,23,Master,7,0,Low
+Ahmed Raza,40,1,Bachelor,7,8,Good
+Ayesha Shah,32,32,Bachelor,5,2,Average
+Usman Malik,34,18,Master,5,8,Average
+Sara Shah,22,8,Master,6,19,Average
+Hassan Raza,40,27,Bachelor,8,14,Low
+Usman Raza,33,34,Bachelor,6,6,Average
+Hassan Malik,29,9,Bachelor,8,3,Average
+Amna Raza,29,0,High School,7,19,Average
+Hassan Shah,33,20,Bachelor,8,16,Excellent
+Ayesha Ashraf,54,8,Master,6,3,Average
+Ahmed Khan,47,14,Bachelor,5,18,Good
+Amna Iqbal,49,34,Master,8,4,Low
+Ali Qureshi,26,4,Master,6,15,Average
+Hassan Qureshi,29,21,Bachelor,7,2,Low
+Sara Ashraf,46,22,High School,9,10,Good
+Usman Raza,48,6,Master,8,14,Average
+Ali Raza,44,22,Master,7,18,Average
+Bilal Ashraf,51,24,Master,7,13,Good
+Usman Sheikh,44,26,High School,4,15,Outstanding
+Ayesha Chaudhry,41,5,Bachelor,9,5,Low
+Ali Shah,39,33,High School,8,4,Poor
+Sara Khan,39,8,Bachelor,6,16,Low
+Usman Chaudhry,23,32,Master,8,15,Good
+Hassan Chaudhry,25,5,High School,8,1,Low
+Ahmed Ashraf,51,30,Master,9,10,Average
+Ali Raza,54,33,Bachelor,7,3,Average
+Ahmed Butt,57,28,Master,7,5,Average
+Ali Chaudhry,39,13,PhD,7,6,Poor
+Fatima Khan,58,14,High School,7,16,Average
+Usman Ashraf,40,7,PhD,9,7,Low
+Ahmed Iqbal,49,25,High School,6,0,Low
+Ali Sheikh,41,20,Bachelor,5,14,Average
+Hassan Raza,54,27,Master,4,19,Good
+Fatima Iqbal,33,3,PhD,7,11,Poor
+Fatima Butt,36,15,Bachelor,7,14,Average
+Sara Khan,23,21,Bachelor,4,14,Low
+Bilal Ashraf,50,11,Master,7,8,Good
+Ahmed Qureshi,31,15,Master,5,15,Good
+Usman Butt,23,28,High School,8,1,Good
+Hassan Iqbal,32,17,Master,4,14,Average
+Ayesha Iqbal,34,9,Bachelor,6,14,Average
+Hassan Raza,31,17,Bachelor,4,6,Good
+Zain Sheikh,35,0,Bachelor,5,12,Poor
+Amna Ashraf,39,20,Bachelor,9,16,Average
+Fatima Butt,30,0,PhD,6,10,Good
+Ayesha Chaudhry,49,14,Bachelor,8,9,Average
+Amna Sheikh,24,3,PhD,7,0,Average
+Ali Iqbal,41,19,Bachelor,4,13,Good
+Ahmed Butt,27,9,Master,6,4,Poor
+Ayesha Qureshi,48,22,Master,4,7,Average
+Amna Ashraf,23,33,Master,8,0,Average
+Hassan Khan,50,32,Master,4,6,Poor
+Amna Shah,59,33,Bachelor,6,1,Low
+Ahmed Khan,24,9,Master,5,6,Average
+Zain Ashraf,37,19,Master,9,6,Low
+Zain Raza,51,0,High School,6,8,Average
+Fatima Malik,23,12,Master,4,3,Average
+Amna Shah,38,0,Bachelor,8,6,Poor
+Sara Iqbal,33,4,Bachelor,7,19,Average
+Hassan Iqbal,56,15,Master,7,17,Poor
+Ahmed Chaudhry,22,14,Bachelor,8,12,Average
+Ayesha Ashraf,36,27,Master,4,10,Average
+Bilal Ashraf,47,30,Bachelor,9,8,Good
+Ali Malik,58,22,High School,8,13,Average
+Amna Malik,42,16,Bachelor,4,7,Average
+Usman Sheikh,52,33,High School,6,13,Good
+Ahmed Khan,46,12,Master,9,16,Average
+Sara Malik,44,13,Bachelor,5,13,Average
+Hassan Raza,45,10,Bachelor,4,4,Good
+Ali Khan,59,27,High School,7,9,Low
+Zain Shah,49,31,Bachelor,7,5,Outstanding
+Hassan Iqbal,42,34,Master,9,9,Excellent
+Zain Chaudhry,39,30,Bachelor,5,10,Average
+Ayesha Khan,57,16,Master,4,5,Excellent
+Fatima Raza,56,8,PhD,5,9,Good
+Zain Malik,30,9,Master,6,13,Excellent
+Usman Raza,59,7,Master,5,19,Good
+Hassan Malik,51,20,High School,6,2,Good
+Hassan Khan,55,12,Bachelor,7,6,Poor
+Fatima Iqbal,53,4,Master,6,1,Average
+Bilal Ashraf,24,5,Master,4,6,Low
+Usman Chaudhry,24,29,Master,9,16,Average
+Ayesha Iqbal,49,30,Master,9,12,Outstanding
+Usman Malik,36,16,Bachelor,4,8,Poor
+Ayesha Malik,44,10,High School,4,12,Good
+Sara Iqbal,32,19,Master,4,14,Low
+Ali Malik,53,8,Master,8,12,Poor
+Sara Iqbal,57,1,Bachelor,6,16,Average
+Bilal Raza,54,0,Master,4,7,Low
+Sara Iqbal,45,3,Bachelor,9,8,Outstanding
+Sara Chaudhry,55,24,Bachelor,5,8,Low
+Ahmed Iqbal,49,2,Master,5,7,Low
+Amna Shah,58,8,Master,8,15,Poor
+Ali Chaudhry,28,21,Bachelor,6,19,Average
+Fatima Butt,25,22,High School,6,6,Poor
+Bilal Malik,58,11,Bachelor,6,16,Average
+Ahmed Sheikh,22,9,Master,9,6,Average
+Amna Shah,22,33,Bachelor,9,5,Poor
+Amna Ashraf,41,9,Master,8,4,Low
+Ahmed Iqbal,40,29,PhD,6,16,Good
+Zain Butt,50,21,Master,6,7,Average
+Fatima Ashraf,31,5,Bachelor,4,0,Average
+Amna Ashraf,39,1,Master,6,15,Good
+Fatima Shah,49,29,Bachelor,9,16,Good
+Bilal Ashraf,56,1,Bachelor,4,2,Good
+Zain Raza,52,31,High School,4,12,Good
+Zain Iqbal,48,15,Bachelor,6,7,Low
+Sara Shah,32,11,PhD,5,15,Poor
+Amna Qureshi,59,0,Bachelor,7,6,Average
+Fatima Butt,26,7,Bachelor,9,14,Excellent
+Hassan Shah,29,12,PhD,5,1,Poor
+Usman Khan,55,14,High School,6,1,Average
+Ayesha Chaudhry,33,7,Master,6,9,Good
+Usman Iqbal,59,9,Bachelor,5,4,Average
+Ahmed Qureshi,22,4,High School,6,3,Average
+Usman Qureshi,52,18,PhD,9,14,Average
+Sara Raza,25,10,High School,4,12,Poor
+Fatima Khan,26,19,Bachelor,8,16,Average
+Ayesha Iqbal,51,19,Bachelor,6,0,Poor
+Amna Iqbal,45,20,High School,6,17,Good
+Zain Chaudhry,24,17,High School,5,14,Excellent
+Ahmed Malik,32,9,High School,4,13,Average
+Usman Butt,25,33,High School,5,8,Good
+Fatima Sheikh,47,25,Master,9,11,Average
+Ahmed Qureshi,48,29,Bachelor,5,4,Low
+Fatima Chaudhry,48,8,Bachelor,6,1,Poor
+Sara Raza,27,30,Bachelor,4,6,Average
+Ayesha Qureshi,36,3,PhD,9,8,Good
+Ali Chaudhry,51,5,PhD,6,17,Outstanding
+Bilal Chaudhry,58,13,Master,9,3,Average
+Sara Malik,58,3,Master,6,1,Average
+Fatima Butt,58,25,Bachelor,6,0,Average
+Ahmed Butt,56,16,Bachelor,6,11,Average
+Zain Malik,44,18,Master,8,12,Average
+Zain Qureshi,27,5,Master,7,13,Good
+Usman Chaudhry,25,28,Bachelor,4,4,Good
+Bilal Malik,39,10,Bachelor,8,2,Average
+Usman Ashraf,30,15,PhD,7,3,Average
+Fatima Shah,50,29,Master,9,16,Outstanding
+Bilal Malik,34,24,Bachelor,7,18,Good
+Sara Chaudhry,38,10,Master,7,10,Average
+Usman Shah,53,6,Bachelor,8,7,Average
+Usman Qureshi,43,25,High School,4,11,Good
+Amna Khan,25,21,Bachelor,5,17,Average
+Fatima Iqbal,26,24,Bachelor,7,17,Average
+Zain Sheikh,58,18,High School,5,8,Average
+Fatima Iqbal,34,30,Master,5,4,Good
+Sara Sheikh,55,25,Bachelor,6,16,Average
+Usman Shah,43,22,Bachelor,5,12,Average
+Hassan Chaudhry,44,12,High School,9,5,Excellent
+Zain Iqbal,24,24,Bachelor,9,13,Excellent
+Ali Raza,55,1,Master,6,14,Good
+Bilal Qureshi,53,1,Master,4,13,Poor
+Bilal Sheikh,42,15,PhD,4,3,Average
+Ahmed Ashraf,42,8,PhD,9,17,Average
+Ali Butt,32,27,Bachelor,6,0,Low
+Zain Khan,25,12,Bachelor,4,11,Excellent
+Amna Shah,22,34,Master,7,8,Excellent
+Ayesha Malik,49,12,PhD,4,9,Average
+Bilal Iqbal,45,30,Master,6,17,Low
+Bilal Sheikh,56,20,Master,9,16,Poor
+Ahmed Butt,34,31,Master,7,18,Average
+Amna Raza,55,33,Bachelor,5,3,Poor
+Hassan Shah,32,7,Bachelor,5,15,Average
+Zain Raza,57,1,Master,5,6,Average
+Amna Chaudhry,38,31,Master,9,8,Excellent
+Amna Raza,56,27,High School,6,7,Low
+Sara Malik,39,0,Bachelor,5,6,Average
+Ayesha Shah,43,9,High School,4,9,Excellent
+Fatima Chaudhry,45,3,Bachelor,5,7,Average
+Ali Malik,40,34,PhD,8,16,Poor
+Bilal Shah,58,9,High School,9,11,Low
+Fatima Ashraf,42,10,Bachelor,8,13,Good
+Sara Ashraf,29,13,Bachelor,5,11,Good
+Fatima Chaudhry,49,11,Master,5,1,Excellent
+Usman Qureshi,26,16,Bachelor,8,11,Low
+Ahmed Ashraf,38,15,Bachelor,9,13,Good
+Zain Butt,58,34,Bachelor,9,6,Good
+Zain Sheikh,57,1,Bachelor,5,12,Low
+Hassan Khan,40,10,Bachelor,9,3,Outstanding
+Sara Raza,48,2,Bachelor,7,0,Average
+Fatima Sheikh,55,28,PhD,9,16,Excellent
+Ali Malik,32,17,Bachelor,8,2,Excellent
+Usman Raza,33,19,High School,6,16,Average
+Zain Sheikh,42,13,Master,8,7,Average
+Ayesha Khan,32,33,Bachelor,4,2,Average
+Fatima Malik,49,30,Master,7,9,Good
+Ayesha Butt,26,17,Bachelor,6,1,Average
+Hassan Khan,38,29,Bachelor,5,3,Good
+Fatima Raza,41,24,Master,4,13,Poor
+Amna Raza,33,18,PhD,4,10,Good
+Sara Iqbal,27,7,Bachelor,7,13,Average
+Amna Qureshi,38,27,Bachelor,6,12,Low
+Amna Butt,40,7,Bachelor,4,3,Good
+Zain Sheikh,47,30,PhD,6,1,Poor
+Usman Shah,53,2,PhD,6,1,Low
+Zain Iqbal,27,2,High School,9,10,Low
+Usman Qureshi,57,21,High School,4,4,Average
+Ahmed Khan,59,16,Bachelor,6,8,Average
+Ayesha Raza,32,16,High School,7,19,Good
+Zain Qureshi,54,13,Bachelor,4,16,Good
+Usman Butt,45,8,High School,7,11,Average
+Usman Malik,44,29,Master,7,17,Average
+Bilal Qureshi,36,20,PhD,6,2,Low
+Fatima Malik,48,11,PhD,6,4,Good
+Usman Qureshi,32,31,Bachelor,9,19,Average
+Bilal Raza,38,10,Bachelor,9,13,Low
+Bilal Iqbal,35,19,Master,4,15,Low
+Ali Ashraf,48,34,High School,9,18,Average
+Hassan Chaudhry,39,10,Master,5,8,Good
+Amna Malik,49,7,Bachelor,4,16,Poor
+Ahmed Raza,25,3,Bachelor,7,6,Average
+Amna Butt,28,26,Bachelor,9,9,Low
+Amna Khan,56,29,High School,9,3,Outstanding
+Usman Raza,30,26,Master,9,9,Good
+Amna Qureshi,29,20,Bachelor,6,2,Low
+Fatima Butt,38,19,Bachelor,7,8,Low
+Bilal Sheikh,38,3,High School,9,12,Excellent
+Usman Ashraf,54,10,Master,8,0,Low
+Fatima Ashraf,53,12,Bachelor,8,14,Outstanding
+Ayesha Raza,29,8,Bachelor,7,14,Average
+Amna Qureshi,40,3,Bachelor,9,10,Poor
+Usman Qureshi,59,11,Bachelor,5,9,Good
+Bilal Khan,24,8,Bachelor,5,6,Average
+Amna Qureshi,26,12,Master,4,0,Outstanding
+Sara Sheikh,34,25,High School,4,6,Good
+Fatima Shah,52,12,High School,9,4,Average
+Ahmed Malik,37,27,Master,4,15,Good
+Bilal Iqbal,53,18,Bachelor,6,7,Good
+Zain Raza,43,23,Bachelor,5,1,Average
+Bilal Raza,50,18,Bachelor,7,7,Average
+Zain Sheikh,43,12,Bachelor,9,13,Low
+Bilal Qureshi,24,12,Master,9,3,Average
+Zain Ashraf,31,27,Master,8,14,Good
+Hassan Iqbal,42,1,Master,5,6,Average
+Ahmed Raza,37,9,Master,5,19,Average
+Ahmed Chaudhry,33,21,Bachelor,5,7,Good
+Amna Raza,23,12,Bachelor,4,10,Poor
+Ahmed Qureshi,45,8,Bachelor,6,1,Average
+Amna Sheikh,56,32,Bachelor,7,8,Excellent
+Bilal Sheikh,51,13,PhD,4,5,Average
+Zain Sheikh,51,19,Master,6,0,Average
+Fatima Malik,56,14,Bachelor,5,2,Average
+Amna Iqbal,40,31,High School,6,9,Good
+Ali Sheikh,29,32,High School,4,4,Average
+Fatima Sheikh,47,16,Bachelor,5,11,Poor
+Usman Ashraf,28,23,High School,4,0,Poor
+Bilal Shah,51,29,Bachelor,7,8,Good
+Ayesha Butt,28,12,Master,5,12,Average
+Ayesha Sheikh,24,15,Master,6,18,Good
+Sara Malik,22,1,Bachelor,4,6,Average
+Ahmed Sheikh,57,16,Bachelor,8,15,Average
+Usman Chaudhry,46,31,Bachelor,6,7,Excellent
+Zain Qureshi,58,7,Master,6,18,Poor
+Zain Chaudhry,22,2,Master,5,6,Low
+Zain Raza,36,11,PhD,9,3,Average
+Zain Raza,58,19,Bachelor,6,9,Poor
+Sara Khan,34,15,Master,4,0,Average
+Fatima Malik,29,13,High School,8,16,Outstanding
+Hassan Sheikh,26,15,Bachelor,7,12,Excellent
+Amna Chaudhry,30,32,Bachelor,8,18,Average
+Hassan Ashraf,22,29,Bachelor,4,12,Excellent
+Ahmed Shah,57,11,Master,5,8,Low
+Hassan Butt,56,14,Bachelor,4,4,Average
+Ahmed Sheikh,23,17,High School,9,0,Average
+Sara Raza,44,27,High School,9,1,Average
+Usman Shah,30,22,High School,9,10,Poor
+Usman Qureshi,55,13,High School,6,3,Excellent
+Bilal Raza,35,29,High School,5,8,Good
+Sara Raza,25,32,Bachelor,9,4,Good
+Ali Sheikh,51,14,Bachelor,7,4,Low
+Hassan Chaudhry,52,6,PhD,7,7,Average
+Hassan Ashraf,59,14,Bachelor,4,1,Excellent
+Hassan Raza,32,10,High School,9,6,Average
+Bilal Shah,56,28,Bachelor,6,16,Average
+Usman Chaudhry,29,30,Master,7,10,Excellent
+Bilal Ashraf,24,24,Master,8,14,Average
+Bilal Chaudhry,35,23,Bachelor,5,2,Average
+Zain Chaudhry,34,18,Bachelor,8,12,Average
+Amna Iqbal,53,1,Master,7,17,Average
+Usman Iqbal,55,21,Master,7,19,Good
+Ali Butt,40,19,Master,4,19,Average
+Hassan Khan,59,32,Master,4,2,Average
+Sara Iqbal,37,7,Master,9,1,Average
+Amna Shah,23,24,Bachelor,5,4,Low
+Usman Iqbal,38,8,Bachelor,9,19,Average
+Bilal Iqbal,55,33,Master,4,4,Low
+Usman Raza,37,22,Master,6,12,Excellent
+Ayesha Butt,59,4,High School,5,7,Average
+Bilal Qureshi,23,24,PhD,6,15,Average
+Ayesha Butt,23,7,Bachelor,9,17,Average
+Ahmed Shah,47,15,Bachelor,4,15,Average
+Ayesha Chaudhry,34,14,Master,5,0,Average
+Usman Iqbal,52,0,Bachelor,9,7,Excellent
+Ahmed Butt,55,21,Bachelor,7,1,Average
+Hassan Malik,24,2,High School,9,4,Good
+Amna Malik,29,13,Bachelor,8,14,Low
+Ahmed Chaudhry,44,17,Bachelor,7,13,Poor
+Amna Sheikh,35,17,Bachelor,6,2,Good
+Bilal Shah,48,2,Bachelor,7,6,Average
+Fatima Butt,50,9,PhD,9,3,Average
+Usman Sheikh,22,0,PhD,7,10,Average
+Hassan Chaudhry,38,26,High School,8,11,Poor
+Sara Butt,51,26,Master,9,14,Average
+Ali Qureshi,34,10,High School,8,5,Excellent
+Fatima Sheikh,42,4,High School,7,0,Low
+Ali Malik,40,6,High School,8,17,Excellent
+Ali Butt,40,18,PhD,7,13,Average
+Fatima Malik,46,28,PhD,5,6,Average
+Amna Shah,43,14,Bachelor,7,9,Poor
+Amna Chaudhry,52,34,Bachelor,4,8,Average
+Ahmed Shah,38,11,Bachelor,8,1,Low
+Amna Shah,44,29,Bachelor,8,7,Poor
+Usman Sheikh,53,19,Bachelor,6,0,Outstanding
+Fatima Chaudhry,31,2,Bachelor,6,19,Good
+Ahmed Sheikh,31,8,Master,4,1,Good
+Ahmed Sheikh,57,25,Bachelor,8,6,Poor
+Usman Shah,29,1,PhD,8,15,Excellent
+Ayesha Qureshi,41,22,Master,6,3,Average
+Hassan Qureshi,53,22,Bachelor,6,16,Excellent
+Ahmed Malik,35,20,Master,7,3,Poor
+Ahmed Raza,49,15,Master,9,2,Average
+Usman Chaudhry,45,8,Bachelor,8,8,Outstanding
+Ayesha Khan,36,12,Bachelor,8,14,Average
+Hassan Butt,43,27,PhD,7,19,Excellent
+Hassan Iqbal,51,26,Bachelor,8,2,Average
+Usman Chaudhry,25,16,High School,4,11,Average
+Hassan Raza,34,0,Bachelor,6,14,Excellent
+Sara Chaudhry,44,17,Master,6,19,Average
+Hassan Butt,29,8,Master,9,7,Good
+Bilal Butt,39,12,PhD,6,11,Low
+Ali Chaudhry,33,14,Bachelor,5,12,Low
+Zain Khan,52,3,High School,4,14,Low
+Sara Iqbal,35,32,Bachelor,4,10,Average
+Ayesha Chaudhry,55,23,Master,7,16,Good
+Amna Raza,39,9,High School,5,11,Average
+Usman Sheikh,55,19,Bachelor,8,19,Average
+Ahmed Khan,32,10,High School,9,17,Good
+Fatima Khan,33,11,Bachelor,4,15,Low
+Ahmed Khan,36,17,Master,5,2,Excellent
+Zain Chaudhry,52,29,Master,5,8,Outstanding
+Ayesha Ashraf,50,19,PhD,4,6,Poor
+Ali Khan,47,24,High School,7,18,Poor
+Ali Shah,39,11,PhD,5,4,Poor
+Ahmed Sheikh,53,20,Master,6,18,Good
+Ayesha Chaudhry,43,24,Bachelor,5,9,Low
+Zain Chaudhry,59,10,PhD,8,19,Good
+Amna Sheikh,38,8,Bachelor,4,11,Average
+Hassan Chaudhry,44,24,Master,8,7,Good
+Fatima Khan,45,34,Master,7,2,Good
+Ali Qureshi,29,31,Master,9,18,Outstanding
+Fatima Ashraf,27,13,Bachelor,6,10,Average
+Bilal Malik,26,0,High School,4,7,Low
+Bilal Iqbal,50,16,Bachelor,5,12,Poor
+Ali Qureshi,49,24,Bachelor,6,9,Average
+Hassan Sheikh,32,7,Master,5,17,Average
+Ali Qureshi,22,4,Master,7,11,Outstanding
+Fatima Iqbal,40,4,PhD,9,6,Good
+Bilal Iqbal,30,34,High School,4,10,Low
+Sara Raza,48,18,Master,7,9,Good
+Zain Khan,55,22,PhD,7,2,Low
+Ali Chaudhry,25,8,Master,9,6,Poor
+Amna Malik,57,29,High School,7,3,Good
+Hassan Chaudhry,39,15,High School,7,7,Outstanding
+Ayesha Shah,36,32,High School,5,7,Poor
+Zain Ashraf,34,1,Master,8,5,Good
+Ayesha Iqbal,40,13,Master,5,12,Excellent
+Zain Chaudhry,27,0,PhD,9,11,Low
+Fatima Sheikh,33,25,Bachelor,6,2,Average
+Zain Chaudhry,58,24,Bachelor,9,5,Good
+Hassan Iqbal,38,15,Master,9,18,Good
+Hassan Butt,44,14,Master,9,10,Average
+Ahmed Chaudhry,47,25,PhD,9,3,Low
+Sara Qureshi,50,15,Master,7,14,Average
+Sara Khan,54,13,Bachelor,9,1,Good
+Ali Khan,48,28,Master,6,14,Average
+Hassan Malik,46,23,Master,9,16,Low
+Sara Chaudhry,31,14,Bachelor,5,1,Good
+Bilal Shah,44,18,Bachelor,7,6,Average
+Usman Ashraf,42,7,Bachelor,5,15,Excellent
+Fatima Iqbal,42,33,High School,7,4,Excellent
+Sara Khan,34,1,Master,5,15,Good
+Sara Qureshi,58,26,High School,4,18,Outstanding
+Ayesha Malik,54,9,Bachelor,8,1,Outstanding
+Ayesha Qureshi,45,34,Bachelor,8,14,Average
+Amna Iqbal,32,22,Bachelor,7,3,Good
+Fatima Khan,38,7,Bachelor,4,1,Good
+Ali Ashraf,25,27,Master,6,9,Average
+Fatima Shah,46,22,High School,4,4,Poor
+Zain Chaudhry,51,3,High School,7,17,Average
+Usman Sheikh,30,13,Bachelor,4,3,Low
+Sara Ashraf,42,28,Bachelor,6,0,Average
+Fatima Butt,41,0,Bachelor,7,17,Poor
+Hassan Khan,40,3,High School,8,19,Excellent
+Ahmed Butt,40,31,Master,9,5,Average
+Ahmed Butt,33,32,Master,4,19,Low
+Amna Ashraf,58,25,High School,8,19,Average
+Hassan Shah,38,16,High School,8,13,Low
+Usman Iqbal,58,22,PhD,5,9,Good
+Ayesha Chaudhry,49,31,Master,6,17,Average
+Fatima Iqbal,56,14,Bachelor,9,8,Average
+Amna Khan,39,12,Master,4,11,Excellent
+Sara Chaudhry,35,1,Master,8,9,Average
+Fatima Ashraf,56,18,Master,8,18,Excellent
+Ali Sheikh,28,23,Bachelor,6,5,Average
+Ayesha Khan,34,23,Bachelor,9,13,Average
+Fatima Shah,39,10,High School,9,7,Average
+Amna Sheikh,58,21,PhD,8,13,Poor
+Zain Chaudhry,34,14,Master,8,10,Low
+Bilal Sheikh,57,9,Bachelor,8,15,Low
+Zain Malik,52,26,PhD,8,19,Good
+Ayesha Ashraf,23,8,PhD,5,5,Good
+Usman Qureshi,37,27,PhD,5,14,Low
+Bilal Malik,30,0,Master,9,14,Average
+Hassan Raza,30,16,PhD,7,13,Excellent
+Fatima Butt,59,30,Bachelor,4,11,Poor
+Ayesha Raza,32,9,Master,6,1,Average
+Amna Qureshi,43,28,Master,7,7,Average
+Ahmed Malik,54,17,Bachelor,5,18,Good
+Fatima Khan,57,5,High School,5,13,Average
+Sara Malik,44,11,PhD,5,4,Excellent
+Hassan Iqbal,55,13,Bachelor,7,8,Average
+Usman Butt,30,9,Master,5,12,Average
+Amna Sheikh,45,19,High School,7,8,Average
+Sara Ashraf,29,14,High School,5,13,Average
+Hassan Iqbal,28,30,Bachelor,8,4,Low
+Ayesha Ashraf,57,6,Bachelor,8,1,Excellent
+Ahmed Malik,39,9,Master,4,6,Low
+Amna Sheikh,24,9,Bachelor,5,15,Excellent
+Sara Khan,49,27,High School,4,10,Average
+Hassan Shah,27,29,Bachelor,7,10,Average
+Amna Malik,42,2,Bachelor,4,11,Low
+Usman Qureshi,49,14,Bachelor,5,12,Average
+Usman Chaudhry,22,20,Master,7,7,Good
+Ali Ashraf,57,11,Bachelor,7,15,Excellent
+Hassan Khan,42,3,High School,8,0,Good
+Ali Iqbal,56,8,Bachelor,7,12,Average
+Ayesha Khan,34,27,High School,7,10,Poor
+Zain Qureshi,31,22,High School,4,3,Excellent
+Sara Ashraf,31,21,Bachelor,9,3,Excellent
+Sara Raza,34,23,Master,7,14,Average
+Ayesha Qureshi,58,25,PhD,6,2,Poor
+Amna Ashraf,59,29,Master,9,18,Good
+Hassan Malik,45,32,Bachelor,8,1,Good
+Ayesha Sheikh,23,15,Bachelor,8,5,Average
+Ahmed Qureshi,43,21,Bachelor,7,7,Average
+Ali Khan,38,17,Master,4,16,Excellent
+Zain Iqbal,57,6,PhD,9,4,Low
+Amna Malik,35,25,High School,8,1,Average
+Sara Iqbal,31,7,High School,8,11,Poor
+Fatima Iqbal,56,5,Master,6,4,Low
+Fatima Qureshi,46,29,Master,7,9,Excellent
+Ahmed Qureshi,24,22,Master,9,8,Average
+Zain Raza,59,31,Master,8,19,Good
+Ahmed Malik,38,21,PhD,8,7,Average
+Ayesha Chaudhry,33,8,Bachelor,8,0,Good
+Fatima Iqbal,45,30,PhD,8,5,Average
+Hassan Khan,50,6,PhD,4,10,Poor
+Ahmed Khan,46,8,Master,5,2,Excellent
+Hassan Khan,57,12,Bachelor,6,14,Low
+Ali Shah,47,2,Bachelor,4,10,Average
+Usman Malik,59,34,Bachelor,6,4,Average
+Bilal Shah,22,32,Bachelor,8,15,Poor
+Ahmed Chaudhry,41,20,Master,6,6,Poor
+Zain Butt,49,30,High School,7,5,Good
+Zain Ashraf,37,33,Bachelor,7,8,Average
+Ayesha Ashraf,38,31,Master,5,6,Average
+Sara Iqbal,49,34,High School,5,2,Average
+Ali Butt,33,14,Bachelor,6,10,Average
+Zain Sheikh,48,31,Bachelor,4,11,Good
+Ali Butt,51,5,Master,4,10,Excellent
+Ali Butt,55,20,Bachelor,8,1,Poor
+Ayesha Butt,58,32,Master,4,0,Average
+Hassan Raza,27,31,Bachelor,5,1,Average
+Sara Sheikh,28,18,PhD,4,13,Average
+Zain Qureshi,53,32,Bachelor,8,12,Average
+Fatima Shah,53,27,Bachelor,7,4,Average
+Ahmed Ashraf,46,30,High School,4,1,Poor
+Fatima Butt,54,20,High School,4,18,Average
+Hassan Khan,28,33,Bachelor,5,16,Low
+Ali Butt,33,14,High School,6,10,Low
+Ali Ashraf,37,13,Bachelor,7,15,Outstanding
+Hassan Butt,37,18,Bachelor,6,19,Average
+Ahmed Qureshi,57,14,Bachelor,8,17,Average
+Fatima Chaudhry,34,5,Bachelor,8,19,Average
+Zain Sheikh,28,8,Master,6,7,Excellent
+Amna Malik,57,19,PhD,5,1,Average
+Bilal Malik,30,33,High School,9,16,Average
+Fatima Iqbal,53,25,Bachelor,5,10,Average
+Ali Qureshi,32,17,PhD,9,13,Excellent
+Amna Butt,29,27,High School,9,15,Good
+Bilal Chaudhry,54,8,PhD,5,14,Average
+Bilal Raza,44,31,High School,9,14,Good
+Zain Raza,46,5,Master,9,2,Good
+Amna Sheikh,29,13,Bachelor,9,6,Outstanding
+Hassan Shah,43,27,PhD,7,11,Excellent
+Ali Ashraf,25,23,Bachelor,8,2,Average
+Sara Chaudhry,24,12,Master,9,18,Good
+Bilal Shah,50,11,High School,8,9,Average
+Zain Ashraf,50,18,Bachelor,8,7,Average
+Amna Raza,55,20,Master,7,15,Low
+Ahmed Malik,55,26,Bachelor,8,15,Poor
+Zain Butt,49,18,PhD,6,11,Poor
+Ali Chaudhry,34,23,Bachelor,4,4,Outstanding
+Zain Butt,36,25,Master,7,19,Low
+Fatima Iqbal,44,27,Bachelor,4,5,Poor
+Ali Butt,47,17,PhD,6,5,Average
+Ahmed Qureshi,25,28,PhD,5,7,Average
+Bilal Malik,47,16,Bachelor,5,16,Excellent
+Zain Malik,30,3,Master,9,11,Good
+Zain Shah,26,28,Master,5,13,Average
+Fatima Butt,53,3,Bachelor,7,1,Excellent
+Usman Malik,41,9,Master,5,18,Poor
+Sara Sheikh,32,24,High School,7,5,Outstanding
+Zain Khan,36,30,Master,7,17,Poor
+Ahmed Sheikh,53,2,Bachelor,4,3,Good
+Hassan Iqbal,49,1,High School,5,4,Poor
+Ayesha Shah,43,24,Bachelor,8,5,Excellent
+Zain Chaudhry,38,5,Bachelor,5,14,Low
+Hassan Raza,47,25,Master,5,5,Poor
+Sara Ashraf,28,7,PhD,5,7,Excellent
+Ayesha Chaudhry,47,34,Bachelor,9,8,Poor
+Ayesha Shah,46,26,High School,8,5,Good
+Fatima Malik,31,24,Master,8,1,Good
+Zain Khan,40,17,Bachelor,7,15,Average
+Zain Iqbal,32,0,Bachelor,8,19,Average
+Bilal Sheikh,34,2,Bachelor,7,0,Excellent
+Ayesha Khan,29,3,Bachelor,4,15,Excellent
+Fatima Iqbal,25,14,Bachelor,7,0,Average
+Usman Khan,52,7,Master,5,0,Low
+Amna Ashraf,49,18,Bachelor,6,6,Average
+Ali Qureshi,32,25,Master,6,15,Low
+Usman Raza,22,9,Bachelor,9,16,Average
+Bilal Chaudhry,59,13,Bachelor,5,15,Excellent
+Bilal Ashraf,45,18,Master,7,15,Good
+Bilal Shah,52,29,Bachelor,5,5,Good
+Bilal Shah,47,4,Bachelor,9,17,Average
+Amna Raza,26,30,Master,8,2,Average
+Ahmed Butt,41,6,Bachelor,7,7,Good
+Ahmed Raza,32,18,Master,5,3,Good
+Amna Shah,54,30,Bachelor,8,3,Good
+Fatima Shah,59,23,Master,9,16,Poor
+Ahmed Qureshi,48,33,High School,8,4,Average
+Ahmed Sheikh,55,22,Bachelor,7,13,Average
+Usman Malik,36,5,PhD,9,14,Low
+Usman Sheikh,53,26,Master,9,11,Good
+Hassan Shah,42,10,Bachelor,9,12,Average
+Ahmed Malik,26,4,Bachelor,4,17,Excellent
+Ahmed Shah,27,16,Bachelor,9,13,Average
+Hassan Chaudhry,59,6,Master,4,18,Average
+Bilal Chaudhry,43,26,Master,8,6,Good
+Ahmed Butt,39,14,Master,4,5,Average
+Amna Shah,35,12,Bachelor,8,4,Good
+Amna Butt,31,10,Master,4,3,Good
+Bilal Ashraf,34,25,Bachelor,8,17,Excellent
+Sara Sheikh,52,21,High School,8,13,Average
+Bilal Chaudhry,51,27,Bachelor,9,15,Low
+Usman Chaudhry,24,23,PhD,9,19,Average
+Hassan Raza,51,28,Master,8,13,Good
+Amna Qureshi,27,8,Bachelor,9,4,Average
+Bilal Iqbal,50,3,Master,8,10,Average
+Zain Ashraf,29,17,PhD,9,11,Poor
+Usman Khan,54,15,Bachelor,6,17,Average
+Zain Butt,38,32,Bachelor,4,3,Good
+Fatima Malik,32,28,PhD,8,12,Low
+Zain Butt,34,9,Master,5,19,Average
+Ali Sheikh,32,8,Bachelor,9,12,Poor
+Amna Qureshi,52,30,Bachelor,9,3,Good
+Hassan Iqbal,49,27,Bachelor,7,6,Excellent
+Ali Iqbal,27,2,High School,5,1,Average
+Zain Malik,37,13,PhD,5,17,Poor
+Sara Butt,25,24,Bachelor,6,5,Low
+Ali Iqbal,56,14,Master,4,15,Average
+Zain Qureshi,47,1,Bachelor,6,2,Average
+Zain Khan,33,23,Bachelor,4,14,Average
+Fatima Iqbal,32,13,High School,8,19,Excellent
+Usman Butt,58,6,Master,6,9,Excellent
+Hassan Iqbal,46,23,Bachelor,7,8,Low
+Hassan Chaudhry,39,26,Master,4,10,Low
+Fatima Shah,40,29,High School,6,13,Average
+Fatima Qureshi,44,26,Bachelor,7,11,Average
+Ayesha Sheikh,59,14,High School,5,6,Average
+Usman Chaudhry,39,25,Bachelor,9,10,Good
+Ayesha Chaudhry,47,0,Master,8,16,Low
+Ayesha Khan,27,3,Bachelor,8,8,Good
+Hassan Chaudhry,25,28,Master,5,12,Average
+Ahmed Chaudhry,50,0,Bachelor,6,15,Outstanding
+Usman Qureshi,55,21,Bachelor,9,2,Good
+Zain Khan,38,10,Bachelor,5,4,Good
+Ayesha Butt,37,9,High School,7,16,Low
+Ali Sheikh,23,16,Master,9,0,Good
+Amna Malik,55,25,Master,4,8,Poor
+Ayesha Qureshi,29,20,Bachelor,6,16,Good
+Ahmed Chaudhry,34,12,Bachelor,9,12,Poor
+Ayesha Qureshi,29,8,Master,4,14,Low
+Ayesha Khan,51,10,Master,5,7,Low
+Ali Chaudhry,53,10,Master,8,7,Poor
+Ahmed Chaudhry,57,5,Bachelor,9,1,Average
+Ahmed Butt,51,0,Bachelor,9,9,Outstanding
+Fatima Sheikh,22,5,PhD,4,4,Average
+Ayesha Raza,38,12,Master,4,15,Good
+Hassan Sheikh,41,21,Bachelor,8,18,Low
+Amna Khan,45,30,Master,4,0,Average
+Fatima Malik,43,21,Master,4,12,Low
+Ahmed Chaudhry,50,26,Bachelor,9,3,Low
+Ahmed Butt,43,13,Bachelor,8,6,Poor
+Bilal Shah,30,4,Bachelor,8,0,Average
+Sara Butt,58,31,High School,9,1,Poor
+Ahmed Raza,31,33,Master,5,15,Excellent
+Zain Ashraf,57,6,Bachelor,5,13,Average
+Usman Qureshi,58,9,Master,9,4,Good
+Ali Khan,49,16,PhD,4,13,Outstanding
+Ahmed Butt,49,29,High School,6,16,Good
+Bilal Butt,42,20,Bachelor,5,11,Excellent
+Ayesha Butt,45,12,Master,5,19,Low
+Amna Raza,23,0,Master,9,11,Good
+Bilal Shah,29,0,Master,9,2,Average
+Hassan Qureshi,48,32,Bachelor,6,1,Average
+Ahmed Iqbal,43,24,Bachelor,6,14,Average
+Bilal Khan,58,25,Bachelor,8,10,Excellent
+Ayesha Butt,48,12,PhD,9,9,Excellent
+Bilal Ashraf,50,27,Bachelor,5,17,Poor
+Amna Khan,24,32,PhD,7,1,Average
+Ali Iqbal,34,29,Bachelor,7,6,Good
+Fatima Shah,31,7,PhD,4,6,Good
+Zain Qureshi,57,0,Master,5,6,Poor
+Fatima Qureshi,30,11,Bachelor,7,13,Average
+Ayesha Malik,48,4,Master,5,1,Good
+Ayesha Chaudhry,55,23,Bachelor,9,1,Good
+Bilal Butt,22,5,Bachelor,5,14,Average
+Sara Chaudhry,53,24,High School,7,10,Good
+Sara Iqbal,46,0,High School,5,9,Average
+Fatima Sheikh,50,24,Bachelor,6,2,Excellent
+Fatima Iqbal,28,0,Master,4,16,Average
+Usman Khan,24,31,Master,8,8,Average
+Ali Khan,41,2,High School,7,14,Excellent
+Bilal Malik,41,18,Master,9,13,Poor
+Amna Malik,51,28,Master,8,18,Excellent
+Hassan Ashraf,56,1,PhD,4,16,Good
+Sara Qureshi,56,8,Master,6,19,Excellent
+Ayesha Raza,48,16,Bachelor,6,16,Average
+Usman Khan,47,16,Bachelor,6,15,Good
+Zain Malik,35,11,Master,6,19,Good
+Usman Chaudhry,38,19,High School,7,7,Good
+Sara Chaudhry,39,2,High School,7,6,Low
+Ali Malik,50,3,High School,5,11,Average
+Ali Chaudhry,41,16,Bachelor,9,0,Average
+Ahmed Shah,48,14,Bachelor,5,11,Average
+Zain Sheikh,39,32,Bachelor,9,5,Good
+Ali Sheikh,25,15,High School,4,15,Average
+Ayesha Qureshi,22,10,Master,5,17,Excellent
+Hassan Malik,22,19,Bachelor,4,18,Average
+Hassan Qureshi,47,23,Bachelor,4,2,Poor
+Bilal Ashraf,41,15,High School,4,2,Poor
+Ayesha Sheikh,44,29,High School,6,4,Average
+Ali Qureshi,31,33,Bachelor,8,2,Average
+Usman Shah,32,0,Bachelor,8,18,Average
+Bilal Ashraf,26,23,Bachelor,7,4,Good
+Usman Qureshi,22,23,Master,4,13,Average
+Ayesha Sheikh,38,8,Bachelor,6,15,Outstanding
+Hassan Malik,43,21,Bachelor,5,0,Excellent
+Hassan Raza,55,11,Bachelor,5,16,Poor
+Zain Shah,50,16,Master,7,10,Excellent
+Ahmed Butt,25,24,Master,7,8,Good
+Ali Sheikh,26,27,Master,4,3,Average
+Amna Shah,32,14,Bachelor,4,1,Average
+Sara Chaudhry,42,29,Bachelor,5,8,Good
+Ali Butt,56,26,Bachelor,5,4,Outstanding
+Ayesha Malik,33,21,Master,5,3,Average
+Usman Malik,47,9,High School,5,4,Low
+Ali Chaudhry,40,30,PhD,8,17,Average
+Ayesha Butt,28,26,Master,4,12,Poor
+Usman Butt,28,11,Master,4,4,Average
+Ahmed Khan,47,30,High School,5,18,Good
+Usman Shah,26,31,Master,6,2,Average
+Ayesha Sheikh,42,31,Bachelor,5,17,Poor
+Fatima Shah,35,34,High School,9,5,Good
+Zain Khan,25,20,Bachelor,7,5,Average
+Amna Butt,44,9,Master,9,4,Low
+Hassan Shah,41,15,Bachelor,6,0,Good
+Bilal Malik,36,6,Bachelor,7,7,Outstanding
+Amna Raza,50,3,High School,6,0,Good
+Usman Shah,29,26,Master,7,5,Average
+Hassan Malik,40,24,Master,5,19,Average
+Zain Iqbal,49,30,Master,5,13,Low
+Fatima Ashraf,48,10,Bachelor,6,10,Good
+Ayesha Shah,25,19,Bachelor,7,1,Average
+Usman Malik,36,16,Bachelor,8,3,Outstanding
+Fatima Iqbal,56,10,Bachelor,6,12,Outstanding
+Fatima Malik,58,29,PhD,6,6,Average
+Hassan Qureshi,22,34,Bachelor,9,5,Outstanding
+Sara Sheikh,24,21,Bachelor,4,2,Outstanding
+Amna Khan,45,26,Bachelor,6,8,Average
+Bilal Raza,48,34,Master,8,13,Average
+Ayesha Shah,57,3,Bachelor,5,19,Good
+Ali Ashraf,55,15,Bachelor,7,10,Average
+Hassan Malik,50,15,Master,4,4,Average
+Hassan Raza,45,20,Bachelor,7,13,Poor
+Ahmed Khan,45,25,Master,5,18,Average
+Sara Khan,25,18,High School,6,7,Outstanding
+Zain Raza,24,16,Master,9,6,Low
+Hassan Shah,55,25,High School,8,6,Good
+Ali Iqbal,44,21,High School,4,2,Average
+Ayesha Butt,44,27,Master,8,2,Good
+Amna Butt,26,0,Bachelor,8,17,Good
+Usman Khan,52,1,Bachelor,8,12,Low
+Fatima Khan,27,16,Bachelor,8,0,Average
+Fatima Khan,58,20,Master,5,4,Excellent
+Bilal Malik,31,8,Bachelor,8,3,Average
+Sara Iqbal,28,12,PhD,9,15,Good
+Hassan Iqbal,59,10,PhD,8,14,Good
+Ahmed Chaudhry,42,15,Master,5,17,Average
+Sara Malik,41,15,Bachelor,7,16,Excellent
+Usman Sheikh,24,1,Bachelor,5,13,Average
+Hassan Khan,43,7,Master,9,13,Average
+Hassan Chaudhry,25,12,High School,9,18,Low
+Usman Raza,49,16,Bachelor,6,5,Average
+Ahmed Khan,33,23,High School,5,12,Good
+Ahmed Khan,59,2,High School,7,17,Average
+Ayesha Malik,57,29,Bachelor,6,14,Good
+Hassan Chaudhry,26,12,Bachelor,6,6,Good
+Ahmed Chaudhry,34,18,Master,4,18,Average
+Ali Malik,44,6,Bachelor,8,16,Average
+Ali Butt,51,8,Bachelor,6,8,Outstanding
+Zain Chaudhry,58,18,High School,6,10,Outstanding
+Sara Malik,46,21,Bachelor,9,4,Average
+Sara Shah,48,17,Bachelor,7,1,Good
+Fatima Shah,35,22,Master,6,14,Average
+Fatima Malik,57,1,PhD,7,11,Low
+Zain Iqbal,37,10,High School,8,9,Good
+Ahmed Ashraf,43,30,Bachelor,9,9,Average
+Sara Khan,42,32,Bachelor,4,19,Low
+Zain Sheikh,42,13,PhD,4,10,Good
+Fatima Malik,29,15,Master,8,9,Excellent
+Ali Qureshi,37,10,Master,8,6,Excellent
+Ahmed Shah,52,32,Bachelor,9,13,Average
+Ahmed Ashraf,31,6,PhD,9,12,Average
+Amna Sheikh,53,30,High School,5,4,Low
+Hassan Raza,55,13,High School,6,18,Good
+Zain Khan,30,27,Master,6,9,Excellent
+Ahmed Malik,38,15,PhD,6,7,Excellent
+Zain Shah,32,18,High School,7,17,Good
+Ahmed Khan,53,16,High School,5,0,Poor
+Hassan Malik,31,25,High School,6,4,Average
+Usman Khan,43,5,High School,7,10,Average
+Ahmed Malik,38,8,Bachelor,7,19,Excellent
+Zain Qureshi,25,16,PhD,4,10,Poor
+Bilal Butt,46,30,Master,7,15,Average
+Ahmed Raza,42,11,Master,8,9,Low
+Ahmed Qureshi,58,22,Master,9,14,Good
+Amna Butt,59,4,Bachelor,7,6,Good
+Bilal Raza,22,2,Master,8,14,Average
+Ahmed Chaudhry,46,23,Bachelor,8,15,Good
+Usman Chaudhry,57,16,Bachelor,4,5,Average
+Ahmed Butt,38,25,Bachelor,4,10,Low
+Zain Malik,45,3,Bachelor,7,16,Average
+Ayesha Ashraf,23,11,Master,4,14,Outstanding
+Bilal Khan,36,0,PhD,4,15,Average
+Amna Raza,53,20,Bachelor,9,1,Poor
+Sara Malik,27,18,Master,6,3,Average
+Amna Malik,22,20,High School,7,18,Average
+Zain Ashraf,44,17,Master,7,5,Average
+Amna Iqbal,38,2,Bachelor,7,17,Average
+Sara Butt,55,31,High School,4,10,Outstanding
+Sara Qureshi,50,9,Bachelor,9,8,Good
+Usman Raza,30,14,Master,4,2,Poor
+Ali Sheikh,34,4,High School,8,1,Good
+Hassan Butt,27,3,PhD,5,17,Good
+Ahmed Sheikh,27,27,High School,5,14,Excellent
+Usman Khan,41,3,PhD,5,17,Average
+Fatima Qureshi,24,14,Master,6,18,Average
+Sara Shah,38,16,Bachelor,4,14,Good
+Ayesha Ashraf,33,2,Bachelor,8,16,Good
+Zain Butt,22,9,Master,8,17,Average
+Usman Malik,38,22,Master,5,17,Low
+Usman Iqbal,24,17,Master,9,10,Good
+Ahmed Sheikh,47,0,Bachelor,6,17,Poor
+Usman Butt,36,34,Bachelor,6,2,Low
+Amna Malik,57,30,PhD,5,12,Average
+Ali Raza,53,0,Bachelor,5,13,Average
+Hassan Chaudhry,53,2,Bachelor,4,3,Average
+Zain Ashraf,25,2,Bachelor,9,17,Average
+Bilal Raza,39,18,Master,6,4,Poor
+Fatima Raza,40,28,Master,8,13,Low
+Ali Ashraf,56,24,Bachelor,5,11,Low
+Sara Malik,35,32,High School,4,6,Average
+Sara Shah,54,28,High School,8,11,Low
+Sara Shah,35,25,Bachelor,6,7,Average
+Sara Malik,55,3,Bachelor,5,2,Average
+Hassan Chaudhry,25,13,PhD,9,0,Low
+Hassan Khan,45,26,Bachelor,5,2,Low
+Bilal Sheikh,50,32,Bachelor,9,10,Good
+Sara Chaudhry,40,21,Master,4,17,Average
+Hassan Sheikh,27,2,Bachelor,4,6,Excellent
+Bilal Ashraf,54,22,Bachelor,6,8,Average
+Ahmed Butt,40,20,High School,9,3,Excellent
+Sara Ashraf,22,22,Bachelor,5,9,Average
+Ayesha Raza,26,3,PhD,4,17,Average
+Fatima Sheikh,48,20,Bachelor,5,15,Average
+Usman Chaudhry,37,30,Bachelor,6,11,Excellent
+Usman Qureshi,27,20,Master,9,18,Average
+Ahmed Malik,34,25,PhD,5,2,Excellent
+Hassan Butt,56,34,Bachelor,8,7,Average
+Bilal Sheikh,40,23,Bachelor,5,18,Good
+Fatima Raza,33,10,PhD,7,8,Excellent
+Ayesha Chaudhry,37,28,Bachelor,7,18,Outstanding
+Ahmed Chaudhry,31,2,Master,6,16,Good
+Ahmed Chaudhry,46,0,Master,6,12,Average
+Amna Raza,41,18,Master,6,1,Average
+Ali Shah,52,21,Bachelor,8,3,Average
+Amna Butt,25,13,Bachelor,9,10,Poor
+Sara Chaudhry,44,13,Master,8,1,Poor
+Hassan Butt,23,15,Bachelor,5,3,Average
+Ayesha Khan,43,32,Bachelor,4,3,Good
+Bilal Raza,58,12,Bachelor,9,19,Poor
+Sara Ashraf,29,11,High School,7,0,Average
+Bilal Chaudhry,28,32,PhD,7,10,Average
+Sara Chaudhry,35,32,Bachelor,7,1,Excellent
+Ahmed Chaudhry,24,28,PhD,5,18,Low
+Usman Shah,37,4,High School,5,7,Average
+Usman Khan,40,5,Bachelor,6,19,Outstanding
+Hassan Iqbal,39,30,Bachelor,4,3,Average
+Usman Shah,37,15,Master,6,15,Good
+Amna Shah,29,30,Master,5,14,Excellent
+Hassan Malik,54,24,High School,8,4,Low
+Hassan Butt,33,32,PhD,6,4,Outstanding
+Sara Malik,32,12,Bachelor,9,14,Good
+Amna Khan,26,9,Master,5,16,Low
+Bilal Raza,48,23,PhD,5,2,Average
+Ahmed Ashraf,33,9,Master,8,17,Average
+Ayesha Raza,38,30,PhD,8,10,Excellent
+Ali Khan,27,12,Bachelor,8,5,Low
+Hassan Qureshi,54,2,High School,4,11,Good
+Ahmed Butt,26,33,Bachelor,9,16,Average
+Zain Chaudhry,49,27,Bachelor,5,13,Good
+Usman Butt,35,18,Master,8,5,Good
+Hassan Sheikh,26,22,Bachelor,4,9,Average
+Bilal Sheikh,54,31,Master,7,15,Average
+Fatima Butt,40,12,Bachelor,9,17,Excellent
+Usman Malik,43,32,Bachelor,7,19,Average
+Bilal Ashraf,26,33,Master,7,5,Good
+Amna Khan,23,32,Bachelor,5,18,Low
+Ayesha Shah,51,4,Master,4,2,Good
+Ayesha Chaudhry,25,2,Bachelor,4,11,Good
+Amna Chaudhry,54,6,Master,7,15,Average
+Sara Malik,34,23,High School,9,2,Good
+Zain Ashraf,41,21,Bachelor,6,15,Average
+Usman Iqbal,28,22,Master,7,3,Excellent
+Fatima Khan,36,29,Master,5,19,Low
+Ali Shah,44,17,Bachelor,7,12,Low
+Fatima Butt,35,31,Bachelor,9,3,Good
+Zain Khan,44,6,Bachelor,9,3,Good
+Fatima Ashraf,40,32,Bachelor,7,6,Average
+Ahmed Iqbal,50,4,Master,4,11,Outstanding
+Ali Iqbal,41,27,Master,7,1,Good
+Sara Sheikh,50,7,High School,8,15,Outstanding
+Fatima Raza,45,14,Bachelor,8,6,Average
+Amna Malik,39,3,Master,6,18,Low
+Hassan Chaudhry,31,33,Bachelor,5,10,Average
+Sara Raza,29,4,Master,5,0,Outstanding
+Fatima Ashraf,47,32,High School,4,8,Average
+Ayesha Iqbal,50,4,Master,5,4,Outstanding
+Bilal Qureshi,31,33,Bachelor,6,16,Good
+Usman Malik,38,25,Master,8,0,Average
+Fatima Ashraf,23,0,Bachelor,4,16,Average
+Hassan Butt,27,3,Bachelor,9,11,Average
+Amna Iqbal,26,25,Master,8,12,Good
+Ali Butt,49,32,High School,6,10,Poor
+Amna Iqbal,26,32,Bachelor,4,12,Excellent
+Ayesha Butt,39,7,Bachelor,7,12,Average
+Zain Ashraf,47,19,Bachelor,5,5,Excellent
+Ali Raza,41,15,PhD,6,5,Average
+Hassan Malik,48,20,Master,4,19,Average
+Ali Shah,33,25,High School,8,9,Average
+Ahmed Qureshi,28,22,Master,4,18,Good
+Ali Malik,24,17,Bachelor,7,2,Average
+Ahmed Qureshi,31,30,PhD,6,6,Outstanding
+Ali Sheikh,55,11,Bachelor,4,4,Average
+Hassan Sheikh,46,0,Bachelor,9,7,Outstanding
+Sara Iqbal,56,8,Bachelor,6,4,Excellent
+Usman Qureshi,37,2,Bachelor,6,11,Good
+Bilal Iqbal,23,25,Bachelor,8,3,Average
+Ahmed Butt,45,8,Bachelor,5,18,Average
+Fatima Shah,31,15,Master,9,17,Good
+Hassan Khan,59,23,Bachelor,7,2,Average
+Ayesha Raza,43,13,PhD,4,6,Good
+Ali Khan,47,2,Bachelor,5,7,Good
+Sara Iqbal,48,33,Master,8,14,Average
+Fatima Shah,50,32,PhD,5,16,Average
+Zain Ashraf,59,23,Master,6,18,Low
+Fatima Butt,41,8,Master,6,3,Low
+Zain Iqbal,48,12,Master,7,15,Excellent
+Amna Butt,41,1,Bachelor,9,12,Good
+Hassan Qureshi,40,6,Master,4,11,Poor
+Zain Sheikh,41,20,Bachelor,4,3,Excellent
+Ayesha Sheikh,56,18,Bachelor,8,11,Poor
+Ayesha Raza,23,24,Bachelor,7,16,Average
+Hassan Ashraf,51,21,Master,4,8,Poor
+Ayesha Khan,55,10,Bachelor,9,11,Outstanding
+Ahmed Ashraf,43,32,Bachelor,6,14,Outstanding
+Ayesha Butt,24,31,Bachelor,7,19,Average
+Ahmed Chaudhry,27,20,PhD,5,1,Average
+Ahmed Iqbal,36,19,High School,7,8,Average
+Ayesha Sheikh,48,7,High School,7,13,Good
+Ahmed Sheikh,31,8,Bachelor,9,3,Low
+Ahmed Raza,30,24,PhD,9,3,Average
+Ali Khan,54,24,PhD,4,5,Good
+Fatima Chaudhry,53,32,Master,8,4,Average
+Ahmed Butt,27,1,Master,8,16,Poor
+Ayesha Ashraf,57,18,Bachelor,9,12,Average
+Ahmed Raza,23,19,PhD,4,19,Good
+Amna Khan,50,28,High School,4,16,Outstanding
+Fatima Ashraf,25,5,High School,4,18,Poor
+Ahmed Ashraf,22,16,High School,9,0,Average
+Hassan Iqbal,40,24,Bachelor,8,16,Average
+Ahmed Iqbal,47,3,Master,4,2,Low
+Ayesha Malik,46,29,Bachelor,9,13,Average
+Usman Shah,31,19,PhD,5,11,Low
+Hassan Sheikh,36,2,Bachelor,5,14,Average
+Hassan Ashraf,43,22,Bachelor,6,5,Good
+Ahmed Khan,42,17,Bachelor,5,19,Average
+Amna Iqbal,43,25,Master,7,1,Outstanding
+Fatima Qureshi,57,7,Master,6,3,Average
+Hassan Qureshi,55,16,Bachelor,5,12,Average
+Zain Sheikh,51,30,Bachelor,7,12,Average
+Zain Butt,46,32,Bachelor,5,16,Low
+Fatima Malik,49,26,Master,9,5,Excellent
+Hassan Khan,22,3,PhD,7,10,Good
+Ahmed Iqbal,25,21,High School,4,18,Average
+Ali Qureshi,28,25,Master,9,15,Good
+Usman Shah,30,31,Bachelor,7,7,Outstanding
+Zain Raza,57,23,Bachelor,9,0,Poor
+Hassan Ashraf,40,34,PhD,4,9,Average
+Ali Ashraf,22,31,Bachelor,7,1,Low
+Usman Chaudhry,31,6,Bachelor,7,18,Excellent
+Sara Chaudhry,57,32,Bachelor,9,13,Low
+Amna Raza,30,30,Bachelor,5,2,Average
+Ayesha Raza,53,11,Master,7,8,Average
+Usman Malik,53,10,Master,5,7,Average
+Amna Butt,27,23,PhD,7,10,Good
+Ali Iqbal,59,7,Bachelor,8,14,Average
+Bilal Raza,38,31,High School,6,5,Average
+Hassan Ashraf,31,21,High School,5,1,Outstanding
+Zain Chaudhry,48,33,Bachelor,5,0,Average
+Amna Khan,56,18,PhD,4,2,Low
+Fatima Shah,42,19,Master,8,17,Good
+Ahmed Shah,46,13,Bachelor,4,13,Good
+Fatima Shah,49,32,Master,8,16,Average
+Fatima Khan,36,9,Master,8,1,Low
+Ayesha Ashraf,25,15,High School,9,18,Good
+Fatima Qureshi,50,3,Master,9,8,Good
+Hassan Iqbal,30,26,Bachelor,9,7,Excellent
+Ali Raza,48,27,High School,7,9,Good
+Hassan Shah,47,15,Bachelor,4,8,Low
+Hassan Qureshi,40,32,Bachelor,6,7,Good
+Ahmed Shah,49,18,Bachelor,8,6,Low
+Bilal Sheikh,38,20,Bachelor,8,5,Excellent
+Zain Chaudhry,41,21,Bachelor,5,1,Good
+Ali Sheikh,44,8,Master,7,8,Average
+Sara Qureshi,53,8,PhD,6,8,Average
+Hassan Iqbal,54,8,Master,9,18,Low
+Fatima Malik,26,26,Bachelor,8,8,Poor
+Zain Shah,55,16,Bachelor,5,1,Average
+Ali Khan,32,7,Bachelor,4,18,Good
+Bilal Qureshi,24,15,High School,8,15,Average
+Bilal Sheikh,54,17,Bachelor,5,13,Low
+Amna Butt,32,32,Master,4,19,Good
+Zain Sheikh,37,0,Master,7,0,Low
+Sara Sheikh,39,11,Master,9,12,Good
+Bilal Qureshi,51,5,Bachelor,4,1,Average
+Amna Butt,31,4,Bachelor,8,13,Average
+Usman Qureshi,39,15,Master,6,0,Average
+Zain Qureshi,59,17,Bachelor,4,14,Excellent
+Hassan Iqbal,40,17,Bachelor,6,17,Poor
+Hassan Raza,57,0,Bachelor,6,8,Low
+Usman Khan,34,18,Bachelor,4,7,Average
+Ahmed Qureshi,24,7,High School,7,6,Excellent
+Ayesha Butt,31,2,Master,4,8,Poor
+Ali Qureshi,59,24,Master,5,8,Good
+Bilal Sheikh,22,4,Bachelor,9,10,Good
+Hassan Raza,48,18,High School,6,3,Average
+Usman Malik,29,17,Master,9,6,Average
+Ayesha Butt,38,30,Bachelor,8,6,Average
+Ali Chaudhry,30,32,Bachelor,6,3,Average
+Fatima Chaudhry,27,17,High School,8,11,Good
+Hassan Chaudhry,46,15,Bachelor,5,16,Poor
+Bilal Qureshi,49,15,Master,5,19,Average
+Hassan Malik,54,6,Master,9,2,Average
+Fatima Iqbal,58,13,Bachelor,5,8,Average
+Zain Khan,30,24,Bachelor,4,4,Average
+Ayesha Sheikh,39,31,High School,6,19,Excellent
+Zain Khan,42,21,High School,8,15,Average
+Ahmed Ashraf,23,15,PhD,9,7,Low
+Hassan Sheikh,59,28,Master,9,15,Poor
+Fatima Sheikh,57,15,Bachelor,5,18,Average
+Usman Qureshi,58,11,Master,5,15,Average
+Fatima Shah,36,16,Master,8,17,Good
+Fatima Khan,49,26,Master,6,14,Average
+Ayesha Qureshi,39,24,High School,6,17,Good
+Amna Malik,55,12,Bachelor,9,13,Excellent
+Amna Raza,43,7,Master,8,15,Poor
+Ahmed Malik,32,4,Bachelor,9,4,Good
+Zain Sheikh,34,11,PhD,7,7,Poor
+Amna Ashraf,25,2,Master,6,15,Average
+Fatima Qureshi,43,34,PhD,8,0,Average
+Ayesha Ashraf,28,32,Bachelor,8,10,Good
+Ali Iqbal,45,21,Master,9,10,Average
+Zain Ashraf,25,8,Bachelor,5,1,Good
+Ahmed Khan,49,17,PhD,8,18,Average
+Ahmed Iqbal,36,28,Bachelor,9,4,Average
+Ayesha Ashraf,22,26,Bachelor,4,2,Low
+Hassan Shah,24,16,Master,5,7,Good
+Fatima Sheikh,35,33,Bachelor,5,3,Poor
+Ali Raza,59,2,Bachelor,6,12,Average
+Ahmed Iqbal,22,4,PhD,7,13,Average
+Sara Raza,59,13,Bachelor,6,0,Low
+Amna Chaudhry,59,2,Master,4,4,Poor
+Amna Iqbal,42,22,High School,9,6,Low
+Amna Malik,50,29,Master,5,5,Average
+Bilal Butt,26,22,Master,5,14,Average
+Ali Malik,31,26,Bachelor,8,14,Average
+Ahmed Khan,49,9,High School,7,7,Good
+Hassan Ashraf,42,24,Bachelor,7,1,Average
+Ayesha Ashraf,28,12,High School,8,13,Average
+Ahmed Butt,24,15,High School,4,15,Good
+Zain Iqbal,41,33,Master,7,9,Average
+Fatima Sheikh,40,21,Bachelor,5,14,Outstanding
+Ayesha Khan,56,16,Bachelor,4,3,Average
+Ali Raza,25,22,Master,6,11,Good
+Ahmed Sheikh,26,8,High School,6,9,Good
+Sara Qureshi,22,1,Bachelor,4,1,Excellent
+Ahmed Raza,25,31,High School,5,3,Outstanding
+Ahmed Malik,33,21,Bachelor,6,19,Poor
+Bilal Malik,48,12,Master,9,5,Poor
+Ali Khan,44,7,Master,5,13,Good
+Hassan Shah,46,0,Bachelor,8,2,Average
+Usman Raza,42,16,High School,7,14,Good
+Ali Khan,45,11,High School,4,0,Poor
+Amna Chaudhry,46,3,Bachelor,7,18,Good
+Usman Butt,53,12,PhD,8,0,Low
+Ali Qureshi,53,30,Bachelor,6,12,Average
+Usman Malik,26,6,Bachelor,9,7,Outstanding
+Ayesha Khan,57,22,High School,5,17,Poor
+Ali Malik,37,23,Master,5,2,Average
+Zain Raza,54,4,Master,8,17,Poor
+Zain Raza,42,4,Master,4,19,Excellent
+Ahmed Ashraf,30,16,Master,7,8,Good
+Usman Malik,27,29,Bachelor,9,5,Good
+Ahmed Qureshi,56,8,High School,6,19,Average
+Zain Ashraf,43,5,Bachelor,4,1,Average
+Fatima Sheikh,26,24,Master,9,3,Poor
+Amna Chaudhry,44,18,Master,9,17,Average
+Sara Iqbal,38,15,Bachelor,8,6,Average
+Zain Malik,33,20,Master,8,10,Good
+Ali Chaudhry,44,1,Master,5,4,Low
+Usman Iqbal,37,9,Master,6,7,Low
+Sara Raza,24,15,Bachelor,4,10,Low
+Ayesha Sheikh,51,14,Master,5,19,Average
+Amna Khan,43,12,Bachelor,6,19,Low
+Ali Raza,30,12,Master,7,14,Low
+Amna Butt,50,31,PhD,7,2,Poor
+Fatima Chaudhry,58,7,Bachelor,5,6,Excellent
+Ahmed Butt,44,17,Master,4,7,Low
+Ali Sheikh,34,25,Master,6,10,Good
+Fatima Shah,53,9,High School,7,9,Average
+Bilal Raza,44,30,Bachelor,7,19,Average
+Amna Raza,38,32,High School,4,8,Poor
+Bilal Malik,42,28,PhD,5,14,Average
+Fatima Malik,23,4,Master,8,19,Average
+Hassan Malik,58,12,High School,9,4,Poor
+Amna Sheikh,27,0,High School,6,14,Excellent
+Hassan Ashraf,39,22,Bachelor,7,3,Average
+Ayesha Iqbal,51,2,Bachelor,9,4,Low
+Usman Malik,43,2,High School,9,14,Average
+Fatima Butt,54,6,Bachelor,8,16,Average
+Ali Shah,51,34,Bachelor,9,7,Good
+Ayesha Butt,38,14,High School,4,18,Average
+Zain Qureshi,53,2,Master,5,8,Poor
+Hassan Raza,35,28,PhD,6,9,Low
+Amna Shah,31,29,Master,4,4,Average
+Ayesha Shah,57,17,Master,5,9,Average
+Sara Malik,55,10,Bachelor,4,0,Average
+Hassan Ashraf,30,0,Bachelor,7,3,Good
+Ahmed Khan,49,28,Bachelor,7,4,Good
+Hassan Malik,32,9,Master,8,6,Average
+Bilal Butt,35,27,PhD,4,4,Excellent
+Amna Malik,40,30,Master,9,19,Poor
+Ali Sheikh,36,18,Master,7,7,Average
+Bilal Shah,49,2,Master,5,16,Excellent
+Zain Malik,45,14,Bachelor,8,0,Average
+Ahmed Malik,29,32,Bachelor,9,17,Average
+Fatima Raza,30,25,High School,6,11,Low
+Fatima Raza,54,15,High School,4,2,Good
+Zain Shah,54,32,Master,7,19,Average
+Ali Raza,40,19,Bachelor,9,13,Good
+Bilal Butt,24,12,Bachelor,5,15,Low
+Ayesha Chaudhry,31,32,Bachelor,4,17,Poor
+Zain Qureshi,22,4,Bachelor,5,9,Average
+Bilal Ashraf,50,13,Bachelor,8,14,Average
+Hassan Chaudhry,55,26,Bachelor,7,9,Excellent
+Bilal Butt,34,22,Bachelor,7,0,Excellent
+Amna Qureshi,22,13,Master,8,18,Average
+Ahmed Butt,55,3,Bachelor,5,1,Poor
+Ali Malik,50,18,Master,4,12,Low
+Ayesha Butt,34,3,Master,5,15,Average
+Hassan Raza,50,29,Master,4,7,Low
+Ahmed Khan,45,18,Master,9,2,Good
+Ali Khan,47,30,Bachelor,8,18,Poor
+Ali Butt,38,30,High School,6,13,Good
+Usman Sheikh,28,8,Bachelor,4,10,Good
+Bilal Chaudhry,34,12,Bachelor,7,11,Average
+Fatima Sheikh,26,13,PhD,9,10,Good
+Ayesha Chaudhry,47,9,Master,7,10,Good
+Zain Malik,24,30,High School,9,17,Good
+Ali Iqbal,28,22,High School,7,9,Average
+Hassan Butt,22,26,Bachelor,5,15,Average
+Sara Qureshi,38,5,Master,5,7,Excellent
+Hassan Butt,46,25,Master,5,5,Average
+Amna Qureshi,24,1,Master,9,18,Good
+Amna Ashraf,36,12,PhD,9,12,Average
+Amna Iqbal,50,18,Bachelor,7,14,Low
+Usman Khan,53,0,Bachelor,4,12,Outstanding
+Bilal Malik,47,31,Bachelor,9,0,Low
+Bilal Butt,37,21,Bachelor,7,1,Excellent
+Fatima Shah,46,28,PhD,4,12,Low
+Hassan Butt,49,1,Bachelor,5,1,Average
+Usman Khan,30,10,Master,9,10,Average
+Ahmed Iqbal,22,16,Bachelor,6,12,Excellent
+Ayesha Sheikh,50,7,High School,5,9,Excellent
+Hassan Shah,43,21,High School,8,14,Good
+Ahmed Qureshi,37,3,Bachelor,4,0,Average
+Bilal Butt,28,10,Master,6,13,Poor
+Ali Chaudhry,35,7,Bachelor,5,9,Good
+Hassan Iqbal,50,8,Master,9,17,Average
+Amna Chaudhry,40,25,Master,6,10,Good
+Hassan Butt,40,1,Bachelor,7,6,Good
+Amna Sheikh,23,15,Master,4,14,Average
+Amna Khan,36,30,Bachelor,8,2,Good
+Bilal Qureshi,24,5,Master,7,1,Good
+Hassan Chaudhry,32,20,Master,6,7,Excellent
+Bilal Chaudhry,51,25,PhD,5,7,Average
+Fatima Qureshi,39,18,Bachelor,4,10,Good
+Fatima Khan,23,27,Bachelor,9,15,Average
+Usman Chaudhry,53,7,Bachelor,8,1,Poor
+Usman Sheikh,29,13,Bachelor,5,4,Low
+Fatima Ashraf,43,23,Master,8,6,Low
+Zain Khan,27,25,PhD,9,19,Low
+Fatima Shah,33,30,Bachelor,4,12,Poor
+Ali Shah,57,31,Bachelor,6,1,Excellent
+Fatima Ashraf,36,1,Bachelor,8,2,Average
+Bilal Ashraf,49,24,Bachelor,4,8,Average
+Usman Raza,39,1,Bachelor,8,9,Average
+Sara Raza,23,0,Bachelor,5,12,Average
+Ayesha Chaudhry,34,11,Master,8,12,Poor
+Ali Malik,36,8,High School,5,4,Average
+Ayesha Malik,41,27,Bachelor,5,6,Excellent
+Fatima Sheikh,50,32,Master,4,16,Good
+Usman Iqbal,50,21,Bachelor,7,14,Average
+Fatima Khan,24,24,Master,9,4,Average
+Hassan Shah,40,17,Master,8,6,Average
+Zain Iqbal,24,5,Master,6,1,Average
+Bilal Qureshi,35,17,Bachelor,5,17,Average
+Usman Butt,25,15,Bachelor,7,9,Good
+Zain Khan,32,14,Master,5,0,Low
+Fatima Shah,52,7,Master,7,13,Good
+Zain Shah,53,12,Bachelor,7,18,Average
+Fatima Chaudhry,48,6,High School,6,15,Average
+Ali Butt,51,16,High School,7,18,Average
+Ali Raza,23,31,High School,6,5,Average
+Fatima Butt,30,21,Bachelor,4,11,Average
+Amna Ashraf,49,12,High School,5,2,Low
+Ahmed Chaudhry,52,22,Bachelor,6,6,Average
+Ayesha Ashraf,55,28,Master,9,2,Average
+Bilal Raza,36,21,Bachelor,5,16,Poor
+Hassan Malik,46,0,Master,9,14,Low
+Amna Raza,57,28,Master,8,18,Average
+Ayesha Qureshi,29,4,Bachelor,9,18,Low
+Usman Qureshi,30,34,Master,4,10,Low
+Zain Shah,58,9,Master,8,19,Average
+Sara Chaudhry,53,18,Bachelor,8,1,Excellent
+Ali Chaudhry,38,6,Bachelor,7,6,Good
+Ali Chaudhry,56,34,Bachelor,9,18,Excellent
+Fatima Qureshi,58,12,PhD,7,6,Average
+Ali Chaudhry,40,9,Master,9,9,Average
+Amna Butt,50,1,Bachelor,8,11,Good
+Bilal Raza,28,5,Master,7,17,Average
+Fatima Malik,49,7,Bachelor,5,5,Poor
+Ayesha Iqbal,30,24,Bachelor,9,19,Average
+Ayesha Shah,49,6,Master,9,7,Average
+Amna Ashraf,27,22,Bachelor,7,4,Good
+Sara Shah,50,18,Master,9,2,Average
+Bilal Qureshi,38,21,Master,8,1,Low
+Zain Iqbal,37,12,Master,7,5,Excellent
+Hassan Iqbal,44,20,Bachelor,7,6,Average
+Ahmed Khan,52,0,Master,6,7,Average
+Amna Sheikh,24,18,PhD,6,3,Excellent
+Zain Butt,42,32,High School,8,11,Poor
+Sara Butt,47,3,Bachelor,5,11,Good
+Ayesha Iqbal,57,2,Bachelor,9,16,Average
+Zain Shah,58,26,Master,4,18,Good
+Zain Khan,43,34,Master,9,8,Excellent
+Amna Raza,33,27,High School,4,11,Average
+Fatima Butt,34,5,Master,8,16,Poor
+Ahmed Raza,32,5,Bachelor,5,9,Poor
+Ahmed Qureshi,37,22,Master,5,18,Average
+Bilal Shah,29,32,Bachelor,5,10,Good
+Fatima Malik,23,15,Bachelor,6,19,Average
+Sara Shah,51,23,Bachelor,8,12,Average
+Ayesha Qureshi,51,4,Bachelor,4,3,Good
+Ahmed Qureshi,33,12,Master,5,14,Low
+Zain Raza,31,11,Bachelor,8,11,Good
+Bilal Raza,32,4,High School,9,9,Average
+Ali Sheikh,36,30,High School,4,6,Poor
+Sara Khan,37,27,High School,6,1,Low
+Sara Qureshi,38,27,Master,7,6,Outstanding
+Hassan Butt,47,29,Master,4,7,Average
+Amna Shah,23,17,High School,9,18,Average
+Bilal Khan,33,26,Bachelor,4,5,Average
+Sara Sheikh,47,34,High School,4,7,Good
+Ayesha Sheikh,44,25,PhD,7,19,Average
+Usman Qureshi,39,17,PhD,5,3,Good
+Ayesha Iqbal,53,32,Master,9,19,Average
+Ahmed Khan,59,24,PhD,7,8,Low
+Hassan Khan,24,30,Master,4,4,Average
+Usman Malik,59,1,Master,9,5,Low
+Fatima Chaudhry,24,32,Bachelor,6,18,Excellent
+Ayesha Malik,51,31,Bachelor,4,11,Poor
+Bilal Ashraf,22,17,Bachelor,6,4,Good
+Ali Shah,51,16,Bachelor,8,4,Average
+Ahmed Raza,53,33,Master,6,17,Good
+Ali Chaudhry,49,6,Bachelor,4,5,Poor
+Amna Malik,42,34,Bachelor,7,8,Outstanding
+Amna Chaudhry,34,29,Bachelor,4,10,Low
+Amna Qureshi,48,11,Bachelor,4,13,Good
+Hassan Malik,57,34,Bachelor,8,1,Average
+Sara Chaudhry,28,10,PhD,5,13,Average
+Ali Ashraf,43,3,Master,4,18,Average
+Fatima Chaudhry,31,24,Master,8,9,Good
+Bilal Raza,36,31,Bachelor,7,4,Low
+Bilal Raza,36,19,Bachelor,8,3,Good
+Ahmed Malik,25,30,Bachelor,8,6,Average
+Ahmed Raza,53,3,Master,6,12,Outstanding
+Ayesha Butt,44,0,Bachelor,5,9,Average
+Bilal Qureshi,27,2,High School,5,9,Low
+Zain Khan,45,21,Master,9,3,Average
+Hassan Iqbal,41,16,Bachelor,7,15,Poor
+Fatima Malik,58,13,Bachelor,9,14,Average
+Fatima Iqbal,41,34,High School,8,10,Average
+Bilal Butt,33,12,High School,7,18,Excellent
+Sara Qureshi,54,34,Bachelor,7,2,Good
+Ahmed Ashraf,49,1,High School,5,14,Poor
+Hassan Ashraf,29,12,Master,5,15,Average
+Ayesha Khan,22,15,Master,5,13,Low
+Zain Khan,58,17,Bachelor,4,4,Average
+Usman Raza,43,6,Master,8,16,Poor
+Ayesha Iqbal,27,29,Bachelor,7,17,Good
+Bilal Qureshi,42,6,Bachelor,8,18,Outstanding
+Fatima Malik,53,14,Bachelor,7,0,Low
+Amna Raza,56,18,Master,7,8,Average
+Hassan Shah,36,1,Bachelor,9,13,Low
+Usman Shah,26,12,Master,7,19,Excellent
+Ayesha Qureshi,27,30,Master,7,19,Poor
+Ali Raza,46,15,Bachelor,6,10,Average
+Ayesha Raza,50,5,Master,6,1,Excellent
+Ahmed Butt,28,27,PhD,9,19,Low
+Fatima Shah,34,31,Bachelor,4,4,Average
+Usman Qureshi,59,9,Bachelor,5,14,Poor
+Ali Butt,39,17,Master,7,11,Good
+Hassan Shah,23,3,Master,8,13,Average
+Fatima Shah,29,8,Bachelor,6,10,Outstanding
+Ali Sheikh,32,6,Bachelor,5,8,Excellent
+Ayesha Iqbal,54,7,Bachelor,4,19,Good
+Ali Ashraf,59,6,Bachelor,5,7,Average
+Bilal Chaudhry,48,2,Bachelor,7,11,Good
+Amna Ashraf,41,16,PhD,5,2,Low
+Hassan Khan,33,1,Master,7,14,Average
+Usman Sheikh,52,14,Bachelor,9,7,Poor
+Hassan Sheikh,48,28,Master,6,6,Average
+Usman Shah,53,21,Master,6,16,Good
+Sara Qureshi,31,3,High School,7,11,Excellent
+Fatima Chaudhry,24,5,Bachelor,8,19,Good
+Ali Malik,48,25,Bachelor,6,17,Good
+Ahmed Raza,56,10,Master,8,17,Excellent
+Amna Sheikh,52,25,High School,7,14,Excellent
+Zain Shah,36,16,PhD,9,2,Average
+Fatima Butt,37,23,Bachelor,7,18,Low
+Hassan Sheikh,34,27,Bachelor,9,14,Average
+Ayesha Sheikh,56,34,Bachelor,6,15,Average
+Zain Ashraf,32,30,Bachelor,8,16,Average
+Ayesha Raza,42,12,Master,7,0,Outstanding
+Ali Shah,32,34,PhD,6,10,Excellent
+Fatima Sheikh,51,15,Bachelor,9,5,Average
+Bilal Shah,56,14,PhD,7,8,Low
+Zain Raza,43,17,Master,9,19,Low
+Usman Khan,59,26,Bachelor,5,15,Low
+Amna Chaudhry,52,34,Master,9,5,Average
+Sara Malik,35,34,Bachelor,5,11,Excellent
+Hassan Raza,45,27,Bachelor,6,18,Average
+Ayesha Sheikh,53,8,High School,7,12,Average
+Usman Shah,57,11,Master,6,12,Low
+Zain Shah,53,14,High School,4,3,Average
+Zain Qureshi,36,20,Master,9,8,Excellent
+Ahmed Malik,56,34,Master,6,13,Good
+Fatima Sheikh,24,32,Bachelor,6,13,Poor
+Zain Malik,37,18,Bachelor,5,16,Excellent
+Usman Iqbal,26,22,Bachelor,9,4,Average
+Bilal Butt,42,12,Bachelor,5,18,Good
+Hassan Malik,31,0,Bachelor,7,1,Low
+Sara Raza,40,28,Bachelor,6,12,Good
+Sara Qureshi,46,23,Bachelor,9,10,Poor
+Ayesha Butt,25,15,High School,6,1,Average
+Bilal Sheikh,50,24,High School,7,0,Average
+Bilal Raza,40,22,High School,8,2,Low
+Zain Raza,23,27,Master,7,11,Excellent
+Ayesha Raza,31,15,PhD,5,6,Poor
+Bilal Sheikh,46,10,Bachelor,5,0,Excellent
+Bilal Sheikh,41,2,Bachelor,6,8,Average
+Usman Qureshi,40,14,High School,5,17,Good
+Ayesha Raza,44,0,Bachelor,9,19,Good
+Zain Butt,45,6,High School,7,5,Low
+Sara Ashraf,32,0,Master,6,8,Average
+Zain Butt,55,31,PhD,7,7,Average
+Ali Khan,49,8,Bachelor,7,17,Good
+Hassan Sheikh,26,28,Master,6,14,Outstanding
+Fatima Shah,26,25,High School,8,0,Poor
+Sara Shah,42,22,Bachelor,5,13,Average
+Bilal Chaudhry,33,28,High School,4,17,Good
+Ayesha Malik,25,32,Bachelor,4,18,Average
+Ali Iqbal,41,6,Bachelor,4,18,Excellent
+Usman Khan,59,11,Bachelor,5,9,Poor
+Fatima Raza,46,30,Bachelor,8,19,Average
+Hassan Ashraf,35,31,Bachelor,7,5,Good
+Zain Chaudhry,32,19,Master,6,16,Low
+Usman Khan,53,16,PhD,8,13,Good
+Ayesha Iqbal,32,2,Bachelor,4,12,Poor
+Zain Shah,39,0,Bachelor,9,7,Average
+Ayesha Shah,48,26,Bachelor,5,9,Good
+Fatima Sheikh,39,32,Master,5,8,Average
+Amna Khan,44,19,Bachelor,6,4,Poor
+Zain Sheikh,32,13,Bachelor,9,3,Outstanding
+Ayesha Sheikh,42,4,High School,7,5,Excellent
+Amna Butt,26,22,Bachelor,8,5,Excellent
+Fatima Butt,44,14,Bachelor,9,12,Outstanding
+Ahmed Malik,46,5,PhD,8,3,Low
+Fatima Iqbal,31,32,Master,8,7,Low
+Bilal Sheikh,43,18,High School,7,4,Poor
+Ayesha Malik,40,12,Bachelor,7,1,Excellent
+Fatima Khan,22,28,Bachelor,7,8,Good
+Ahmed Butt,28,5,Bachelor,6,10,Average
+Ayesha Ashraf,25,14,Master,5,19,Excellent
+Bilal Qureshi,22,15,Bachelor,4,19,Average
+Ayesha Chaudhry,36,23,Bachelor,7,10,Low
+Ayesha Iqbal,33,22,Bachelor,5,6,Low
+Fatima Shah,43,9,Master,7,13,Low
+Ahmed Ashraf,43,16,Master,4,5,Average
+Hassan Sheikh,38,29,Bachelor,9,3,Average
+Amna Butt,50,9,Bachelor,7,5,Good
+Usman Raza,35,18,Bachelor,5,2,Low
+Ahmed Khan,41,28,PhD,6,5,Good
+Sara Sheikh,54,1,Bachelor,9,2,Average
+Usman Butt,36,18,Bachelor,9,0,Outstanding
+Ayesha Sheikh,33,6,Bachelor,9,17,Good
+Hassan Shah,41,25,Master,4,3,Outstanding
+Ali Butt,51,14,Bachelor,5,5,Average
+Usman Butt,59,2,Bachelor,8,16,Low
+Fatima Iqbal,24,15,Bachelor,8,17,Average
+Hassan Butt,49,1,Master,8,5,Low
+Hassan Malik,47,30,Master,6,1,Average
+Ahmed Malik,51,27,Master,7,11,Average
+Fatima Malik,34,6,Bachelor,7,11,Average
+Sara Qureshi,34,29,High School,7,3,Excellent
+Ahmed Sheikh,23,6,PhD,6,15,Average
+Amna Qureshi,58,28,Bachelor,8,19,Outstanding
+Zain Chaudhry,59,23,Master,9,9,Low
+Sara Chaudhry,23,3,Master,7,9,Low
+Usman Iqbal,57,28,Bachelor,9,6,Average
+Zain Sheikh,47,4,Bachelor,9,13,Good
+Bilal Malik,32,28,Master,6,6,Good
+Sara Butt,29,29,Master,6,11,Good
+Ali Ashraf,43,28,Bachelor,5,10,Average
+Usman Qureshi,41,25,Bachelor,7,16,Poor
+Ali Shah,29,18,High School,8,10,Low
+Fatima Chaudhry,50,25,High School,4,2,Average
+Ali Ashraf,47,26,Bachelor,6,18,Outstanding
+Ahmed Khan,51,29,Bachelor,9,3,Excellent
+Ali Butt,38,29,PhD,5,7,Low
+Hassan Butt,41,2,Master,4,13,Good
+Ayesha Chaudhry,37,6,Master,6,19,Average
+Usman Ashraf,28,8,Bachelor,5,13,Poor
+Usman Chaudhry,37,12,Bachelor,9,15,Average
+Hassan Ashraf,48,14,PhD,7,14,Average
+Zain Sheikh,44,4,Bachelor,5,11,Good
+Sara Khan,45,28,High School,6,15,Average
+Ayesha Ashraf,30,34,Bachelor,7,19,Excellent
+Usman Malik,56,26,Master,9,18,Average
+Amna Chaudhry,41,26,Master,8,4,Low
+Bilal Malik,58,7,High School,5,11,Average
+Bilal Qureshi,38,31,Master,4,4,Good
+Ahmed Raza,52,19,Bachelor,9,9,Average
+Bilal Malik,29,9,High School,7,16,Good
+Usman Raza,36,12,Master,9,14,Average
+Ahmed Shah,52,28,Master,7,7,Average
+Bilal Qureshi,51,34,Bachelor,9,7,Average
+Ahmed Malik,41,7,Bachelor,8,7,Low
+Ayesha Butt,33,28,Master,5,9,Good
+Bilal Qureshi,38,30,Master,4,19,Average
+Zain Sheikh,51,29,Master,8,12,Average
+Fatima Malik,50,21,Bachelor,5,15,Average
+Fatima Iqbal,40,20,PhD,4,8,Average
+Sara Butt,32,11,PhD,9,15,Good
+Hassan Shah,55,10,High School,4,9,Good
+Hassan Qureshi,28,1,Master,6,2,Good
+Zain Chaudhry,55,1,Bachelor,4,13,Average
+Bilal Malik,41,33,Bachelor,5,12,Average
+Bilal Ashraf,59,2,Master,8,3,Good
+Zain Sheikh,45,15,High School,8,3,Poor
+Bilal Shah,31,3,Bachelor,6,5,Good
+Ali Khan,53,22,Master,5,18,Good
+Amna Ashraf,36,19,Bachelor,4,10,Good
+Hassan Raza,58,24,Bachelor,6,7,Poor
+Ahmed Butt,41,29,PhD,9,13,Outstanding
+Amna Iqbal,24,17,Bachelor,7,7,Good
+Ali Qureshi,58,10,Bachelor,9,13,Good
+Hassan Shah,29,28,Bachelor,5,6,Poor
+Ali Butt,44,16,Bachelor,6,17,Average
+Ayesha Sheikh,32,25,Master,8,11,Poor
+Ahmed Qureshi,29,22,Master,6,13,Average
+Sara Iqbal,50,19,Bachelor,7,14,Average
+Bilal Qureshi,51,1,Master,5,17,Excellent
+Zain Khan,31,23,Bachelor,6,11,Average
+Amna Malik,49,30,Bachelor,9,9,Average
+Usman Iqbal,57,26,Master,4,11,Low
+Ali Iqbal,34,1,Master,9,7,Average
+Bilal Shah,53,13,Bachelor,5,5,Excellent
+Ali Butt,57,3,High School,6,18,Good
+Zain Qureshi,58,12,Bachelor,9,0,Average
+Fatima Qureshi,47,34,Bachelor,6,12,Average
+Zain Malik,43,7,Bachelor,9,15,Average
+Amna Khan,25,1,Master,5,17,Low
+Ali Butt,52,5,High School,8,11,Average
+Ahmed Sheikh,39,30,Master,9,4,Low
+Bilal Khan,59,9,Bachelor,4,12,Good
+Ali Shah,45,20,Bachelor,9,7,Poor
+Ayesha Ashraf,44,9,Bachelor,5,5,Low
+Zain Butt,43,22,Bachelor,9,2,Good
+Hassan Chaudhry,23,2,Master,4,19,Excellent
+Ayesha Ashraf,52,31,High School,4,3,Outstanding
+Ahmed Raza,32,19,Bachelor,5,11,Good
+Ahmed Malik,49,9,Master,6,12,Low
+Zain Qureshi,53,28,Master,9,1,Average
+Ali Shah,26,33,Bachelor,8,18,Excellent
+Amna Khan,59,19,Bachelor,4,3,Excellent
+Usman Shah,31,7,Master,4,12,Average
+Ali Khan,45,6,PhD,9,18,Average
+Ahmed Butt,56,5,Master,6,7,Low
+Hassan Shah,44,10,Bachelor,9,7,Excellent
+Zain Butt,38,17,PhD,5,15,Low
+Ayesha Chaudhry,22,28,High School,8,10,Good
+Zain Ashraf,52,24,High School,9,17,Outstanding
+Bilal Qureshi,52,20,Master,4,3,Good
+Ali Sheikh,55,2,Bachelor,4,0,Average
+Ahmed Khan,30,17,High School,5,0,Average
+Sara Malik,43,23,Bachelor,6,13,Poor
+Usman Raza,34,9,Bachelor,9,3,Good
+Usman Raza,46,26,Master,7,10,Average
+Hassan Sheikh,39,11,Master,6,17,Low
+Sara Shah,33,6,Bachelor,4,15,Low
+Amna Raza,38,16,Bachelor,9,16,Poor
+Ali Qureshi,36,0,PhD,4,1,Outstanding
+Hassan Sheikh,36,25,Master,8,3,Good
+Hassan Shah,36,14,Bachelor,6,2,Average
+Usman Malik,34,32,PhD,7,14,Excellent
+Ahmed Sheikh,38,30,Master,8,1,Good
+Hassan Butt,53,34,High School,7,18,Good
+Hassan Khan,30,0,High School,8,8,Good
+Hassan Chaudhry,41,7,Bachelor,6,9,Good
+Sara Raza,47,11,Master,4,18,Low
+Ayesha Chaudhry,48,18,Bachelor,7,4,Average
+Bilal Khan,42,24,Bachelor,6,13,Good
+Fatima Khan,39,31,High School,7,9,Poor
+Ali Shah,34,11,PhD,6,15,Low
+Bilal Butt,37,12,Bachelor,8,5,Low
+Zain Chaudhry,30,27,PhD,6,7,Average
+Amna Qureshi,33,0,PhD,8,1,Low
+Usman Butt,59,5,High School,4,17,Average
+Bilal Butt,40,7,Bachelor,8,19,Average
+Amna Chaudhry,28,3,High School,5,7,Low
+Zain Butt,56,4,PhD,4,4,Excellent
+Sara Khan,39,24,Bachelor,9,16,Good
+Amna Khan,37,21,High School,9,15,Low
+Bilal Chaudhry,25,27,High School,6,4,Average
+Fatima Iqbal,46,22,Bachelor,6,16,Good
+Ali Qureshi,53,3,PhD,5,3,Good
+Bilal Butt,34,3,Master,6,0,Low
+Ali Butt,38,20,Master,4,5,Excellent
+Zain Ashraf,58,1,Bachelor,4,0,Good
+Hassan Shah,27,6,High School,8,3,Excellent
+Usman Sheikh,40,15,PhD,7,1,Low
+Ayesha Raza,34,16,High School,6,12,Low
+Hassan Ashraf,47,19,PhD,5,13,Average
+Hassan Raza,35,22,Bachelor,9,16,Poor
+Amna Raza,52,33,High School,4,10,Poor
+Zain Ashraf,25,10,Master,4,2,Low
+Zain Butt,29,33,PhD,4,6,Good
+Ahmed Qureshi,46,32,PhD,7,9,Poor
+Bilal Shah,34,25,Bachelor,7,10,Poor
+Fatima Butt,53,1,Bachelor,6,9,Excellent
+Ahmed Chaudhry,59,22,Bachelor,9,7,Poor
+Sara Qureshi,59,21,Master,5,4,Average
+Ali Butt,49,33,Master,7,1,Average
+Ahmed Sheikh,51,14,Bachelor,8,14,Outstanding
+Sara Sheikh,24,9,PhD,7,15,Excellent
+Zain Butt,49,14,Master,4,3,Average
+Ali Shah,24,28,Master,5,15,Excellent
+Hassan Qureshi,55,22,Bachelor,6,11,Average
+Sara Raza,37,16,Bachelor,7,13,Good
+Amna Khan,43,8,PhD,4,11,Average
+Usman Ashraf,53,8,Bachelor,8,15,Average
+Ayesha Ashraf,59,15,Master,8,15,Average
+Ahmed Sheikh,29,32,PhD,6,11,Average
+Amna Khan,29,30,Master,6,1,Good
+Ali Ashraf,27,5,Bachelor,7,13,Low
+Bilal Malik,35,9,High School,6,10,Average
+Zain Raza,53,15,High School,9,8,Good
+Ali Iqbal,56,3,Bachelor,9,6,Low
+Sara Butt,31,21,Bachelor,4,11,Average
+Ayesha Ashraf,24,12,Bachelor,4,16,Good
+Fatima Khan,33,15,Bachelor,4,8,Excellent
+Amna Qureshi,52,28,Bachelor,9,5,Poor
+Ahmed Iqbal,50,5,Bachelor,7,11,Average
+Zain Malik,26,25,High School,7,19,Poor
+Usman Butt,46,10,High School,6,9,Average
+Hassan Malik,52,23,Master,7,8,Low
+Ali Chaudhry,42,28,Bachelor,4,11,Average
+Zain Malik,41,2,Bachelor,5,0,Good
+Amna Khan,43,9,Master,4,1,Low
+Amna Malik,25,0,Master,9,18,Good
+Ahmed Malik,34,25,Bachelor,5,0,Average
+Sara Ashraf,41,11,Master,6,15,Average
+Ahmed Qureshi,34,13,PhD,8,15,Average
+Hassan Iqbal,38,24,Master,7,17,Average
+Hassan Malik,57,7,Bachelor,7,17,Low
+Ahmed Ashraf,54,3,Master,9,12,Good
+Fatima Sheikh,22,27,Bachelor,4,11,Good
+Ali Raza,36,6,Bachelor,4,8,Good
+Hassan Shah,34,9,PhD,5,4,Average
+Usman Raza,38,1,Bachelor,7,8,Low
+Hassan Ashraf,45,25,PhD,9,12,Good
+Ayesha Iqbal,29,13,Bachelor,6,15,Average
+Ahmed Malik,48,15,PhD,4,9,Good
+Ayesha Ashraf,44,16,Bachelor,7,15,Good
+Bilal Ashraf,29,21,High School,8,13,Good
+Sara Sheikh,29,3,Bachelor,9,1,Average
+Amna Shah,47,18,Bachelor,5,18,Excellent
+Sara Sheikh,34,1,High School,4,10,Good
+Bilal Shah,58,8,Master,4,18,Average
+Bilal Butt,49,18,Bachelor,6,10,Good
+Amna Ashraf,46,15,Master,4,13,Poor
+Usman Butt,37,24,Bachelor,9,14,Average
+Ahmed Khan,23,17,Bachelor,7,6,Excellent
+Amna Malik,39,22,PhD,7,14,Low
+Ali Ashraf,38,20,Bachelor,7,7,Average
+Fatima Shah,51,10,Master,8,3,Average
+Ahmed Shah,34,3,Master,8,17,Average
+Usman Shah,53,24,Bachelor,4,13,Average
+Usman Sheikh,50,31,PhD,8,17,Outstanding
+Zain Khan,51,29,Master,8,3,Average
+Amna Qureshi,39,25,Bachelor,6,1,Good
+Bilal Shah,34,33,Master,8,5,Good
+Amna Qureshi,42,8,Bachelor,5,10,Average
+Fatima Ashraf,51,11,Bachelor,5,0,Poor
+Usman Qureshi,42,1,PhD,5,14,Average
+Amna Chaudhry,38,4,Master,4,11,Outstanding
+Ahmed Shah,40,4,Master,7,17,Average
+Hassan Raza,36,21,Master,6,4,Average
+Amna Chaudhry,30,4,Master,4,10,Outstanding
+Zain Butt,31,3,PhD,7,18,Good
+Fatima Shah,52,8,Bachelor,6,0,Good
+Sara Qureshi,44,28,Bachelor,6,16,Outstanding
+Ali Khan,51,21,Bachelor,6,7,Low
+Amna Ashraf,54,26,Master,5,15,Good
+Bilal Sheikh,30,9,Bachelor,5,10,Average
+Amna Iqbal,22,15,High School,5,18,Average
+Ayesha Raza,56,9,Bachelor,6,10,Average
+Ali Iqbal,32,5,PhD,9,14,Poor
+Amna Qureshi,55,4,Master,6,7,Average
+Amna Ashraf,37,5,Bachelor,5,13,Low
+Ahmed Khan,30,24,Bachelor,6,0,Low
+Usman Iqbal,53,3,Bachelor,5,9,Average
+Zain Qureshi,36,31,Bachelor,5,6,Good
+Sara Qureshi,33,34,High School,5,17,Low
+Bilal Iqbal,54,9,PhD,9,11,Average
+Ali Khan,35,33,PhD,7,1,Good
+Fatima Qureshi,29,5,Bachelor,6,17,Low
+Amna Ashraf,29,15,High School,4,6,Excellent
+Ali Khan,48,18,Bachelor,5,19,Excellent
+Ali Butt,33,33,Bachelor,9,11,Average
+Ayesha Chaudhry,22,24,Bachelor,4,19,Outstanding
+Usman Butt,32,30,Bachelor,7,13,Good
+Fatima Raza,52,16,Bachelor,6,9,Average
+Zain Chaudhry,38,29,Master,9,8,Good
+Amna Chaudhry,54,30,Master,5,14,Good
+Sara Ashraf,53,18,Master,5,19,Average
+Ayesha Qureshi,50,34,Bachelor,5,9,Good
+Zain Sheikh,42,28,PhD,9,18,Average
+Bilal Iqbal,42,0,PhD,4,18,Outstanding
+Sara Malik,44,3,Bachelor,7,11,Excellent
+Fatima Iqbal,27,27,Bachelor,6,11,Good
+Zain Raza,43,17,Bachelor,7,8,Poor
+Fatima Butt,59,25,High School,5,19,Average
+Ali Sheikh,58,18,Bachelor,7,3,Good
+Bilal Shah,29,5,Bachelor,4,0,Excellent
+Ali Malik,56,0,Bachelor,8,15,Excellent
+Usman Shah,32,7,Bachelor,8,0,Excellent
+Ahmed Butt,45,32,Bachelor,6,12,Average
+Sara Butt,42,20,PhD,6,2,Excellent
+Ali Ashraf,23,23,Bachelor,7,11,Poor
+Amna Shah,40,24,Master,6,8,Average
+Zain Iqbal,49,18,High School,9,3,Low
+Amna Shah,38,28,High School,4,1,Excellent
+Ayesha Chaudhry,27,9,Bachelor,5,8,Excellent
+Hassan Shah,40,11,High School,5,19,Average
+Hassan Butt,59,32,High School,7,12,Average
+Bilal Sheikh,49,6,Bachelor,5,13,Outstanding
+Ahmed Iqbal,23,16,Bachelor,7,2,Average
+Ahmed Butt,59,9,Master,6,17,Average
+Hassan Sheikh,58,30,Bachelor,6,8,Average
+Amna Iqbal,25,5,Master,9,14,Good
+Ali Raza,43,16,Bachelor,9,9,Outstanding
+Hassan Butt,47,17,Master,4,16,Average
+Usman Sheikh,57,25,Bachelor,5,12,Low
+Amna Ashraf,34,15,Master,9,0,Low
+Ali Chaudhry,53,7,PhD,4,10,Poor
+Bilal Malik,38,23,PhD,8,4,Average
+Ali Ashraf,57,12,High School,9,8,Excellent
+Zain Qureshi,40,28,Master,4,6,Good
+Usman Iqbal,56,31,High School,7,6,Outstanding
+Ahmed Malik,49,23,PhD,7,1,Excellent
+Fatima Qureshi,22,15,Bachelor,4,18,Average
+Fatima Qureshi,39,10,Bachelor,6,19,Average
+Ayesha Butt,54,31,High School,8,17,Average
+Usman Sheikh,33,5,High School,4,9,Low
+Ahmed Chaudhry,29,34,Master,9,4,Average
+Bilal Khan,45,32,PhD,6,15,Average
+Ayesha Qureshi,37,17,Master,4,4,Average
+Sara Sheikh,25,12,Master,5,14,Average
+Hassan Khan,59,9,Master,9,15,Average
+Ali Iqbal,48,25,Bachelor,9,3,Average
+Fatima Malik,30,16,High School,7,13,Average
+Usman Shah,37,0,High School,5,16,Low
+Hassan Chaudhry,33,24,Bachelor,5,16,Good
+Ayesha Chaudhry,52,33,Bachelor,9,15,Average
+Hassan Ashraf,45,9,High School,8,8,Excellent
+Bilal Butt,35,19,Bachelor,6,1,Low
+Zain Sheikh,46,6,High School,7,10,Average
+Ahmed Iqbal,55,15,PhD,5,14,Average
+Hassan Butt,24,28,High School,7,2,Low
+Hassan Sheikh,45,11,Bachelor,9,15,Average
+Fatima Malik,30,16,Bachelor,6,18,Good
+Zain Chaudhry,47,19,Bachelor,4,5,Average
+Bilal Shah,41,25,High School,5,13,Low
+Sara Shah,31,18,Bachelor,6,4,Average
+Fatima Iqbal,40,11,High School,7,4,Low
+Usman Butt,24,20,Bachelor,9,5,Good
+Ayesha Malik,45,33,Bachelor,6,17,Good
+Ahmed Khan,26,6,Bachelor,4,17,Low
+Zain Qureshi,24,34,Master,6,18,Average
+Amna Malik,48,14,Bachelor,9,1,Average
+Amna Malik,37,0,Bachelor,7,16,Average
+Sara Chaudhry,36,25,Bachelor,5,0,Average
+Amna Chaudhry,56,34,Master,5,8,Average
+Usman Chaudhry,33,24,Bachelor,8,12,Poor
+Amna Raza,47,14,Master,7,3,Low
+Hassan Iqbal,55,21,Master,8,4,Average
+Usman Malik,44,5,Bachelor,8,17,Low
+Amna Sheikh,52,14,Bachelor,9,9,Low
+Usman Qureshi,41,23,Bachelor,9,3,Average
+Sara Raza,33,20,High School,9,12,Low
+Zain Butt,44,6,High School,4,12,Poor
+Ali Iqbal,25,28,High School,7,16,Average
+Zain Ashraf,44,31,Bachelor,5,7,Low
+Bilal Chaudhry,22,31,Bachelor,7,3,Good
+Usman Butt,46,4,Master,9,2,Poor
+Usman Ashraf,23,3,Bachelor,4,10,Good
+Bilal Sheikh,51,21,PhD,7,11,Average
+Bilal Khan,24,17,PhD,7,8,Good
+Amna Ashraf,42,34,PhD,8,14,Poor
+Bilal Qureshi,46,16,Master,7,12,Excellent
+Ali Malik,41,23,Bachelor,8,4,Good
+Ali Iqbal,43,1,High School,8,4,Low
+Ahmed Qureshi,42,12,Bachelor,6,18,Low
+Ahmed Sheikh,54,14,Bachelor,9,10,Average
+Ayesha Malik,59,4,Master,4,8,Excellent
+Ahmed Qureshi,36,2,PhD,8,2,Average
+Bilal Sheikh,36,2,Bachelor,7,17,Average
+Usman Chaudhry,46,34,Bachelor,8,12,Low
+Fatima Sheikh,42,22,Bachelor,8,11,Average
+Usman Khan,45,27,High School,8,8,Average
+Ayesha Shah,26,29,Bachelor,5,9,Average
+Ali Ashraf,27,17,Bachelor,5,12,Poor
+Ahmed Shah,44,32,Master,5,19,Poor
+Fatima Qureshi,25,25,Bachelor,5,19,Good
+Bilal Malik,48,16,PhD,6,12,Good
+Usman Raza,39,6,Master,8,8,Average
+Sara Chaudhry,42,7,Master,6,9,Excellent
+Zain Raza,49,30,High School,7,18,Average
+Hassan Iqbal,56,11,Master,9,5,Average
+Amna Shah,43,30,Master,4,6,Good
+Ali Qureshi,44,18,Bachelor,6,14,Good
+Usman Ashraf,24,9,Bachelor,5,18,Excellent
+Hassan Iqbal,31,11,PhD,5,13,Poor
+Bilal Malik,46,19,High School,7,15,Low
+Hassan Khan,29,6,Bachelor,8,13,Average
+Bilal Raza,32,13,Bachelor,4,19,Average
+Usman Qureshi,26,10,Master,6,1,Poor
+Amna Chaudhry,58,6,Master,8,8,Average
+Ali Raza,59,28,Bachelor,8,2,Average
+Amna Sheikh,50,9,Bachelor,9,5,Average
+Ayesha Chaudhry,26,28,PhD,9,4,Average
+Bilal Butt,30,8,Master,6,13,Poor
+Ali Iqbal,23,9,Master,6,14,Low
+Sara Sheikh,22,18,Bachelor,6,17,Average
+Fatima Iqbal,51,30,Bachelor,6,16,Average
+Ahmed Raza,32,16,Bachelor,5,8,Excellent
+Amna Shah,49,8,Master,8,18,Low
+Amna Butt,33,32,High School,8,8,Excellent
+Usman Khan,47,33,Bachelor,5,15,Average
+Hassan Chaudhry,34,23,High School,8,5,Average
+Ayesha Sheikh,29,8,Bachelor,6,7,Average
+Usman Khan,49,6,Master,4,2,Average
+Hassan Qureshi,51,15,High School,9,4,Average
+Zain Qureshi,30,18,Master,9,6,Average
+Bilal Ashraf,52,5,PhD,8,0,Average
+Sara Chaudhry,42,10,Bachelor,4,3,Average
+Amna Qureshi,55,11,Master,9,15,Good
+Usman Sheikh,52,12,PhD,4,13,Average
+Amna Chaudhry,46,11,PhD,5,0,Low
+Ali Qureshi,33,20,Bachelor,7,3,Good
+Ali Shah,22,9,High School,8,9,Good
+Ali Sheikh,43,19,High School,5,10,Outstanding
+Amna Qureshi,58,27,Master,5,6,Low
+Bilal Raza,22,23,Master,4,3,Good
+Zain Iqbal,22,4,Master,8,0,Excellent
+Fatima Ashraf,42,11,Bachelor,5,0,Average
+Ayesha Butt,36,34,Bachelor,6,16,Average
+Ayesha Raza,38,1,Bachelor,5,9,Outstanding
+Fatima Ashraf,43,8,Bachelor,6,4,Outstanding
+Sara Butt,59,21,Master,7,6,Average
+Zain Ashraf,56,4,Bachelor,6,7,Average
+Usman Sheikh,37,11,Bachelor,6,1,Good
+Usman Chaudhry,29,0,Bachelor,4,8,Poor
+Hassan Khan,38,21,Bachelor,5,3,Average
+Usman Sheikh,38,18,Bachelor,7,11,Outstanding
+Bilal Iqbal,47,15,High School,5,10,Good
+Hassan Shah,34,30,Bachelor,6,4,Excellent
+Amna Malik,38,2,High School,9,11,Average
+Ali Iqbal,59,22,Bachelor,6,3,Average
+Usman Butt,38,17,Master,5,12,Outstanding
+Ali Ashraf,35,25,Bachelor,7,0,Average
+Bilal Chaudhry,27,12,Master,9,17,Good
+Fatima Shah,56,17,Master,7,3,Average
+Ahmed Khan,35,2,Bachelor,4,3,Low
+Ali Butt,29,22,PhD,6,7,Poor
+Fatima Raza,36,2,High School,6,19,Average
+Hassan Khan,48,24,Master,4,5,Average
+Sara Khan,34,26,PhD,5,3,Low
+Ayesha Ashraf,52,26,Master,6,3,Average
+Sara Malik,56,24,Bachelor,5,10,Average
+Zain Qureshi,27,23,Bachelor,7,8,Good
+Sara Raza,26,7,Bachelor,9,13,Poor
+Hassan Ashraf,43,8,Master,9,3,Good
+Usman Qureshi,44,29,Master,9,12,Poor
+Hassan Chaudhry,46,18,Bachelor,8,5,Poor
+Sara Khan,55,15,Bachelor,4,12,Low
+Sara Shah,47,23,Master,9,2,Good
+Ali Qureshi,26,20,Bachelor,6,6,Poor
+Zain Iqbal,47,5,Master,4,0,Poor
+Hassan Sheikh,41,4,Master,7,10,Low
+Amna Raza,27,13,High School,7,1,Excellent
+Zain Chaudhry,27,3,Master,7,4,Excellent
+Zain Sheikh,39,7,Bachelor,7,13,Poor
+Ali Chaudhry,25,23,Bachelor,8,12,Average
+Ahmed Malik,38,10,PhD,5,15,Excellent
+Ahmed Qureshi,35,16,Master,5,14,Poor
+Zain Raza,35,20,Bachelor,9,2,Poor
+Amna Qureshi,34,25,Bachelor,8,5,Poor
+Sara Khan,28,26,Bachelor,5,8,Outstanding
+Amna Chaudhry,36,15,Bachelor,7,2,Good
+Ayesha Iqbal,40,25,High School,5,12,Low
+Hassan Khan,56,32,Bachelor,4,12,Poor
+Bilal Khan,38,30,High School,9,6,Outstanding
+Fatima Shah,56,5,Bachelor,5,4,Average
+Bilal Qureshi,40,7,Bachelor,4,7,Average
+Ali Iqbal,41,6,PhD,6,7,Average
+Hassan Butt,57,33,Master,4,6,Good
+Fatima Iqbal,56,13,Bachelor,4,18,Low
+Usman Raza,53,15,High School,7,6,Good
+Usman Qureshi,45,8,Bachelor,7,3,Low
+Bilal Iqbal,38,9,Bachelor,9,9,Poor
+Hassan Ashraf,28,16,Bachelor,7,12,Average
+Usman Shah,22,11,Master,4,3,Good
+Sara Ashraf,56,5,Master,8,18,Average
+Ali Chaudhry,53,18,Master,7,9,Poor
+Usman Raza,57,28,Bachelor,7,6,Average
+Bilal Malik,34,5,PhD,4,4,Good
+Sara Raza,27,24,PhD,6,2,Good
+Ahmed Ashraf,35,23,Bachelor,6,1,Average
+Ayesha Malik,58,24,Bachelor,5,10,Poor
+Ali Khan,36,15,Bachelor,9,9,Average
+Hassan Shah,25,15,Bachelor,6,12,Average
+Usman Chaudhry,37,5,Master,7,6,Excellent
+Fatima Qureshi,49,20,Bachelor,8,9,Average
+Sara Malik,37,3,High School,5,3,Average
+Hassan Raza,25,33,Bachelor,9,19,Average
+Fatima Khan,47,27,Bachelor,8,15,Average
+Fatima Iqbal,49,27,Master,8,19,Average
+Sara Malik,53,16,Bachelor,7,5,Average
+Zain Chaudhry,23,13,Master,4,8,Excellent
+Hassan Malik,52,6,Bachelor,4,12,Average
+Hassan Chaudhry,24,21,Bachelor,4,6,Average
+Ali Malik,29,0,Bachelor,6,17,Low
+Usman Khan,45,28,Master,4,13,Good
+Bilal Ashraf,36,30,High School,9,4,Poor
+Ali Sheikh,52,29,Bachelor,7,12,Average
+Usman Butt,30,14,Bachelor,6,7,Average
+Usman Qureshi,23,17,Bachelor,9,14,Average
+Zain Shah,29,34,PhD,4,18,Good
+Ali Malik,28,29,Bachelor,9,8,Good
+Usman Iqbal,37,33,Bachelor,8,5,Outstanding
+Usman Qureshi,56,10,Bachelor,7,13,Average
+Bilal Shah,51,26,Master,7,9,Average
+Ali Chaudhry,31,23,Bachelor,9,8,Low
+Bilal Raza,59,34,Master,5,16,Average
+Zain Chaudhry,39,7,Master,7,12,Poor
+Usman Butt,26,17,Bachelor,8,16,Good
+Bilal Butt,50,12,Bachelor,7,18,Average
+Bilal Chaudhry,55,23,Bachelor,5,12,Average
+Zain Malik,44,22,Master,7,8,Average
+Fatima Khan,26,11,High School,7,0,Average
+Hassan Iqbal,51,29,Bachelor,5,0,Average
+Fatima Chaudhry,27,30,Master,7,4,Average
+Sara Malik,25,27,Bachelor,9,7,Excellent
+Ali Khan,50,21,Bachelor,6,17,Good
+Zain Malik,44,27,Bachelor,9,3,Average
+Zain Raza,27,12,Bachelor,7,0,Average
+Zain Sheikh,53,24,Bachelor,4,14,Average
+Amna Qureshi,39,6,Bachelor,4,19,Good
+Fatima Shah,36,5,PhD,6,3,Good
+Hassan Chaudhry,53,23,Bachelor,7,8,Average
+Hassan Sheikh,30,18,Master,8,19,Good
+Sara Sheikh,58,18,Master,7,9,Low
+Usman Khan,31,8,High School,4,14,Good
+Ahmed Qureshi,41,28,Master,5,2,Low
+Zain Shah,27,23,High School,6,1,Average
+Amna Ashraf,24,4,PhD,5,4,Excellent
+Ayesha Chaudhry,32,25,Master,8,0,Average
+Amna Sheikh,38,13,Bachelor,7,10,Outstanding
+Ahmed Butt,53,28,Bachelor,8,11,Low
+Ayesha Chaudhry,25,5,Bachelor,5,2,Average
+Fatima Qureshi,25,6,Bachelor,7,15,Good
+Fatima Khan,38,17,Bachelor,9,13,Poor
+Amna Chaudhry,40,22,Bachelor,9,11,Low
+Ahmed Khan,26,0,Master,8,19,Poor
+Sara Iqbal,53,3,Bachelor,9,15,Outstanding
+Amna Khan,43,34,Master,9,7,Good
+Bilal Ashraf,27,22,Master,4,16,Average
+Sara Raza,56,26,Bachelor,9,16,Low
+Sara Malik,43,25,Master,4,6,Poor
+Fatima Raza,22,7,Bachelor,6,14,Average
+Hassan Butt,41,15,High School,4,8,Outstanding
+Zain Ashraf,43,2,Master,4,3,Good
+Zain Chaudhry,32,31,Bachelor,5,7,Average
+Fatima Chaudhry,34,4,Bachelor,4,9,Average
+Ayesha Shah,24,19,Master,4,14,Outstanding
+Fatima Sheikh,30,13,PhD,5,17,Average
+Ali Butt,33,31,Master,4,13,Outstanding
+Usman Butt,44,25,Master,9,4,Poor
+Sara Khan,35,5,High School,4,8,Good
+Sara Raza,54,4,Bachelor,6,12,Average
+Hassan Chaudhry,39,12,Master,4,18,Good
+Sara Raza,30,31,Bachelor,4,10,Average
+Hassan Ashraf,44,15,Bachelor,6,11,Poor
+Bilal Raza,31,0,Bachelor,5,2,Low
+Bilal Sheikh,40,12,Master,9,1,Excellent
+Usman Ashraf,26,10,Bachelor,4,14,Low
+Usman Malik,44,7,Master,9,4,Outstanding
+Fatima Khan,51,24,Bachelor,8,6,Good
+Amna Malik,46,31,High School,9,3,Average
+Ahmed Qureshi,49,23,Bachelor,5,4,Excellent
+Hassan Raza,55,27,Bachelor,5,15,Good
+Zain Ashraf,46,13,Master,4,14,Average
+Usman Khan,31,2,High School,6,15,Poor
+Sara Raza,35,26,Bachelor,5,3,Excellent
+Ayesha Sheikh,51,19,Bachelor,6,5,Good
+Sara Qureshi,46,14,Bachelor,8,17,Good
+Ahmed Ashraf,35,26,High School,6,2,Good
+Amna Raza,56,27,High School,7,4,Average
+Ahmed Raza,55,24,PhD,6,1,Excellent
+Usman Sheikh,31,32,Master,5,15,Poor
+Ayesha Malik,56,13,Bachelor,6,5,Low
+Usman Sheikh,32,7,Bachelor,6,14,Poor
+Bilal Malik,32,13,Bachelor,7,17,Low
+Fatima Raza,42,0,Bachelor,7,5,Average
+Ayesha Butt,42,15,Master,4,12,Poor
+Sara Ashraf,43,17,Master,5,12,Low
+Fatima Sheikh,28,6,Bachelor,4,0,Low
+Amna Chaudhry,38,14,Master,7,15,Good
+Bilal Malik,23,23,High School,6,3,Average
+Ali Sheikh,33,12,Bachelor,7,16,Average
+Ahmed Raza,39,8,High School,8,17,Good
+Sara Iqbal,32,14,High School,6,15,Average
+Bilal Ashraf,37,34,PhD,4,0,Average
+Fatima Chaudhry,39,23,Bachelor,6,5,Outstanding
+Bilal Raza,56,32,High School,8,10,Poor
+Usman Chaudhry,47,15,PhD,7,5,Average
+Zain Raza,37,7,Master,5,16,Average
+Amna Qureshi,27,28,Master,9,3,Good
+Ahmed Ashraf,33,22,PhD,5,13,Good
+Sara Khan,34,30,Bachelor,5,13,Poor
+Ayesha Sheikh,25,13,Master,7,19,Good
+Amna Chaudhry,23,29,Master,5,7,Good
+Hassan Raza,47,26,Master,8,1,Low
+Ali Butt,48,15,Master,7,4,Low
+Zain Malik,48,5,Bachelor,5,3,Good
+Ahmed Iqbal,36,32,Master,9,9,Low
+Bilal Iqbal,29,17,Bachelor,4,19,Poor
+Fatima Butt,28,15,Bachelor,7,2,Low
+Amna Butt,33,11,High School,7,15,Poor
+Ahmed Ashraf,34,19,PhD,6,9,Low
+Fatima Iqbal,38,28,Bachelor,5,14,Average
+Hassan Butt,38,29,Bachelor,4,3,Average
+Hassan Qureshi,57,25,Bachelor,9,0,Excellent
+Zain Shah,42,21,PhD,8,14,Low
+Zain Khan,29,32,Bachelor,7,9,Average
+Sara Raza,26,28,Master,8,19,Outstanding
+Sara Butt,47,21,Master,8,17,Excellent
+Sara Shah,37,12,Bachelor,8,15,Average
+Sara Qureshi,57,8,Bachelor,6,8,Average
+Bilal Shah,49,23,Master,8,18,Average
+Zain Sheikh,50,14,PhD,5,16,Excellent
+Fatima Qureshi,33,12,Master,5,9,Poor
+Amna Malik,58,26,Bachelor,4,18,Average
+Ahmed Malik,51,6,Master,4,7,Good
+Ayesha Butt,44,7,Bachelor,9,18,Average
+Amna Ashraf,37,13,Bachelor,8,4,Good
+Sara Chaudhry,35,11,Master,8,1,Good
+Usman Butt,31,16,Bachelor,6,14,Low
+Amna Chaudhry,28,28,Master,8,16,Average
+Fatima Shah,58,26,Bachelor,8,9,Average
+Hassan Butt,50,0,Master,8,1,Good
+Bilal Shah,24,33,Bachelor,7,8,Good
+Fatima Butt,36,3,Bachelor,7,1,Good
+Fatima Qureshi,57,23,Master,6,17,Poor
+Bilal Khan,40,20,High School,6,11,Good
+Ahmed Butt,34,32,High School,5,14,Average
+Sara Qureshi,42,6,PhD,6,19,Average
+Ali Ashraf,58,0,Bachelor,9,5,Average
+Ali Qureshi,48,2,PhD,5,17,Good
+Amna Iqbal,50,14,Bachelor,8,12,Good
+Amna Malik,41,30,Bachelor,6,3,Average
+Ayesha Raza,46,15,Master,9,11,Excellent
+Ali Malik,27,9,Master,6,8,Low
+Ali Ashraf,57,28,Bachelor,6,1,Average
+Usman Iqbal,23,5,Bachelor,5,15,Average
+Sara Ashraf,43,28,Master,5,0,Outstanding
+Sara Ashraf,53,16,Bachelor,4,3,Poor
+Ayesha Qureshi,37,21,Bachelor,5,14,Average
+Ayesha Raza,39,23,Bachelor,5,19,Excellent
+Zain Sheikh,26,16,Bachelor,7,0,Excellent
+Amna Qureshi,57,20,Bachelor,6,19,Excellent
+Usman Qureshi,51,10,Bachelor,5,14,Average
+Ayesha Ashraf,40,6,Bachelor,6,2,Good
+Bilal Shah,44,4,High School,6,12,Average
+Zain Khan,55,20,High School,7,17,Average
+Hassan Iqbal,34,17,Master,6,12,Low
+Ahmed Shah,50,34,Bachelor,9,9,Good
+Sara Raza,57,19,Master,5,19,Average
+Sara Butt,43,14,Master,6,6,Average
+Sara Iqbal,57,4,High School,4,7,Average
+Zain Iqbal,30,12,Master,4,0,Low
+Hassan Butt,40,11,High School,7,17,Low
+Fatima Malik,59,20,Master,9,11,Average
+Fatima Raza,27,5,PhD,5,17,Good
+Bilal Shah,36,6,Bachelor,7,11,Low
+Sara Butt,41,25,Master,4,19,Good
+Hassan Iqbal,30,7,Bachelor,9,8,Good
+Usman Ashraf,53,8,Bachelor,5,1,Good
+Ahmed Chaudhry,25,26,Master,6,13,Average
+Ahmed Qureshi,39,3,Bachelor,5,3,Good
+Usman Butt,26,20,Bachelor,8,14,Poor
+Fatima Ashraf,41,30,Bachelor,5,16,Average
+Sara Shah,44,20,Master,6,18,Good
+Bilal Shah,32,24,Bachelor,8,5,Outstanding
+Amna Qureshi,58,14,PhD,9,8,Poor
+Fatima Chaudhry,43,34,High School,7,16,Average
+Usman Chaudhry,25,27,Bachelor,9,14,Excellent
+Usman Sheikh,50,13,Master,5,4,Excellent
+Ahmed Ashraf,55,3,Bachelor,7,17,Poor
+Zain Chaudhry,34,19,Master,5,3,Average
+Zain Chaudhry,30,33,Bachelor,4,1,Poor
+Bilal Shah,52,11,High School,4,18,Good
+Sara Shah,28,32,High School,6,4,Average
+Ali Iqbal,25,23,PhD,9,3,Good
+Bilal Raza,40,19,Bachelor,4,4,Excellent
+Hassan Malik,51,4,Master,8,18,Outstanding
+Fatima Chaudhry,52,29,Bachelor,8,12,Excellent
+Hassan Qureshi,56,23,Bachelor,5,15,Low
+Ali Sheikh,42,6,Bachelor,7,11,Low
+Ali Iqbal,52,15,PhD,8,8,Average
+Ahmed Khan,40,14,Master,5,15,Average
+Zain Butt,52,22,Master,7,13,Poor
+Usman Sheikh,53,11,High School,4,0,Average
+Sara Malik,23,28,Bachelor,5,19,Excellent
+Bilal Qureshi,31,14,Bachelor,7,3,Excellent
+Sara Raza,23,28,PhD,6,8,Low
+Ayesha Iqbal,23,20,Bachelor,9,18,Average
+Ali Butt,45,14,Bachelor,9,13,Average
+Usman Ashraf,38,13,Bachelor,6,11,Excellent
+Amna Khan,53,15,Bachelor,8,3,Average
+Ahmed Ashraf,37,14,High School,9,6,Outstanding
+Bilal Shah,37,3,Master,7,16,Good
+Ahmed Malik,52,26,Bachelor,6,0,Outstanding
+Ahmed Iqbal,45,22,Master,8,13,Good
+Bilal Butt,22,28,Master,5,14,Excellent
+Ali Shah,32,8,Bachelor,5,11,Good
+Sara Sheikh,42,6,Bachelor,7,11,Average
+Sara Qureshi,25,3,High School,7,5,Low
+Bilal Butt,28,4,PhD,7,12,Excellent
+Ahmed Chaudhry,47,4,Bachelor,9,15,Poor
+Zain Qureshi,33,10,Bachelor,7,13,Average
+Zain Raza,52,27,Bachelor,6,6,Good
+Amna Butt,38,15,Bachelor,6,15,Good
+Ayesha Raza,54,29,Bachelor,8,8,Low
+Usman Sheikh,32,3,Bachelor,6,13,Average
+Hassan Malik,49,1,Master,9,6,Average
+Bilal Chaudhry,53,2,Master,5,11,Average
+Sara Iqbal,22,20,Bachelor,8,2,Excellent
+Fatima Chaudhry,49,5,Bachelor,6,13,Good
+Hassan Butt,28,17,Master,7,18,Outstanding
+Hassan Chaudhry,23,4,High School,6,10,Poor
+Usman Malik,45,8,Master,4,4,Average
+Ayesha Butt,25,19,Bachelor,8,12,Good
+Fatima Qureshi,40,27,Master,9,9,Average
+Bilal Chaudhry,47,25,Bachelor,6,6,Average
+Ahmed Shah,32,17,Bachelor,6,16,Outstanding
+Sara Sheikh,32,18,Master,9,15,Excellent
+Zain Shah,24,2,High School,5,7,Average
+Hassan Shah,33,8,Bachelor,7,16,Average
+Ahmed Chaudhry,24,30,Bachelor,7,12,Poor
+Ali Shah,48,16,Master,5,10,Outstanding
+Usman Raza,23,22,Bachelor,5,19,Good
+Ahmed Qureshi,37,33,Master,4,17,Poor
+Amna Qureshi,23,4,Bachelor,9,4,Low
+Ali Raza,51,14,Bachelor,8,5,Good
+Hassan Shah,41,2,Master,7,19,Poor
+Amna Malik,59,18,High School,5,13,Excellent
+Fatima Malik,49,27,Bachelor,5,11,Outstanding
+Ali Iqbal,46,2,High School,9,3,Excellent
+Fatima Shah,53,3,Bachelor,8,6,Good
+Hassan Sheikh,31,23,Master,5,10,Average
+Ayesha Raza,54,30,Bachelor,4,19,Poor
+Amna Khan,34,10,Bachelor,8,1,Good
+Hassan Khan,58,0,Bachelor,4,3,Average
+Ali Butt,37,8,Bachelor,6,6,Average
+Bilal Ashraf,43,16,Bachelor,7,0,Average
+Bilal Raza,41,0,PhD,5,14,Low
+Bilal Khan,48,2,Master,8,19,Average
+Usman Qureshi,37,25,High School,4,7,Good
+Ali Sheikh,55,30,High School,7,4,Average
+Fatima Butt,53,25,PhD,7,13,Average
+Hassan Butt,47,22,Bachelor,5,17,Average
+Ali Malik,46,29,Bachelor,7,2,Poor
+Amna Raza,23,9,Master,5,1,Excellent
+Hassan Sheikh,33,7,Bachelor,6,15,Average
+Hassan Qureshi,30,24,Bachelor,5,13,Low
+Ahmed Sheikh,33,21,PhD,9,15,Average
+Usman Chaudhry,47,14,Master,4,10,Outstanding
+Ali Sheikh,30,9,Bachelor,9,16,Average
+Ayesha Malik,31,19,High School,7,2,Average
+Amna Shah,53,22,Bachelor,7,4,Average
+Ahmed Malik,55,0,Master,7,2,Average
+Usman Qureshi,41,1,Bachelor,5,14,Poor
+Ahmed Butt,23,18,High School,8,4,Good
+Fatima Sheikh,22,13,PhD,5,2,Average
+Sara Khan,57,7,Bachelor,4,5,Good
+Amna Raza,45,11,High School,5,13,Average
+Hassan Khan,48,25,Bachelor,7,1,Low
+Amna Malik,23,26,Bachelor,6,17,Good
+Bilal Qureshi,52,28,Bachelor,4,5,Average
+Hassan Khan,35,14,PhD,9,4,Good
+Zain Khan,23,0,Master,6,13,Good
+Usman Shah,50,27,Bachelor,4,16,Outstanding
+Sara Raza,36,2,Bachelor,4,10,Poor
+Fatima Raza,33,17,Bachelor,7,0,Poor
+Sara Malik,58,33,Bachelor,9,9,Average
+Usman Shah,49,31,High School,5,8,Average
+Usman Khan,41,28,PhD,9,19,Average
+Fatima Raza,45,24,Bachelor,7,11,Poor
+Ali Raza,42,25,Bachelor,7,0,Average
+Ali Sheikh,31,7,Bachelor,7,17,Low
+Ahmed Khan,35,18,Bachelor,6,11,Good
+Bilal Iqbal,58,21,High School,9,1,Good
+Ali Ashraf,39,28,High School,9,0,Poor
+Fatima Iqbal,45,32,Bachelor,4,0,Good
+Sara Chaudhry,35,34,Master,8,0,Average
+Sara Iqbal,55,2,Bachelor,5,11,Average
+Bilal Shah,33,18,Bachelor,7,6,Low
+Ali Raza,43,9,Bachelor,9,3,Good
+Sara Malik,27,26,Master,9,19,Average
+Fatima Ashraf,57,14,Bachelor,4,3,Poor
+Ahmed Khan,57,10,High School,5,14,Outstanding
+Bilal Ashraf,43,25,Bachelor,8,0,Average
+Usman Shah,35,23,Master,8,5,Excellent
+Sara Butt,37,12,High School,7,13,Average
+Sara Malik,57,31,Bachelor,8,13,Good
+Ayesha Chaudhry,46,3,High School,8,9,Good
+Fatima Khan,53,12,High School,5,6,Excellent
+Ali Raza,54,8,Bachelor,5,11,Outstanding
+Bilal Qureshi,57,33,Bachelor,7,18,Excellent
+Zain Butt,41,6,Master,9,8,Average
+Ali Iqbal,39,0,Master,4,2,Good
+Zain Sheikh,59,11,Bachelor,7,3,Good
+Ayesha Malik,24,20,Bachelor,6,12,Poor
+Zain Ashraf,44,10,Bachelor,8,9,Excellent
+Bilal Sheikh,53,13,High School,4,13,Average
+Fatima Sheikh,37,33,Master,9,5,Low
+Fatima Butt,26,33,PhD,9,7,Average
+Ali Ashraf,25,24,Bachelor,5,18,Average
+Usman Chaudhry,42,3,High School,6,9,Average
+Zain Butt,35,25,High School,9,4,Average
+Bilal Iqbal,52,15,Master,6,4,Average
+Sara Iqbal,35,9,Master,8,4,Average
+Zain Khan,27,1,Master,5,8,Excellent
+Sara Khan,33,34,Master,4,8,Average
+Zain Malik,37,18,Bachelor,5,14,Average
+Ayesha Raza,38,5,Master,8,8,Low
+Bilal Raza,44,18,Master,9,13,Poor
+Zain Malik,35,7,Bachelor,6,5,Average
+Usman Sheikh,28,13,Bachelor,8,19,Poor
+Fatima Butt,53,9,Master,9,7,Good
+Ayesha Raza,36,2,Bachelor,7,1,Good
+Ahmed Shah,38,28,Master,6,4,Average
+Sara Khan,55,14,Master,8,16,Average
+Sara Chaudhry,26,22,Master,4,9,Excellent
+Hassan Ashraf,48,22,Master,4,13,Poor
+Ahmed Qureshi,44,17,Bachelor,9,17,Average
+Fatima Khan,35,18,Master,9,0,Excellent
+Amna Shah,36,27,Bachelor,4,1,Excellent
+Ayesha Khan,54,25,Bachelor,7,3,Average
+Sara Ashraf,52,9,High School,5,12,Average
+Fatima Raza,56,3,Bachelor,4,15,Poor
+Sara Iqbal,38,1,Bachelor,9,4,Low
+Usman Raza,49,2,PhD,9,9,Good
+Sara Chaudhry,40,6,Bachelor,7,16,Poor
+Bilal Iqbal,44,15,Bachelor,4,10,Excellent
+Fatima Sheikh,53,30,Bachelor,7,4,Average
+Hassan Khan,34,9,High School,4,14,Poor
+Ali Butt,41,18,Master,5,3,Low
+Ali Raza,56,27,Bachelor,8,6,Average
+Usman Sheikh,26,16,Master,4,9,Poor
+Sara Sheikh,30,27,Master,8,3,Good
+Ali Sheikh,50,18,Bachelor,4,19,Excellent
+Zain Iqbal,27,22,Master,5,4,Outstanding
+Sara Raza,46,19,Bachelor,9,4,Good
+Amna Malik,52,12,Bachelor,8,10,Excellent
+Bilal Butt,43,12,Master,7,18,Average
+Ayesha Sheikh,23,10,Master,4,4,Average
+Sara Raza,26,14,Bachelor,9,7,Good
+Bilal Sheikh,48,16,High School,4,6,Low
+Zain Raza,46,27,High School,7,7,Low
+Ayesha Qureshi,29,18,Bachelor,5,12,Good
+Zain Butt,22,3,PhD,6,4,Outstanding
+Sara Qureshi,41,21,Bachelor,4,17,Average
+Hassan Malik,44,21,Bachelor,7,8,Average
+Fatima Shah,53,33,Master,6,1,Average
+Bilal Sheikh,32,32,Bachelor,4,15,Average
+Hassan Butt,45,32,Bachelor,8,13,Average
+Bilal Iqbal,32,11,PhD,9,16,Excellent
+Zain Shah,50,1,Master,9,5,Average
+Ahmed Butt,47,27,Master,7,2,Poor
+Usman Shah,37,9,Bachelor,8,16,Good
+Bilal Malik,56,21,Master,5,12,Average
+Ayesha Chaudhry,41,16,Bachelor,6,5,Good
+Amna Sheikh,24,25,Bachelor,7,7,Average
+Amna Sheikh,22,2,PhD,4,5,Good
+Ayesha Shah,22,6,Bachelor,9,15,Poor
+Hassan Qureshi,38,7,Master,4,5,Poor
+Hassan Qureshi,23,19,Bachelor,6,16,Average
+Bilal Iqbal,50,11,High School,8,2,Good
+Zain Butt,41,34,Master,8,11,Low
+Ali Ashraf,27,16,Bachelor,7,5,Average
+Ahmed Butt,29,27,Master,7,6,Outstanding
+Sara Sheikh,50,9,High School,8,10,Low
+Sara Khan,54,21,PhD,7,8,Good
+Usman Iqbal,24,32,Bachelor,8,15,Good
+Fatima Butt,56,21,Bachelor,6,4,Excellent
+Bilal Shah,26,12,High School,7,14,Excellent
+Bilal Ashraf,48,26,PhD,8,3,Average
+Bilal Butt,33,14,Master,7,4,Good
+Ayesha Chaudhry,41,21,Master,4,6,Average
+Ali Shah,41,29,Bachelor,9,2,Average
+Usman Malik,30,33,Bachelor,4,3,Average
+Bilal Chaudhry,25,33,High School,5,14,Average
+Ahmed Raza,40,34,Bachelor,8,1,Low
+Bilal Qureshi,59,18,Bachelor,5,4,Good
+Fatima Iqbal,48,7,PhD,8,6,Outstanding
+Hassan Ashraf,34,32,Master,9,16,Excellent
+Usman Shah,34,27,Bachelor,7,7,Low
+Bilal Raza,43,24,Bachelor,8,8,Poor
+Sara Butt,49,16,Master,4,9,Good
+Usman Ashraf,43,23,High School,7,10,Average
+Usman Sheikh,40,20,Bachelor,9,0,Good
+Ayesha Chaudhry,29,1,Bachelor,4,14,Good
+Hassan Sheikh,29,30,Bachelor,7,7,Average
+Ayesha Raza,47,32,Master,8,18,Average
+Zain Chaudhry,47,29,Bachelor,8,11,Low
+Ahmed Khan,44,11,High School,4,5,Average
+Ali Malik,34,11,Bachelor,6,9,Average
+Bilal Shah,49,23,Master,8,4,Outstanding
+Zain Malik,30,23,Bachelor,6,6,Poor
+Amna Raza,41,10,Bachelor,7,6,Low
+Bilal Sheikh,40,12,PhD,6,8,Average
+Bilal Qureshi,33,26,PhD,4,14,Average
+Ayesha Iqbal,36,7,PhD,5,5,Excellent
+Amna Shah,52,9,Master,5,15,Low
+Zain Qureshi,35,7,Bachelor,4,6,Outstanding
+Bilal Malik,32,19,Bachelor,5,14,Excellent
+Ali Chaudhry,47,7,Bachelor,4,1,Excellent
+Fatima Sheikh,48,8,Bachelor,8,7,Low
+Ayesha Raza,32,6,PhD,6,11,Average
+Bilal Qureshi,59,13,Master,5,10,Good
+Usman Sheikh,55,27,Master,8,5,Good
+Hassan Khan,40,1,Bachelor,5,19,Good
+Ali Malik,27,7,PhD,7,12,Average
+Bilal Iqbal,59,12,Master,4,15,Average
+Bilal Qureshi,49,20,Bachelor,4,7,Outstanding
+Bilal Sheikh,22,27,Master,8,16,Low
+Ahmed Ashraf,56,34,Bachelor,7,12,Poor
+Ahmed Sheikh,29,22,High School,6,3,Poor
+Sara Butt,28,14,Master,7,19,Good
+Ahmed Iqbal,32,1,Master,7,9,Poor
+Ali Butt,25,11,High School,9,19,Average
+Zain Raza,46,2,Bachelor,6,15,Average
+Ahmed Raza,33,4,PhD,6,16,Low
+Usman Sheikh,47,2,Master,7,7,Good
+Sara Qureshi,59,18,Master,5,10,Poor
+Bilal Butt,33,1,Bachelor,9,4,Average
+Zain Malik,58,16,High School,5,15,Average
+Ahmed Malik,45,13,Bachelor,7,7,Average
+Ayesha Malik,37,27,Bachelor,5,15,Average
+Bilal Malik,34,26,Bachelor,6,3,Excellent
+Ayesha Malik,46,9,Bachelor,6,5,Excellent
+Fatima Khan,25,2,Bachelor,5,7,Average
